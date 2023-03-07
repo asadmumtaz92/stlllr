@@ -469,7 +469,8 @@
 								</div>
 							</div>
 							<div class="col-12 col-lg-6 order-1 order-lg-2 mb-4 mb-lg-0">
-								<p>Aesthetic helvetica cred ennui hella subway tile. Migas hexagon actually street art, chia truffaut food truck meh letterpress flexitarian vegan hot chicken kombucha cred. Chartreuse normcore fashion axe, fanny pack keffiyeh single-origin coffee snackwave banh mi 8-bit beard. Waistcoat try-hard green juice taiyaki synth cornhole.</p>
+								<p>Aesthetic helvetica cred ennui hella subway tile. Migas hexagon actually street art, chia truffaut food
+									 truck meh letterpress flexitarian vegan hot chicken kombucha cred. Chartreuse normcore fashion axe, fanny pack keffiyeh single-origin coffee snackwave banh mi 8-bit beard. Waistcoat try-hard green juice taiyaki synth cornhole.</p>
 							</div>
 						</div>
 						<div class="row mt-2">
@@ -1342,7 +1343,7 @@
 	<script src="assets/js/form.js"></script> -->
 
 	<!-- Main Theme JS File -->
-	<script src="assets/js/theme.js"></script>
+	<script src="assets/js/theme.js"></script>  
 
 	<!-- Theme Preview Only Scripts -->
 	<script src="assets/vendor/spectrum/spectrum.min.js"></script>

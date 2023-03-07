@@ -57,16 +57,8 @@
 <body class="sk__content-sections-page dark-shade-1-bg">
 
 	<main id="primary" class="site-main">
-
-		<!-- Back to top button -->
-		<div class="sk__back-to-top-wrap">
-			<a class="sk__back-to-top" href="#smooth-content"><span class="sk__back-to-top"></span></a>
+	<?php  include_once("includes/header.php") ?>
 		</div>
-
-		<!-- Navigation Menu
-		================================================== -->
-		<div class="sk__mobile-menu-bar"></div>
-
 		<!-- Dynamically controlled with JS! -->
 		<a class="sk__mobile-main-logo" href="#"><img alt="Website logo." src="assets/images/logo-normal.png"></a>
 
@@ -77,12 +69,6 @@
 
 			<!-- The Menu -->
 			<ul class="navbar-nav ms-auto">
-
-				<!-- Mobile Menu Logo (only use if "close" buttons are set to false in JS) -->
-				<li data-nav-custom-content class="custom-content sk__mobile-menu-logo"> 
-					<a class="sk__mobile-navbar-brand" href="#"><img alt="Website mobile logo." src="assets/images/logo-mobile.png"></a>
-				</li>
-
 				<!-- Regular Menu Items Start -->
 				<li class="nav-item menu-item-has-children">
 					<a class="nav-link hvr-underline-from-center" href="#">Home</a>
