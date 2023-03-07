@@ -1342,7 +1342,7 @@
 	<script src="assets/js/form.js"></script> -->
 
 	<!-- Main Theme JS File -->
-	<script src="assets/js/theme.js"></script>
+	<script src="assets/js/theme.js"></script>  
 
 	<!-- Theme Preview Only Scripts -->
 	<script src="assets/vendor/spectrum/spectrum.min.js"></script>
