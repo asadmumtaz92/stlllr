@@ -101,7 +101,7 @@
 								<section class="sk__parallax-background-section sk__hero-item-theme-style">
 									
 									<!-- Parallax background -->
-									<div class="sk__parallax-background-element sk__absolute sk__image-back-cover" style="background-image: url(assets/images/hero-image-01.webp);"></div>
+									<!-- <div class="sk__parallax-background-element sk__absolute sk__image-back-cover" style="background-image: url(logo-normal.pnghttps://cdn.dribbble.com/users/3952637/screenshots/10974983/app_screens_0_4x.png);"></div> -->
 
 									<div class="flex-helper-div"></div>
 									

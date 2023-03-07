@@ -57,17 +57,9 @@
 <body class="sk__homepage sk__home-portfolio dark-shade-1-bg">
 
 	<main id="primary" class="site-main">
-	<?php  include_once("includes/header.php") ?>
 
+		<?php  include_once("includes/header.php") ?>
 
-		<!-- Master Curtain Effect -->
-		<section class="sk__master-curtain">
-			<div class="mcurtain mcurtain-left"></div>
-			<div class="mcurtain mcurtain-center"></div>
-			<div class="mcurtain mcurtain-right"></div>
-		</section>
-
-		
 		<div id="smooth-wrapper" class="pushable-content">
 			<div id="smooth-content">
 

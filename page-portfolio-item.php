@@ -57,16 +57,11 @@
 <body class="sk__portfolio-item-page dark-shade-1-bg">
 
 	<main id="primary" class="site-main">
-	<?php  include_once("includes/header.php") ?>
 
-		<!-- Master Curtain Effect -->
-		<!-- <section class="sk__master-curtain">
-			<div class="mcurtain mcurtain-left dark-shade-4-bg"></div>
-			<div class="mcurtain mcurtain-center dark-shade-4-bg"></div>
-			<div class="mcurtain mcurtain-right dark-shade-4-bg"></div>
-		</section> -->
+		<?php  include_once("includes/header.php") ?>
 
-
+		<div id="smooth-wrapper" class="pushable-content">
+			<div id="smooth-content">
 				<!-- Project Header Section
 				================================================== -->
 				<section class="sk__project-header sk__full-height sk__flex-center-y sk__parallax-background-section sk__parallax-fixer-section">
@@ -149,7 +144,6 @@
 				</section>
 				<!-- /.sk__project-header -->
 
-
 				<!-- Project Body Section
 				================================================== -->
 				<section class="sk__project-body">
@@ -193,7 +187,6 @@
 				</section>
 				<!-- /.sk__project-body -->
 
-
 				<!-- Project Parallax Gallery
 				================================================== -->
 				<section class="sk__project-gallery sk__parallax-chain">
@@ -234,7 +227,6 @@
 				</section>
 				<!-- /.sk__project-gallery -->
 
-
 				<!-- CTA Section (Warp CTA)
 				================================================== -->
 				<section class="sk__cta-warp position-relative sk__image-back-cover">
@@ -250,7 +242,6 @@
 						</div>
 					</div>
 				</section>
-					
 					
 				<!-- Contact Us Section
 				================================================== -->
@@ -318,11 +309,9 @@
 				</section>
 				<!-- /.sk__contact-us -->
 
-
 				<!-- Footer
 				================================================== -->
 				<?php  include_once("includes/footer.php") ?>
-
 
 				<!-- Helper div for inserting before scripts
 				================================================== -->
@@ -336,7 +325,6 @@
 
 	</main>
 	<!-- /main#primary.site-main -->
-
 
 	<!-- Scripts / Body End
 	================================================== -->

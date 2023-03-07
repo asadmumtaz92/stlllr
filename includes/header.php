@@ -2,39 +2,37 @@
 
 	echo '
 		<!-- Master Curtain Effect -->
-		<section class="sk__master-curtain">
+		<!--section class="sk__master-curtain">
 			<div class="mcurtain mcurtain-left"></div>
 			<div class="mcurtain mcurtain-center"></div>
 			<div class="mcurtain mcurtain-right"></div>
-		</section>
-		
-		
+		</section-->
+
 		<!-- Back to top button -->
 		<div class="sk__back-to-top-wrap">
 			<a class="sk__back-to-top" href="#smooth-content"><span class="sk__back-to-top"></span></a>
 		</div>
-		
-		<!-- Navigation Menu ================================================== -->
+
+		<!-- Navigation Menu -->
 		<div class="sk__mobile-menu-bar"></div>
 
 		<!-- Mobile Menu Logo -->
-		<a class="sk__mobile-main-logo" href="#"><img alt="Website logo." src="assets/logo/logo_white.png"></a>
-		
+		<a class="sk__mobile-main-logo" href="#" style="margin-left: 10px"><img alt="Website logo." src="assets/logo/logo_white.png"></a>
+
 		<nav id="main-nav" style="opacity: 0;" class="sk__menu navbar sk__navbar navbar-expand-lg navbar-dark static-top">
-		
+
 			<!-- Desktop Menu Logo -->
-			<a class="navbar-brand" href="#"><img id="sk__main-logo" alt="Website logo."
-					src="assets/logo/logo_white.png"></a>
-		
+			<a class="navbar-brand" href="#" style="margin-left: 10px"><img id="sk__main-logo" alt="Website logo." src="assets/logo/logo_white.png"></a>		
 			<!-- The Menu -->
 			<ul class="navbar-nav ms-auto">
-		
+
 				<!-- Mobile Menu Logo (only use if "close" buttons are set to false in JS) -->
 				<li data-nav-custom-content class="custom-content sk__mobile-menu-logo">
-					<a class="sk__mobile-navbar-brand" href="#"><img alt="Website mobile logo."
-							src="assets/logo/logo_white.png"></a>
+					<a class="sk__mobile-navbar-brand" href="#">
+						<img alt="Website mobile logo." src="assets/logo/logo_white.png">
+					</a>
 				</li>
-		
+
 				<!-- Regular Menu Items Start -->
 				<li class="nav-item menu-item-has-children">
 					<a class="nav-link hvr-underline-from-center" href="#">Home</a>
@@ -75,7 +73,7 @@
 										class="icon-codepen1"></span></span>Combo Slider (Light)</a></li>
 					</ul>
 				</li>
-		
+
 				<li class="nav-item menu-item-has-children">
 					<a class="nav-link hvr-underline-from-center" href="#">Pages</a>
 					<ul class="sk__submenu-ul">
@@ -114,7 +112,7 @@
 									class="sk__menu-icon"><span class="icon-shield"></span></span>Privacy Policy</a></li>
 					</ul>
 				</li>
-		
+
 				<li class="nav-item menu-item-has-children">
 					<a class="nav-link hvr-underline-from-center" href="#"><span class="sk__menu-icon"><span
 								class="icon-th"></span></span>Elements</a>
