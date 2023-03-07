@@ -106,10 +106,10 @@
 
 						<div class="row footer-bottom">
 							<div class="col-xs-12 col-sm-6 col-md-4 text-center text-sm-start">
-								<h5>Skilltech Dark&#8198;star Web</h5>
+								<h5>StlllR</h5>
 							</div>
 							<div class="col-12 col-md-4 order-xs-3 order-sm-3 order-md-2 text-center text-sm-start text-md-center">
-								<p class="p-footer-copyright">Copyright © 2022    <a href="http://www.skilltechwebdesign.com/" target="_blank">SkilltechWebDesign.com</a></p>
+								<p class="p-footer-copyright">Copyright © 2022    <a href="http://www.skilltechwebdesign.com/" target="_blank">stlllr.com</a></p>
 							</div>
 							<div class="col-xs-12 col-sm-6 col-md-4 order-sm-2 order-md-3 text-center text-sm-end">
 								<a class="footer-bottom-right-links" href="#" target="_blank">Privacy</a>
