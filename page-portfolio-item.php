@@ -66,9 +66,6 @@
 			<div class="mcurtain mcurtain-right dark-shade-4-bg"></div>
 		</section> -->
 
-		<!-- Dynamically controlled with JS! -->
-		<a class="sk__mobile-main-logo" href="#"><img alt="Website logo." src="assets/images/logo-normal.png"></a>
-
 
 				<!-- Project Header Section
 				================================================== -->

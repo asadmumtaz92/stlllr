@@ -56,8 +56,6 @@
 	<main id="primary" class="site-main">
 	<?php  include_once("includes/header.php") ?>
 
-		<!-- Dynamically controlled with JS! -->
-		<a class="sk__mobile-main-logo" href="#"><img alt="Website logo." src="assets/images/logo-normal.png"></a>
 
 		
 		<div id="smooth-wrapper" class="pushable-content">
