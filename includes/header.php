@@ -32,7 +32,7 @@
 				<!-- Mobile Menu Logo (only use if "close" buttons are set to false in JS) -->
 				<li data-nav-custom-content class="custom-content sk__mobile-menu-logo">
 					<a class="sk__mobile-navbar-brand" href="#"><img alt="Website mobile logo."
-							src="../assets/images/logo-mobile.png"></a>
+							src="assets/logo/logo_white.png"></a>
 				</li>
 		
 				<!-- Regular Menu Items Start -->

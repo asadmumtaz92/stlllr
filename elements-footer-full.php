@@ -57,15 +57,8 @@
 <body class="sk__footer-full-page dark-shade-1-bg">
 
 	<main id="primary" class="site-main">
-
-		<!-- Back to top button -->
-		<div class="sk__back-to-top-wrap">
-			<a class="sk__back-to-top" href="#smooth-content"><span class="sk__back-to-top"></span></a>
-		</div>
-
-		<!-- Navigation Menu
-		================================================== -->
-		<div class="sk__mobile-menu-bar"></div>
+	<?php  include_once("includes/header.php") ?>
+	
 
 		<!-- Dynamically controlled with JS! -->
 		<a class="sk__mobile-main-logo" href="#"><img alt="Website logo." src="assets/images/logo-normal.png"></a>
