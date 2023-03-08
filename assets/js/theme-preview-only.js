@@ -4,50 +4,6 @@
 
 $('body').append(' ' +
 '<!-- CSS/JS Change Colors Menu / Theme Preview Only -->' +
-	'<div class="styler-trigger-cover"></div>' +
-	'<div class="color-styler-wrapper">' +
-		'<div class="color-styler">' +
-			'<div class="gear styler-trigger">' +
-				'<span class="icon-gear custom-spin"></span>' +
-			'</div>' +
-			'<div class="styler-menu-scroll-wrapper">' +
-				'<div class="styler-menu-scroll-scroller">' +
-					'<div class="styler-menu">' +
-						'<header>' +
-							'<h5 class="styler-title">Choose Your Colors</h5>' +
-						'</header>' +
-						'<main>' +
-							'<!-- <h6 style="color: #dedede; font-size: 1.2rem">Choose Your Colors</h6> -->' +
-							'<ul class="color-inputs">' +
-								'<li>' +
-									'<label>Theme Color 1</label>' +
-									'<input id="theme-color-master" value="#8115ff" name="theme-color-master"/>' +
-								'</li>' +
-								'<li>' +
-									'<label>Theme Color 2</label>' +
-									'<input id="theme-color-master-b" value="#FF2AD0" name="theme-color-master-b"/>' +
-								'</li>' +
-								'<li>' +
-									'<label>Theme Color 3</label>' +
-									'<input id="theme-color-master-c" value="#ff8f2a" name="theme-color-master-c"/>' +
-								'</li>' +
-								'<li>' +
-									'<label>Theme Color 4</label>' +
-									'<input id="theme-color-master-d" value="#ffa911" name="theme-color-master-d"/>' +
-								'</li>' +
-							'</ul>' +
-						'</main>' +
-						'<div class="styler-footer">' +
-							'<!-- Button trigger modal -->' +
-							'<a id="getCSSLauncher" href="#" class="btn btn-outline-light mb-3" data-bs-toggle="modal" data-bs-target="#codeModal">GET CSS</a>' +
-							'<a href="https://1.envato.market/qn6L9N" class="btn btn-gradient-outline-hard" target="_blank">BUY NOW</a>' +
-						'</div>' +
-					'</div><!-- /.styler-menu -->' +
-				'</div><!-- /.styler-menu-scroll-scroller -->' +
-			'</div><!-- /.styler-menu-scroll-wrapper -->' +
-		'</div><!-- /.color-styler -->' +
-	'</div><!-- /.color-styler-wrapper -->' +
-'' +
 	'<!-- Modal / Theme Preview Only -->' +
 	'<div class="modal fade" id="codeModal" tabindex="-1" role="dialog" aria-labelledby="codeModalLabel" aria-hidden="true">' +
 		'<div class="modal-dialog" role="document" style="width: 960px; max-width: 90%;">' +

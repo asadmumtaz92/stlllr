@@ -3636,6 +3636,9 @@ img {
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
+	/* Add the blur effect */
+	filter: blur(0.5px);
+	-webkit-filter: blur(0.5px);	
 }
 
 /* Set background image as contain and center it */
