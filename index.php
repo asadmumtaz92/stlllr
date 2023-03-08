@@ -241,7 +241,7 @@
 						</div>
 						<div class="row pt-4 pb-3">
 							<div class="col-12 col-lg-6 col-xl-5 sk__flex-center mb-4 my-lg-3 my-xl-0 px-lg-0 custom-about-number-col">
-								<p class="p-xs custom-about-us-p2 text-center text-sm-end mb-4 mb-sm-0">Salvia vape blue bottle bespoke wolf celiac quinoa cloud bread letterpress hammock photo booth. Palo santo vexillologist venmo shaman pitch tote bag.</p><span class="about-number text-center text-sm-start">3918</span>
+								<p class="p-xs custom-about-us-p2 text-center text-sm-end mb-4 mb-sm-0">Successful companies need well thought-out concepts. Together we bring your ideas to life, create distinctive brands and ensure consistency in your public image.</p><span class="about-number text-center text-sm-start">365/24</span>
 							</div>
 							<div class="col-12 col-lg-6 col-xl-7 sk__flex-center custom-about-divider-col">
 								<span class="divider"></span>
@@ -254,8 +254,7 @@
 								</div>
 							</div>
 							<div class="col-12 col-lg-6 order-1 order-lg-2 mb-4 mb-lg-0">
-								<p>Aesthetic helvetica cred ennui hella subway tile. Migas hexagon actually street art, chia truffaut food
-									 truck meh letterpress flexitarian vegan hot chicken kombucha cred. Chartreuse normcore fashion axe, fanny pack keffiyeh single-origin coffee snackwave banh mi 8-bit beard. Waistcoat try-hard green juice taiyaki synth cornhole.</p>
+								<p>Your project is not just designed and developed by us. We work with you in order to strategize and identify the finest solutions adapted to your individual requirements, all the while accepting input consistently throughout the process</p>
 							</div>
 						</div>
 						<div class="row mt-2">
@@ -275,7 +274,7 @@
 					<div class="container-fluid">
 						<div class="row text-center">
 							<div class="col sk__heading-spacer-l">
-								<h1 class="h1-small trigger-portfolio-thumbs-entrance">Portfolio</h1>
+								<h1 class="h1-small trigger-portfolio-thumbs-entrance">Services</h1>
 							</div>
 						</div>
 
@@ -290,8 +289,8 @@
 											</div>
 											<div class="sk__portfolio-thumblink-image sk__image-back-cover" style="background-image: url('assets/images/portfolio-thumbs-01.webp');"></div>
 											<div class="portfolio-thumb-info">
-												<h6>Photography</h6>
-												<h4 class="h4-small">Seventh Culture</h4>
+												<h6>WordPress</h6>
+												<h4 class="h4-small">Development</h4>
 												<p>View Project</p>
 											</div>
 										</a>
@@ -304,8 +303,8 @@
 											</div>
 											<div class="sk__portfolio-thumblink-image sk__image-back-cover" style="background-image: url('assets/images/portfolio-thumbs-02.webp');"></div>
 											<div class="portfolio-thumb-info">
-												<h6>Photography</h6>
-												<h4 class="h4-small">Charcoal Fashion</h4>
+												<h6>Mobile App</h6>
+												<h4 class="h4-small">Development</h4>
 												<p>View Project</p>
 											</div>
 										</a>
@@ -318,8 +317,8 @@
 											</div>
 											<div class="sk__portfolio-thumblink-image sk__image-back-cover" style="background-image: url('assets/images/portfolio-thumbs-03.webp');"></div>
 											<div class="portfolio-thumb-info">
-												<h6>Photography</h6>
-												<h4 class="h4-small">Spirited Culture</h4>
+												<h6>Admin Panel</h6>
+												<h4 class="h4-small">Development</h4>
 												<p>View Project</p>
 											</div>
 										</a>
@@ -332,8 +331,8 @@
 											</div>
 											<div class="sk__portfolio-thumblink-image sk__image-back-cover" style="background-image: url('assets/images/portfolio-thumbs-04.webp');"></div>
 											<div class="portfolio-thumb-info">
-												<h6>Photography</h6>
-												<h4 class="h4-small">Blackened Technics</h4>
+												<h6>Social Media Marketing</h6>
+												<h4 class="h4-small">Development</h4>
 												<p>View Project</p>
 											</div>
 										</a>
@@ -346,8 +345,8 @@
 											</div>
 											<div class="sk__portfolio-thumblink-image sk__image-back-cover" style="background-image: url('assets/images/portfolio-thumbs-05.webp');"></div>
 											<div class="portfolio-thumb-info">
-												<h6>Photography</h6>
-												<h4 class="h4-small">Project Vulcan</h4>
+												<h6>UI/UX</h6>
+												<h4 class="h4-small">Development</h4>
 												<p>View Project</p>
 											</div>
 										</a>
@@ -398,7 +397,7 @@
 									</div>
 								</div>
 								<div class="flex-child sk__featured-project-infos sk__solid-menu-bar">
-									<h1 class="super-heading sk__clipped-text sk__gradient-back-v1 mb-sm-1">featured<span class="heading-deco">.-></span></h1>
+									<h1 class="super-heading sk__clipped-text sk__gradient-back-v1 mb-sm-1">Additional Service<span class="heading-deco">.</span></h1>
 									<h2 class="h2-regular">Portfolio <strong>Design</strong> Project</h2>
 									<p class="mw-440">Salvia vape blue bottle bespoke wolf celiac quinoa cloud bread letterpress hammock photo booth. Palo santo vexillologist venmo shaman pitchfork tote bag.</p>
 									<a class="btn btn-outline-light mt-3" href="#" role="button">OPEN PROJECT</a>
@@ -413,141 +412,6 @@
 
 
 
-				<!-- Features Section
-				================================================== -->
-				<section class="sk__features-section sk__py-s dark-shade-3-bg text-center text-sm-start">
-					<div class="container sk__supercontainer">
-						<div class="row sk__heading-spacer-s">
-							<div class="col">
-								<h4 class="h4-shadow">features.</h4>
-								<span class="fat-divider dark-shade-4-bg"></span>
-							</div>
-						</div>
-						<div class="row sk__features">
-							<div class="col-x1-12 col-sm-6 col-md-4 sk__feature-col">
-								<div class="sk__feature">
-									<h5>There are no boundaries.</h5>
-									<div class="colorline-deco">
-										<div class="colorline-deco-normal sk__absolute"></div>
-										<div class="colorline-deco-hover sk__absolute sk__gradient-back-v1"></div>
-									</div>
-									<p>Salvia vape blue bottle bespoke wolf celiac quinoa cloud bread letterpress hammock photo booth. Palo santo vexillologist venmo shaman.</p>
-								</div>
-							</div>
-							<div class="col-x1-12 col-sm-6 col-md-4 sk__feature-col">
-								<div class="sk__feature">
-									<h5>There are no boundaries.</h5>
-									<div class="colorline-deco">
-										<div class="colorline-deco-normal sk__absolute"></div>
-										<div class="colorline-deco-hover sk__absolute sk__gradient-back-v1"></div>
-									</div>
-									<p>Salvia vape blue bottle bespoke wolf celiac quinoa cloud bread letterpress hammock photo booth. Palo santo vexillologist venmo shaman.</p>
-								</div>
-							</div>
-							<div class="col-x1-12 col-sm-6 col-md-4 sk__feature-col">
-								<div class="sk__feature">
-									<h5>There are no boundaries.</h5>
-									<div class="colorline-deco">
-										<div class="colorline-deco-normal sk__absolute"></div>
-										<div class="colorline-deco-hover sk__absolute sk__gradient-back-v1"></div>
-									</div>
-									<p>Salvia vape blue bottle bespoke wolf celiac quinoa cloud bread letterpress hammock photo booth. Palo santo vexillologist venmo shaman.</p>
-								</div>
-							</div>
-							<div class="col-x1-12 col-sm-6 col-md-4 sk__feature-col">
-								<div class="sk__feature">
-									<h5>There are no boundaries.</h5>
-									<div class="colorline-deco">
-										<div class="colorline-deco-normal sk__absolute"></div>
-										<div class="colorline-deco-hover sk__absolute sk__gradient-back-v1"></div>
-									</div>
-									<p>Salvia vape blue bottle bespoke wolf celiac quinoa cloud bread letterpress hammock photo booth. Palo santo vexillologist venmo shaman.</p>
-								</div>
-							</div>
-							<div class="col-x1-12 col-sm-6 col-md-4 sk__feature-col">
-								<div class="sk__feature">
-									<h5>There are no boundaries.</h5>
-									<div class="colorline-deco">
-										<div class="colorline-deco-normal sk__absolute"></div>
-										<div class="colorline-deco-hover sk__absolute sk__gradient-back-v1"></div>
-									</div>
-									<p>Salvia vape blue bottle bespoke wolf celiac quinoa cloud bread letterpress hammock photo booth. Palo santo vexillologist venmo shaman.</p>
-								</div>
-							</div>
-							<div class="col-x1-12 col-sm-6 col-md-4 sk__feature-col">
-								<div class="sk__feature">
-									<h5>There are no boundaries.</h5>
-									<div class="colorline-deco">
-										<div class="colorline-deco-normal sk__absolute"></div>
-										<div class="colorline-deco-hover sk__absolute sk__gradient-back-v1"></div>
-									</div>
-									<p>Salvia vape blue bottle bespoke wolf celiac quinoa cloud bread letterpress hammock photo booth. Palo santo vexillologist venmo shaman.</p>
-								</div>
-							</div>
-						</div>
-						<div class="row">
-							<div class="col sk__features-subtext">
-								<div class="features-subtext-deco"></div>
-								<p class="p-xs text-center text-sm-end features-subtext-p">Salvia vape blue bottle bespoke wolf celiac quinoa cloud bread letterpress hammock photo booth. Palo santo vexillologist venmo shaman pitchfork tote bag.</p>
-							</div>
-						</div>
-					</div>
-				</section>
-				<!-- /.sk__features-section -->
-
-
-
-				<!-- Laptop Section
-				================================================== -->
-				<section class="sk__laptop-section dark-shade-3-bg">
-					<div class="container sk__supercontainer">
-						<div class="row">
-							<div class="col sk__laptop-infos-container sk__flex-center-y sk__laptop-text-col">
-								<div class="sk__laptop-mockup-subcontainer"></div>
-								<div class="sk__laptop-infos-subcontainer">
-									<div class="sk__rectangles-laptop">
-										<!-- parallax area -->
-										<div id="sk__parallax-layers-laptop" class="sk__rectangles-laptop-parallax-layers">
-											<!-- white rectangle deco 1 -->
-											<div data-depth="1.30" class="sk__absolute">
-												<div class="sk__flex-center sk__absolute">
-													<div class="sk__rectangles">
-														<div class="sk__rectangle-white-1 sk__absolute"></div>
-													</div>
-												</div>
-											</div>
-											<!-- white rectangle deco 2 -->
-											<div data-depth="0.70" class="sk__absolute">
-												<div class="sk__flex-center sk__absolute">
-													<div class="sk__rectangles">
-														<div class="sk__rectangle-white-2 sk__absolute"></div>
-													</div>
-												</div>
-											</div>
-											<!-- black rectangle deco -->
-											<div data-depth="1.00" class="sk__absolute">
-												<div class="sk__flex-center sk__absolute">
-													<div class="sk__rectangles">
-														<div class="sk__rectangle-black sk__absolute"></div>
-													</div>
-												</div>
-											</div>
-										</div>
-										<div class="flex-child sk__laptop-infos text-center text-sm-end">
-											<h1 class="super-heading sk__clipped-text sk__gradient-back-v1 mb-sm-1"><span class="heading-deco">&lt;- </span>mockup.</h1>
-											<h2 class="h2-regular">Premium <strong>Photoshop</strong> Included</h2>
-											<p class="sk__rectangles-laptop-custom-p mw-440">Salvia vape blue bottle bespoke wolf celiac quinoa cloud bread letterpress hammock photo booth. Palo santo vexillologist venmo shaman pitchfork tote bag.</p>
-											<a class="btn btn-outline-light mt-3" href="#" role="button">OPEN PROJECT</a>
-										</div>
-									</div>	
-								</div>
-								<div class="clearfix"></div>
-							</div>
-						</div>
-					</div>
-				</section>
-
-
 
 				<!-- Services Section
 				================================================== -->
@@ -557,7 +421,7 @@
 						<div class="row text-center">
 							<div class="col sk__heading-spacer-l">
 								<div class="cover-text-wrapper">
-									<h1 class="super-heading sk__clipped-text sk__gradient-back-v1 animated-element">Services.-></h1>
+									<h1 class="super-heading sk__clipped-text sk__gradient-back-v1 animated-element">Our Future Services</h1>
 								</div>
 							</div>
 						</div>
@@ -674,16 +538,6 @@
 						</div>
 					</div>
 				</section>
-
-
-
-				<section class="sk__deco-row-section">
-					<div class="container-fluid">
-						<div class="row sk__deco-row dark-shade-7-bg dark-shade-5-border"></div>
-					</div>
-				</section>
-
-
 
 				<!-- Skills Section
 				================================================== -->
