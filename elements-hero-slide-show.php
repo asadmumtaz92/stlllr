@@ -55,7 +55,7 @@
 
 	<main id="primary" class="site-main">
 
-		<?php  include_once("includes/header.php") ?>
+		<?php include_once("includes/header.php") ?>
 		
 		<div id="smooth-wrapper" class="pushable-content">
 			<div id="smooth-content">
@@ -75,7 +75,7 @@
 						</div>
 				
 						<!-- Slides -->
-						<?php  include_once("includes/carousel.php") ?>
+						<?php include_once("includes/carousel.php") ?>
 
 						<!-- Arrows Bootstrap 5 -->
 						<button class="carousel-control-prev" type="button" data-bs-target="#sk__hero-carousel-slider" data-bs-slide="prev">
@@ -99,7 +99,7 @@
 
 				<!-- Footer
 				================================================== -->
-				<?php  include_once("includes/footer.php") ?>
+				<?php include_once("includes/footer.php") ?>
 
 				<!-- Helper div for inserting before scripts
 				================================================== -->

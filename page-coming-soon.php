@@ -57,8 +57,8 @@
 <body class="sk__coming-soon-page dark-shade-1-bg static-simple-footer">
 
 	<main id="primary" class="site-main">
-	<?php  include_once("includes/header.php") ?>
-
+	
+		<?php include_once("includes/header.php") ?>
 
 		<div class="sk__logo-no-menu sk__fade-in-3 text-center">
 			<img id="sk__main-logo" alt="Website logo." src="assets/images/logo-normal.png">
@@ -145,7 +145,7 @@
 										<div class="row">
 											<div class="col col-md-6 offset-md-3 col-xl-4 offset-xl-4 px-0">
 												<!-- Footer Social Icons Menu -->
-												<?php  include_once("includes/social-link.php") ?>
+												<?php include_once("includes/social-link.php") ?>
 											</div>
 										</div>
 									</div>

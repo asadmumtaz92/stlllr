@@ -59,16 +59,16 @@
 
 	<main id="primary" class="site-main">
 
-		<?php  include_once("includes/header.php") ?>
+		<?php include_once("includes/header.php") ?>
 
 		<div id="smooth-wrapper" class="pushable-content">
 			<div id="smooth-content">
 
 				<!-- Hero Social Icons Menu -->
-				<?php  include_once("includes/social-link.php") ?>
+				<?php include_once("includes/social-link.php") ?>
 			
 				<!-- Slider -->
-				<?php  include_once("includes/carousel.php") ?>
+				<?php include_once("includes/carousel.php") ?>
 				
 				<section class="sk__parallax-background-section sk__parallax-fixer-section sk__parallax-fixer-ignore-height overflow-hidden" style="max-height: 0;">
 					<div class="sk__parallax-background-element"></div>
@@ -842,7 +842,7 @@
 
 				<!-- Footer
 				================================================== -->
-				<?php  include_once("includes/footer.php") ?>
+				<?php include_once("includes/footer.php") ?>
 
 
 				<!-- Helper div for inserting before scripts

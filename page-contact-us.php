@@ -57,13 +57,11 @@
 <body class="sk__contact-page dark-shade-1-bg">
 
 	<main id="primary" class="site-main">
-	<?php  include_once("includes/header.php") ?>
 
+		<?php include_once("includes/header.php") ?>
 
-		
 		<div id="smooth-wrapper" class="pushable-content">
 			<div id="smooth-content">
-			
 
 				<!-- Header Section
 				================================================== -->
@@ -98,7 +96,7 @@
 							</div>
 							<div class="col-12 col-md-6 d-flex">
 								<!-- Footer Social Icons Menu -->
-								<?php  include_once("includes/social-link.php") ?>
+								<?php include_once("includes/social-link.php") ?>
 							</div>
 						</div>
 						<div class="row">
@@ -158,7 +156,7 @@
 
 				<!-- Footer
 				================================================== -->
-				<?php  include_once("includes/footer.php") ?>
+				<?php include_once("includes/footer.php") ?>
 
 
 				<!-- Helper div for inserting before scripts

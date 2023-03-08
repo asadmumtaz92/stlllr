@@ -58,15 +58,13 @@
 
 	<main id="primary" class="site-main">
 
-		<?php  include_once("includes/header.php") ?>
+		<?php include_once("includes/header.php") ?>
 		
 		<div id="smooth-wrapper" class="pushable-content">
 			<div id="smooth-content">
 
-
 				<!-- Hero Social Icons Menu -->
-				<?php  include_once("includes/social-link.php") ?>
-
+				<?php include_once("includes/social-link.php") ?>
 
 				<!-- Hero Section / Mega Text Image
 				================================================== -->
@@ -888,7 +886,7 @@
 
 				<!-- Footer
 				================================================== -->
-				<?php  include_once("includes/footer.php") ?>
+				<?php include_once("includes/footer.php") ?>
 
 				<!-- Helper div for inserting before scripts
 				================================================== -->

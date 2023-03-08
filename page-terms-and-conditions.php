@@ -57,9 +57,9 @@
 <body class="sk__service-item-page dark-shade-1-bg">
 
 	<main id="primary" class="site-main">
-	<?php  include_once("includes/header.php") ?>
+	
+		<?php include_once("includes/header.php") ?>
 
-		
 		<div id="smooth-wrapper" class="pushable-content">
 			<div id="smooth-content">
 
@@ -79,7 +79,6 @@
 
 				</section>
 				<!-- /.sk__service-1-header -->
-
 
 				<section>
 					<div class="container sk__supercontainer sk__fade-in-11 sk__py-m">
@@ -217,7 +216,7 @@
 
 				<!-- Footer
 				================================================== -->
-				<?php  include_once("includes/footer.php") ?>
+				<?php include_once("includes/footer.php") ?>
 
 
 				<!-- Helper div for inserting before scripts

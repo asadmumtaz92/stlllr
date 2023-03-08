@@ -58,7 +58,6 @@
 		<div id="smooth-wrapper" class="pushable-content">
 			<div id="smooth-content">
 
-
 				<!-- Header Section
 				================================================== -->
 				<section class="sk__article-header sk__fade-in-3 sk__pt-m">
@@ -119,7 +118,7 @@
 
 				<!-- Footer
 				================================================== -->
-				<?php  include_once("includes/footer.php") ?>
+				<?php include_once("includes/footer.php") ?>
 
 				<!-- Helper div for inserting before scripts
 				================================================== -->

@@ -57,7 +57,8 @@
 <body class="sk__fullscreen-video-page dark-shade-1-bg">
 
 	<main id="primary" class="site-main">
-		<?php  include_once("includes/header.php") ?>
+
+		<?php include_once("includes/header.php") ?>
 
 		<div id="smooth-wrapper" class="pushable-content">
 			<div id="smooth-content">
@@ -138,7 +139,7 @@
 
 				<!-- Footer
 				================================================== -->
-				<?php  include_once("includes/footer.php") ?>
+				<?php include_once("includes/footer.php") ?>
 
 
 				<!-- Helper div for inserting before scripts

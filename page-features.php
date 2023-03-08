@@ -55,14 +55,12 @@
 </head>
 
 <body class="sk__features-page dark-shade-1-bg">
-<?php  include_once("includes/header.php") ?>
 
+	<?php include_once("includes/header.php") ?>
 
 		<div id="smooth-wrapper" class="pushable-content">
 			<div id="smooth-content">
 
-
-				
 				<!-- Features Section
 				================================================== -->
 				<section class="sk__features-section sk__py-l dark-shade-3-bg text-center text-sm-start">
@@ -256,7 +254,7 @@
 
 				<!-- Footer
 				================================================== -->
-				<?php  include_once("includes/footer.php") ?>
+				<?php include_once("includes/footer.php") ?>
 
 
 				<!-- Helper div for inserting before scripts

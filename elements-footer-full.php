@@ -57,15 +57,12 @@
 <body class="sk__footer-full-page dark-shade-1-bg">
 
 	<main id="primary" class="site-main">
-	<?php  include_once("includes/header.php") ?>
-	
 
+		<?php include_once("includes/header.php") ?>
 		
 		<div id="smooth-wrapper" class="pushable-content">
 			<div id="smooth-content">
 
-				
-				
 				<!-- Header
 				================================================== -->
 				<section class="sk__parallax-header sk__animated-header sk__full-height sk__flex-center dark-shade-6-border">
@@ -91,7 +88,7 @@
 
 				<!-- Footer
 				================================================== -->
-				<?php  include_once("includes/footer.php") ?>
+				<?php include_once("includes/footer.php") ?>
 
 
 				<!-- Helper div for inserting before scripts
