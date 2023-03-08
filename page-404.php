@@ -112,17 +112,7 @@
 										<div class="row">
 											<div class="col col-md-6 offset-md-3 col-xl-4 offset-xl-4 px-0">
 												<!-- Footer Social Icons Menu -->
-												<section class="footer-socials-section mt-4">
-													<h5 class="animated-element phase-1 mb-0 mb-sm-2">Follow Us & Stay Informed</h5>
-													<div class="footer-socials-inner">
-														<div class="footer-socials animated-element phase-1 mb-0">
-															<a class="social-icons" href="https://www.facebook.com/SkilltechWebDesign" target="_blank"><span><span class="icon-facebook1"></span></span></a>
-															<a class="social-icons" href="https://www.facebook.com/SkilltechWebDesign" target="_blank"><span><span class="icon-twitter1"></span></span></a>
-															<a class="social-icons" href="https://www.facebook.com/SkilltechWebDesign" target="_blank"><span><span class="icon-behance1"></span></span></a>
-															<a class="social-icons" href="https://www.facebook.com/SkilltechWebDesign" target="_blank"><span><span class="icon-dribbble1"></span></span></a>
-														</div>
-													</div>
-												</section>
+												<?php  include_once("includes/social-link.php") ?>
 											</div>
 										</div>
 									</div>
