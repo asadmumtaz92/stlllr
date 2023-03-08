@@ -287,7 +287,7 @@
 												<div class="sk__pt-link-icon-ovr-1"></div>
 												<div class="sk__pt-link-icon-ovr-2"></div>
 											</div>
-											<div class="sk__portfolio-thumblink-image sk__image-back-cover" style="background-image: url('assets/images/portfolio-thumbs-01.webp');"></div>
+											<div class="sk__portfolio-thumblink-image sk__image-back-cover" style="background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQLNXovSPOvSX16eiqNxUyM2n9cskkQEIYYk1uHy4c6cuVfIUB);"></div>
 											<div class="portfolio-thumb-info">
 												<h6>WordPress</h6>
 												<h4 class="h4-small">Development</h4>
@@ -296,12 +296,12 @@
 										</a>
 									</div>
 									<div class="sk__portfolio-item">
-										<a href="page-portfolio-item.html" class="sk__portfolio-thumblink">
+										<a href="mobile_app_development.php" class="sk__portfolio-thumblink">
 											<div class="sk__pt-link-icon">
 												<div class="sk__pt-link-icon-ovr-1"></div>
 												<div class="sk__pt-link-icon-ovr-2"></div>
 											</div>
-											<div class="sk__portfolio-thumblink-image sk__image-back-cover" style="background-image: url('assets/images/portfolio-thumbs-02.webp');"></div>
+											<div class="sk__portfolio-thumblink-image sk__image-back-cover" style="background-image: url(https://img.freepik.com/free-vector/admin-dashboard-panel-template_23-2147900459.jpg?w=2000);"></div>
 											<div class="portfolio-thumb-info">
 												<h6>Mobile App</h6>
 												<h4 class="h4-small">Development</h4>
@@ -329,9 +329,9 @@
 												<div class="sk__pt-link-icon-ovr-1"></div>
 												<div class="sk__pt-link-icon-ovr-2"></div>
 											</div>
-											<div class="sk__portfolio-thumblink-image sk__image-back-cover" style="background-image: url('assets/images/portfolio-thumbs-04.webp');"></div>
+											<div class="sk__portfolio-thumblink-image sk__image-back-cover" style="background-image: url(https://www.pngkey.com/png/detail/86-862344_social-media-marketing-png.png);"></div>
 											<div class="portfolio-thumb-info">
-												<h6>Social Media Marketing</h6>
+												<h6 style="color:black">Social Media Marketing</h6>
 												<h4 class="h4-small">Development</h4>
 												<p>View Project</p>
 											</div>
