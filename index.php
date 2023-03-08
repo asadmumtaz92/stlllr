@@ -239,14 +239,14 @@
 								</div>
 							</div>
 						</div>
-						<!-- <div class="row pt-4 pb-3">
+						<div class="row pt-4 pb-3">
 							<div class="col-12 col-lg-6 col-xl-5 sk__flex-center mb-4 my-lg-3 my-xl-0 px-lg-0 custom-about-number-col">
 								<p class="p-xs custom-about-us-p2 text-center text-sm-end mb-4 mb-sm-0">Salvia vape blue bottle bespoke wolf celiac quinoa cloud bread letterpress hammock photo booth. Palo santo vexillologist venmo shaman pitch tote bag.</p><span class="about-number text-center text-sm-start">3918</span>
 							</div>
 							<div class="col-12 col-lg-6 col-xl-7 sk__flex-center custom-about-divider-col">
 								<span class="divider"></span>
 							</div>
-						</div> -->
+						</div>
 						<div class="row row text-center text-sm-start">
 							<div class="col-12 col-lg-6 sk__flex about-button-col order-2 order-lg-1">
 								<div class="flex-child mb-3 mb-lg-0">
@@ -264,50 +264,9 @@
 							</div>
 						</div>
 					</div>
-
-
-					<!-- Partners Section
-					================================================== -->
-					<div class="sk__partners-section">
-						<div class="container sk__supercontainer">
-							<div class="row">
-								<div class="col text-center text-sm-start">
-									<h4 class="h4-dark h4-shadow">partners.</h4>
-									<span class="fat-divider dark-shade-4-bg"></span>
-								</div>
-							</div>
-							<div class="row sk__partners m-0 d-flex justify-content-center">
-								<div class="col-xs-4 col-sm-2">
-									<div class="partner partner-1 sk__image-back-cover"></div>
-								</div>
-								<div class="col-xs-4 col-sm-2">
-									<div class="partner partner-2 sk__image-back-cover"></div>
-								</div>
-								<div class="col-xs-4 col-sm-2">
-									<div class="partner partner-3 sk__image-back-cover"></div>
-								</div>
-								<div class="col-xs-4 col-sm-2">
-									<div class="partner partner-4 sk__image-back-cover"></div>
-								</div>
-								<div class="col-xs-4 col-sm-2">
-									<div class="partner partner-5 sk__image-back-cover"></div>
-								</div>
-							</div>
-						</div>
-					</div>
-					<!-- /.sk__partners-section -->
 					
 				</section>
 				<!-- /.sk__about-us-section -->
-
-
-
-				<section class="sk__deco-row-section">
-					<div class="container-fluid">
-						<div class="row sk__deco-row dark-shade-7-bg dark-shade-5-border"></div>
-					</div>
-				</section>
-
 
 
 				<!-- Portfolio Section
@@ -319,6 +278,7 @@
 								<h1 class="h1-small trigger-portfolio-thumbs-entrance">Portfolio</h1>
 							</div>
 						</div>
+
 						<div class="row">
 							<div class="col sk__portfolio-thumbs px-sm-3 px-md-5">
 								<div class="sk__portfolio-wrapper text-center">
@@ -389,76 +349,6 @@
 												<h6>Photography</h6>
 												<h4 class="h4-small">Project Vulcan</h4>
 												<p>View Project</p>
-											</div>
-										</a>
-									</div>
-									<div class="sk__portfolio-item">
-										<a href="page-portfolio-item.html" class="sk__portfolio-thumblink">
-											<div class="sk__pt-link-icon">
-												<div class="sk__pt-link-icon-ovr-1"></div>
-												<div class="sk__pt-link-icon-ovr-2"></div>
-											</div>
-											<div class="sk__portfolio-thumblink-image sk__image-back-cover" style="background-image: url('assets/images/portfolio-thumbs-06.webp');"></div>
-											<div class="portfolio-thumb-info">
-												<h6>Photography</h6>
-												<h4 class="h4-small">Creative Culture</h4>
-												<p>View Project</p>
-											</div>
-										</a>
-									</div>
-									<div class="sk__portfolio-item">
-										<a href="page-portfolio-item.html" class="sk__portfolio-thumblink">
-											<div class="sk__pt-link-icon">
-												<div class="sk__pt-link-icon-ovr-1"></div>
-												<div class="sk__pt-link-icon-ovr-2"></div>
-											</div>
-											<div class="sk__portfolio-thumblink-image sk__image-back-cover" style="background-image: url('assets/images/portfolio-thumbs-07.webp');"></div>
-											<div class="portfolio-thumb-info">
-												<h6>Photography</h6>
-												<h4 class="h4-small">Charcoal Fashion</h4>
-												<p>View Project</p>
-											</div>
-										</a>
-									</div>
-									<div class="sk__portfolio-item">
-										<a href="page-portfolio-item.html" class="sk__portfolio-thumblink">
-											<div class="sk__pt-link-icon">
-												<div class="sk__pt-link-icon-ovr-1"></div>
-												<div class="sk__pt-link-icon-ovr-2"></div>
-											</div>
-											<div class="sk__portfolio-thumblink-image sk__image-back-cover" style="background-image: url('assets/images/portfolio-thumbs-08.webp');"></div>
-											<div class="portfolio-thumb-info">
-												<h6>Photography</h6>
-												<h4 class="h4-small">Fashion & Webdesign</h4>
-												<p>View Project</p>
-											</div>
-										</a>
-									</div>
-									<div class="sk__portfolio-item">
-										<a href="page-portfolio-item.html" class="sk__portfolio-thumblink">
-											<div class="sk__pt-link-icon">
-												<div class="sk__pt-link-icon-ovr-1"></div>
-												<div class="sk__pt-link-icon-ovr-2"></div>
-											</div>
-											<div class="sk__portfolio-thumblink-image sk__image-back-cover" style="background-image: url('assets/images/portfolio-thumbs-09.webp');"></div>
-											<div class="portfolio-thumb-info">
-												<h6>3D Modeling</h6>
-												<h4 class="h4-small">Primer Photography</h4>
-												<p>View Project</p>
-											</div>
-										</a>
-									</div>
-									<div class="sk__portfolio-item">
-										<a href="page-portfolio-item.html" class="sk__portfolio-thumblink">
-											<div class="sk__pt-link-icon">
-												<div class="sk__pt-link-icon-ovr-1"></div>
-												<div class="sk__pt-link-icon-ovr-2"></div>
-											</div>
-											<div class="sk__portfolio-thumblink-image sk__image-back-cover" style="background-image: url('assets/images/portfolio-thumbs-10.webp');"></div>
-											<div class="portfolio-thumb-info">
-												<h6>Graphic Design</h6>
-												<h4 class="h4-small">Vulture Culture</h4>
-												<p>Creative Design</p>
 											</div>
 										</a>
 									</div>
@@ -671,6 +561,7 @@
 								</div>
 							</div>
 						</div>
+
 						<div class="row sk__iconboxes-wrapper text-center sk__flex-center-x">
 							<div class="col-12 col-sm-6 col-lg-4">
 								<div class="sk__iconbox">
