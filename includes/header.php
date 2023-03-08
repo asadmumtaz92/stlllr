@@ -19,14 +19,14 @@
 		<div class="sk__mobile-menu-bar"></div>
 
 		<!-- Mobile Menu Logo -->
-		<a class="sk__mobile-main-logo" href="#" style="margin-left: 10px">
+		<a class="sk__mobile-main-logo" href="index.php" style="margin-left: 10px">
 			<img alt="Website logo." src="assets/logo/logo_white.png">
 		</a>
 
 		<nav id="main-nav" style="opacity: 0;" class="sk__menu navbar sk__navbar navbar-expand-lg navbar-dark static-top">
 
 			<!-- Desktop Menu Logo -->
-			<a class="navbar-brand" href="#" style="margin-left: 10px"><img id="sk__main-logo" alt="Website logo." src="assets/logo/logo_white.png"></a>		
+			<a class="navbar-brand" href="index.php" style="margin-left: 10px"><img id="sk__main-logo" alt="Website logo." src="assets/logo/logo_white.png"></a>		
 			<!-- The Menu -->
 			<ul class="navbar-nav ms-auto">
 

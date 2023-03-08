@@ -9,15 +9,6 @@
 					
 					<div class="container sk__supercontainer position-relative">
 
-						<div class="row footer-top">
-							<div class="col-12 col-sm-6 top-footer-logo">
-								<img src="assets/images/logo-footer.png" alt="Website logo for the footer.">
-							</div>
-							<div class="col-12 col-sm-6 top-footer-tagline">
-								<h5 class="h5-elegant">ADVANCEMENT IN <strong>DESIGN</strong></h5>
-							</div>
-						</div>
-
 						<span class="divider sk__subtle-divider"></span>
 
 						<div class="row footer-main text-center text-sm-start">

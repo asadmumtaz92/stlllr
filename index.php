@@ -887,30 +887,6 @@
 
 
 
-				<section class="sk__deco-row-section">
-					<div class="container-fluid">
-						<div class="row sk__deco-row dark-shade-7-bg dark-shade-5-border"></div>
-					</div>
-				</section>
-
-
-
-				<!-- CTA Section (Warp CTA)
-				================================================== -->
-				<section class="sk__cta-warp position-relative sk__image-back-cover">
-					<div class="container sk__powercontainer">
-						<div class="row">
-							<div class="col text-center">
-								<div class="sk__warped-text-wrapper sk__flex-center">
-									<span class="sk__warped-text">GET THEME NOW</span>
-								</div>
-								<h3><strong>BETTER DESIGN AESTHETICS</strong></h3>
-								<a class="btn btn-lg btn-outline-light sk__warped-button" href="https://1.envato.market/a1mP7Z" role="button">BUY THEME -></a>
-							</div>
-						</div>
-					</div>
-				</section>
-
 
 				<!-- Contact Us Section
 				================================================== -->
