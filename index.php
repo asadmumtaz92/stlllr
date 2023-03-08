@@ -241,7 +241,7 @@
 						</div>
 						<div class="row pt-4 pb-3">
 							<div class="col-12 col-lg-6 col-xl-5 sk__flex-center mb-4 my-lg-3 my-xl-0 px-lg-0 custom-about-number-col">
-								<p class="p-xs custom-about-us-p2 text-center text-sm-end mb-4 mb-sm-0">Successful companies need well thought-out concepts. Together we bring your ideas to life, create distinctive brands and ensure consistency in your public image.</p><span class="about-number text-center text-sm-start">365/24</span>
+								<p class="p-xs custom-about-us-p2 text-center text-sm-end mb-4 mb-sm-0">We create concepts that reflect your values, goals, and ambitions, design to be eye-catching and effective.</p><span class="about-number text-center text-sm-start">365/24</span>
 							</div>
 							<div class="col-12 col-lg-6 col-xl-7 sk__flex-center custom-about-divider-col">
 								<span class="divider"></span>
@@ -254,7 +254,7 @@
 								</div>
 							</div>
 							<div class="col-12 col-lg-6 order-1 order-lg-2 mb-4 mb-lg-0">
-								<p>Your project is not just designed and developed by us. We work with you in order to strategize and identify the finest solutions adapted to your individual requirements, all the while accepting input consistently throughout the process</p>
+								<p>We strive to build relationships with clients and to provide a high-level of customer service. We also make sure to stay up-to-date with the latest technologies and trends in order to ensure that your project is as successful as possible.</p>
 							</div>
 						</div>
 						<div class="row mt-2">
@@ -399,7 +399,7 @@
 								<div class="flex-child sk__featured-project-infos sk__solid-menu-bar">
 									<h1 class="super-heading sk__clipped-text sk__gradient-back-v1 mb-sm-1">Additional Service<span class="heading-deco">.</span></h1>
 									<h2 class="h2-regular">Portfolio <strong>Design</strong> Project</h2>
-									<p class="mw-440">Salvia vape blue bottle bespoke wolf celiac quinoa cloud bread letterpress hammock photo booth. Palo santo vexillologist venmo shaman pitchfork tote bag.</p>
+									<p class="mw-440">SEO and social media marketing are essential tools for businesses to gain visibility and reach more customers. They help increase website traffic, rankings, and interaction with customers, allowing businesses to reach a wider audience and grow their business.</p>
 									<a class="btn btn-outline-light mt-3" href="#" role="button">OPEN PROJECT</a>
 								</div>
 							</div>	
@@ -434,9 +434,9 @@
 										<span class="sk__iconbox-icon-dash"></span>
 									</a>
 									<a class="sk__iconbox-text-link gradient-links-bright" href="page-service-item.html">
-										<h5>Graphic Design</h5>
+										<h5>SEO</h5>
 									</a>
-									<p>Superior Graphic Design by best-selling authors for the best Dark HTML theme</p>
+									<p>We offer SEO services to optimize content, structure, visibility, authority, and traffic for long-term success.</p>
 								</div>
 							</div>
 							<div class="col-12 col-sm-6 col-lg-4">
@@ -446,9 +446,9 @@
 										<span class="sk__iconbox-icon-dash"></span>
 									</a>
 									<a class="sk__iconbox-text-link gradient-links-bright" href="page-service-item.html">
-										<h5>Web Design</h5>
+										<h5>E-Commerce</h5>
 									</a>
-									<p>The best Dark HTML Template, Hero Sliders, Custom Effects, Clean Code and more...</p>
+									<p>E-Commerce marketing strategies: reach customers, mobile optimization, SEO, discounts, influencers, reviews.</p>
 								</div>
 							</div>
 							<div class="col-12 col-sm-6 col-lg-4">
@@ -458,9 +458,9 @@
 										<span class="sk__iconbox-icon-dash"></span>
 									</a>
 									<a class="sk__iconbox-text-link gradient-links-bright" href="page-service-item.html">
-										<h5>Custom Effects</h5>
+										<h5>Social Media</h5>
 									</a>
-									<p>Unique, Beautiful & Custom never before seen Effects designed & crafted from scratch</p>
+									<p>Social media marketing can help increase growth and engagement by utilizing visuals, hashtags, analytics, and prompt responses.</p>
 								</div>
 							</div>
 							<div class="col-12 col-sm-6 col-lg-4">
@@ -470,9 +470,9 @@
 										<span class="sk__iconbox-icon-dash"></span>
 									</a>
 									<a class="sk__iconbox-text-link gradient-links-bright" href="page-service-item.html">
-										<h5>Greensock Included</h5>
+										<h5>Website Content</h5>
 									</a>
-									<p>$200 per year added value, with premium GreenSock GSAP library included for free</p>
+									<p>Creating a website with quality content, a simple design, SEO, user-friendly design, social media and regular updates will help it stand out.</p>
 								</div>
 							</div>
 							<div class="col-12 col-sm-6 col-lg-4">
@@ -482,9 +482,9 @@
 										<span class="sk__iconbox-icon-dash"></span>
 									</a>
 									<a class="sk__iconbox-text-link gradient-links-bright" href="page-service-item.html">
-										<h5>Perfect Demos</h5>
+										<h5>Advertising Marketing</h5>
 									</a>
-									<p>Designs ready for real-world use, have an awesome looking website done within a day!</p>
+									<p> Advertising Market creation services can maximize online presence, create targeted campaigns and provide insights for better results.</p>
 								</div>
 							</div>
 							<div class="col-12 col-sm-6 col-lg-4">
@@ -494,9 +494,9 @@
 										<span class="sk__iconbox-icon-dash"></span>
 									</a>
 									<a class="sk__iconbox-text-link gradient-links-bright" href="page-service-item.html">
-										<h5>Fastest Loading</h5>
+										<h5>Logo Design</h5>
 									</a>
-									<p>Perfect balance between effects and fast load, the theme comes optimized & ready!</p>
+									<p>We create professional logo for websites, branding, marketing materials, and customer experiences to help businesses succeed.</p>
 								</div>
 							</div>
 							<div class="col-12 col-sm-6 col-lg-4">
@@ -548,42 +548,49 @@
 						<div class="row sk__heading-spacer-l">
 							<div class="col-12 col-xl-10 offset-xl-1 text-center">
 								<h1 class="h1-small mb-3 pt-4 pb-1">Our Focus</h1>
-								<p class="p-v2 skills-subhead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.</p>
+								<p class="p-v2 skills-subhead">Creating visually appealing and user-friendly websites that meet clients' needs and goals</p>
 							</div>
 						</div>
 
 						<div class="row sk__skills-row">
 							<div class="col-12">
 								<div class="sk__skill-wrap">
-									<p class="sk__skill-name sk__skill-el">Quality Brand Building</p>
+									<p class="sk__skill-name sk__skill-el">Website Design and Development</p>
 									<div class="sk__skill-area sk__skill-el">
 										<div class="sk__skill-bar sk__gradient-back-v1"></div>
 									</div>
 									<p class="sk__skill-number sk__skill-el"><span class="sk__counterskills">75</span><span>%</span></p>
 								</div>
 								<div class="sk__skill-wrap">
-									<p class="sk__skill-name sk__skill-el">Graphic & Web Design</p>
+									<p class="sk__skill-name sk__skill-el">UI/UX Design</p>
+									<div class="sk__skill-area sk__skill-el">
+										<div class="sk__skill-bar sk__gradient-back-v1"></div>
+									</div>
+									<p class="sk__skill-number sk__skill-el"><span class="sk__counterskills">75</span><span>%</span></p>
+								</div>
+								<div class="sk__skill-wrap">
+									<p class="sk__skill-name sk__skill-el">Mobile Optimization</p>
 									<div class="sk__skill-area sk__skill-el">
 										<div class="sk__skill-bar sk__gradient-back-v1"></div>
 									</div>
 									<p class="sk__skill-number sk__skill-el"><span class="sk__counterskills">80</span><span>%</span></p>
 								</div>
 								<div class="sk__skill-wrap">
-									<p class="sk__skill-name sk__skill-el">Marketing & Social</p>
+									<p class="sk__skill-name sk__skill-el">E-Commerce Solutions</p>
 									<div class="sk__skill-area sk__skill-el">
 										<div class="sk__skill-bar sk__gradient-back-v1"></div>
 									</div>
 									<p class="sk__skill-number sk__skill-el"><span class="sk__counterskills">50</span><span>%</span></p>
 								</div>
 								<div class="sk__skill-wrap">
-									<p class="sk__skill-name sk__skill-el">Video Production</p>
+									<p class="sk__skill-name sk__skill-el">Custom Web Application</p>
 									<div class="sk__skill-area sk__skill-el">
 										<div class="sk__skill-bar sk__gradient-back-v1"></div>
 									</div>
 									<p class="sk__skill-number sk__skill-el"><span class="sk__counterskills">70</span><span>%</span></p>
 								</div>
 								<div class="sk__skill-wrap">
-									<p class="sk__skill-name sk__skill-el">Talent Casting</p>
+									<p class="sk__skill-name sk__skill-el">WordPress</p>
 									<div class="sk__skill-area sk__skill-el">
 										<div class="sk__skill-bar sk__gradient-back-v1"></div>
 									</div>
