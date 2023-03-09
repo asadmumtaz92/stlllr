@@ -107,13 +107,13 @@
 						<section class="sk__parallax-background-section sk__hero-item-theme-style">
 									
 							<!-- Parallax background -->
-							<div class="sk__parallax-background-element sk__absolute sk__image-back-cover" style="background-image: url(assets/carousel_images/coding-picsss.webp);"></div>
+							<div class="sk__parallax-background-element sk__absolute sk__image-back-cover" style="background-image: url(assets/carousel_images/adminpanel.webp);"></div>
 							<div class="flex-helper-div"></div>
 									
 							<!-- Main hero heading -->
 							<div class="hero-h1-box">
 								<div class="cover-text-wrapper">
-									<h1 class="hero-h1 animated-element phase-1 text-center text-md-start text-black">Premium<br /> Effects<br /> Included</h1>
+									<h1 class="hero-h1 animated-element phase-1 text-center text-md-start text-white">Premium<br /> Effects<br /> Included</h1>
 								</div>
 							</div>
 							<!-- Bottom Left box -->
