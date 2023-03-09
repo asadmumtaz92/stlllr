@@ -15,7 +15,7 @@
 
 	<meta property="og:site_name" content="SkilltechWebDesign.com"/>
 
-	<title>DarkStar | Home</title>         
+	<title>StlllR Home</title>         
 	
 
 	<link rel="icon" href="favicon.ico" type="image/x-icon">
