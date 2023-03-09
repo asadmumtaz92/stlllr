@@ -21,10 +21,10 @@
 								<p class="p-v2 mw-440"><span>1000 Park Avenue Manhattan, </span><span>NY 10001, </span><span>+1 (0) 212 555-0475 </span><br /><span>info@website.com</span></p>
 							</div>
 							<div class="col-sm-12 col-md-6 col-lg-3 footer-main-small-col widget_nav_menu">
-								<h5>Skilltech Dark&#8198;star Web</h5>
+								<h5>StlllR Web</h5>
 								<ul>
 									<li>
-										<a href="#" class="footer-main-links gradient-links">About Dark&#8198;star Theme</a>
+										<a href="#" class="footer-main-links gradient-links">About StlllR Theme</a>
 									</li>
 									<li>
 										<a href="#" class="footer-main-links gradient-links">Portfolio & Works</a>

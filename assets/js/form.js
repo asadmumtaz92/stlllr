@@ -1,5 +1,5 @@
 /**
- * FORM SETUP - DARKSTAR THEME - DELIVERY
+ * FORM SETUP - StlllR THEME - DELIVERY
  * --------------------------------------
  * NOTE: This is the adaptation of the original code.
  * What is this: A JS initialization of the forms
@@ -29,24 +29,24 @@ var contactFormID = "contact-form-1";
 var contactForm = document.getElementById( contactFormID );
 if ( contactForm ) {
     var simple_form_contact = new SimpleForms( "#" + contactFormID, {
-        action: "assets/vendor/simple-forms/sendmail.php", // (!!Don't change in DarkStar) set form action attribute, default value: simple-forms/sendmail.php
+        action: "assets/vendor/simple-forms/sendmail.php", // (!!Don't change in StlllR) set form action attribute, default value: simple-forms/sendmail.php
         lang: "en",                          // language for error/info strings
-        theme: "faded-dark",                 // (!!Don't change in DarkStar) form color theme, options: white | dark | purple | red | green | blue | faded-light | faded-dark
-        style: "none",                       // (!!Don't change in DarkStar) was fieldsStyle: "default" // form fields style, options: none | underline | classic | classic-rounded | modern | modern-rounded
-        ajaxSubmit: true,                    // (!!Don't change in DarkStar) send form using AJAX (no page reload)
-        validate: true,                      // (!!Don't change in DarkStar) enable form fields validation
-        validateOnKeyup: true,               // (!!Don't change in DarkStar) validate form fields On KeyUp Event
-        browserValidation: false,            // (!!Don't change in DarkStar) use browser validation
-        tooltips: true,                      // (!!Don't change in DarkStar) show validation errors as tooltips, if false will show errors as strings bellow the field
-        showErrors: true,                    // (!!Don't change in DarkStar) show validation errors
-        responseOverlay: false,              // NEW (!!Don't change in DarkStar) show errors in overlay (cover the form)
-        focusErrorFields: true,              // NEW (!!Don't change in DarkStar) focus error fields on form submit
+        theme: "faded-dark",                 // (!!Don't change in StlllR) form color theme, options: white | dark | purple | red | green | blue | faded-light | faded-dark
+        style: "none",                       // (!!Don't change in StlllR) was fieldsStyle: "default" // form fields style, options: none | underline | classic | classic-rounded | modern | modern-rounded
+        ajaxSubmit: true,                    // (!!Don't change in StlllR) send form using AJAX (no page reload)
+        validate: true,                      // (!!Don't change in StlllR) enable form fields validation
+        validateOnKeyup: true,               // (!!Don't change in StlllR) validate form fields On KeyUp Event
+        browserValidation: false,            // (!!Don't change in StlllR) use browser validation
+        tooltips: true,                      // (!!Don't change in StlllR) show validation errors as tooltips, if false will show errors as strings bellow the field
+        showErrors: true,                    // (!!Don't change in StlllR) show validation errors
+        responseOverlay: false,              // NEW (!!Don't change in StlllR) show errors in overlay (cover the form)
+        focusErrorFields: true,              // NEW (!!Don't change in StlllR) focus error fields on form submit
         debug: true,                         // enable debugging mode (will show errors in browser console)
-        hideFormAfterSubmit: false,          // (!!Don't change in DarkStar) hide the form after submit
+        hideFormAfterSubmit: false,          // (!!Don't change in StlllR) hide the form after submit
         customSuccessMessage: "",            // overwrite server response with a custom message
-        formCSS: "",                         // (!!Don't change in DarkStar) add css styles to the form, example: box-shadow: none;
+        formCSS: "",                         // (!!Don't change in StlllR) add css styles to the form, example: box-shadow: none;
         files: {
-            enabled: false,                  // (!!Don't change in DarkStar) enable files uploading
+            enabled: false,                  // (!!Don't change in StlllR) enable files uploading
             extensions: "jpg jpeg svg png",                              // allowed extensions
             min: 0,                                                      // min required files count
             max: 10,                                                     // max allowed files count
@@ -54,11 +54,11 @@ if ( contactForm ) {
             filesUploadHandler: "simple-forms/files-upload-handler.php", // WAS EMPTY // files upload handler, default: simple-forms/files-upload-handler.php
         },
         redirect: {
-            enabled: false,                  // (!!Don't change in DarkStar) enable redirect after form submit
-            url: "success.html",             // (!!Don't change in DarkStar) url to redirect to
-            timeout: 3                       // (!!Don't change in DarkStar) redirect timeout (seconds), leave 0 for instant redirect
+            enabled: false,                  // (!!Don't change in StlllR) enable redirect after form submit
+            url: "success.html",             // (!!Don't change in StlllR) url to redirect to
+            timeout: 3                       // (!!Don't change in StlllR) redirect timeout (seconds), leave 0 for instant redirect
         },
-        captcha: {                           // (!! DarkStar, we used (and tested) recaptcha-v3)
+        captcha: {                           // (!! StlllR, we used (and tested) recaptcha-v3)
             enabled: true,                   // enable captcha
             type: "recaptcha-v3",            // set captcha type, options: math | recaptcha-v3
             siteKey: "CHANGEME",             // recaptcha V3 SITE KEY, generate here: https://www.google.com/recaptcha/admin/create
@@ -71,16 +71,16 @@ if ( contactForm ) {
         consent: false,                      // enable submit button after consent checkbox is checked
         validator: {
             rules: {                         // add custom validation rules
-                ".validate-name": {          // (!!Don't change in DarkStar) select form field with class .validate-name
-                    required: true,          // (!!Don't change in DarkStar) add required attribute to form field
-                    min: 2,                  // (!!Don't change in DarkStar) set field min attribute
-                    max: 30,                 // (!!Don't change in DarkStar) set field max attribute
-                    name: true               // (!!Don't change in DarkStar) attach NAME validation
+                ".validate-name": {          // (!!Don't change in StlllR) select form field with class .validate-name
+                    required: true,          // (!!Don't change in StlllR) add required attribute to form field
+                    min: 2,                  // (!!Don't change in StlllR) set field min attribute
+                    max: 30,                 // (!!Don't change in StlllR) set field max attribute
+                    name: true               // (!!Don't change in StlllR) attach NAME validation
                 },
                 ".validate-email": {
                     required: true,
                     min: 8,
-                    email: true              // (!!Don't change in DarkStar) attach EMAIL validation
+                    email: true              // (!!Don't change in StlllR) attach EMAIL validation
                 }
             }
         },
@@ -95,24 +95,24 @@ var subscribeFormID = "sk__subscribe-form-1";
 var subscribeForm = document.getElementById( subscribeFormID );
 if ( subscribeForm ) {
     var simple_form_subscribe = new SimpleForms( "#" + subscribeFormID, {
-        action: "assets/vendor/simple-forms/sendmail.php", // (!!Don't change in DarkStar) set form action attribute, default value: simple-forms/sendmail.php
+        action: "assets/vendor/simple-forms/sendmail.php", // (!!Don't change in StlllR) set form action attribute, default value: simple-forms/sendmail.php
         lang: "en",                          // language for error/info strings
-        theme: "faded-dark",                 // (!!Don't change in DarkStar) form color theme, options: white | dark | purple | red | green | blue | faded-light | faded-dark
-        style: "none",                       // (!!Don't change in DarkStar) was fieldsStyle: "default" // form fields style, options: none | underline | classic | classic-rounded | modern | modern-rounded
-        ajaxSubmit: true,                    // (!!Don't change in DarkStar) send form using AJAX (no page reload)
-        validate: true,                      // (!!Don't change in DarkStar) enable form fields validation
-        validateOnKeyup: true,               // (!!Don't change in DarkStar) validate form fields On KeyUp Event
-        browserValidation: false,            // (!!Don't change in DarkStar) use browser validation
-        tooltips: true,                      // (!!Don't change in DarkStar) show validation errors as tooltips, if false will show errors as strings bellow the field
-        showErrors: true,                    // (!!Don't change in DarkStar) show validation errors
-        responseOverlay: false,              // NEW (!!Don't change in DarkStar) show errors in overlay (cover the form)
-        focusErrorFields: true,              // NEW (!!Don't change in DarkStar) focus error fields on form submit
+        theme: "faded-dark",                 // (!!Don't change in StlllR) form color theme, options: white | dark | purple | red | green | blue | faded-light | faded-dark
+        style: "none",                       // (!!Don't change in StlllR) was fieldsStyle: "default" // form fields style, options: none | underline | classic | classic-rounded | modern | modern-rounded
+        ajaxSubmit: true,                    // (!!Don't change in StlllR) send form using AJAX (no page reload)
+        validate: true,                      // (!!Don't change in StlllR) enable form fields validation
+        validateOnKeyup: true,               // (!!Don't change in StlllR) validate form fields On KeyUp Event
+        browserValidation: false,            // (!!Don't change in StlllR) use browser validation
+        tooltips: true,                      // (!!Don't change in StlllR) show validation errors as tooltips, if false will show errors as strings bellow the field
+        showErrors: true,                    // (!!Don't change in StlllR) show validation errors
+        responseOverlay: false,              // NEW (!!Don't change in StlllR) show errors in overlay (cover the form)
+        focusErrorFields: true,              // NEW (!!Don't change in StlllR) focus error fields on form submit
         debug: true,                         // enable debugging mode (will show errors in browser console)
-        hideFormAfterSubmit: false,          // (!!Don't change in DarkStar) hide the form after submit
+        hideFormAfterSubmit: false,          // (!!Don't change in StlllR) hide the form after submit
         customSuccessMessage: "",            // overwrite server response with a custom message
-        formCSS: "",                         // (!!Don't change in DarkStar) add css styles to the form, example: box-shadow: none;
+        formCSS: "",                         // (!!Don't change in StlllR) add css styles to the form, example: box-shadow: none;
         files: {
-            enabled: false,                  // (!!Don't change in DarkStar) enable files uploading
+            enabled: false,                  // (!!Don't change in StlllR) enable files uploading
             extensions: "jpg jpeg svg png",                              // allowed extensions
             min: 0,                                                      // min required files count
             max: 10,                                                     // max allowed files count
@@ -120,11 +120,11 @@ if ( subscribeForm ) {
             filesUploadHandler: "simple-forms/files-upload-handler.php", // WAS EMPTY // files upload handler, default: simple-forms/files-upload-handler.php
         },
         redirect: {
-            enabled: false,                  // (!!Don't change in DarkStar) enable redirect after form submit
-            url: "success.html",             // (!!Don't change in DarkStar) url to redirect to
-            timeout: 3                       // (!!Don't change in DarkStar) redirect timeout (seconds), leave 0 for instant redirect
+            enabled: false,                  // (!!Don't change in StlllR) enable redirect after form submit
+            url: "success.html",             // (!!Don't change in StlllR) url to redirect to
+            timeout: 3                       // (!!Don't change in StlllR) redirect timeout (seconds), leave 0 for instant redirect
         },
-        captcha: {                           // (!! DarkStar, we used (and tested) recaptcha-v3)
+        captcha: {                           // (!! StlllR, we used (and tested) recaptcha-v3)
             enabled: true,                   // enable captcha
             type: "recaptcha-v3",            // set captcha type, options: math | recaptcha-v3
             siteKey: "CHANGEME",             // recaptcha V3 SITE KEY, generate here: https://www.google.com/recaptcha/admin/create
@@ -137,16 +137,16 @@ if ( subscribeForm ) {
         consent: false,                      // enable submit button after consent checkbox is checked
         validator: {
             rules: {                         // add custom validation rules
-                ".validate-name": {          // (!!Don't change in DarkStar) select form field with class .validate-name
-                    required: true,          // (!!Don't change in DarkStar) add required attribute to form field
-                    min: 2,                  // (!!Don't change in DarkStar) set field min attribute
-                    max: 30,                 // (!!Don't change in DarkStar) set field max attribute
-                    name: true               // (!!Don't change in DarkStar) attach NAME validation
+                ".validate-name": {          // (!!Don't change in StlllR) select form field with class .validate-name
+                    required: true,          // (!!Don't change in StlllR) add required attribute to form field
+                    min: 2,                  // (!!Don't change in StlllR) set field min attribute
+                    max: 30,                 // (!!Don't change in StlllR) set field max attribute
+                    name: true               // (!!Don't change in StlllR) attach NAME validation
                 },
                 ".validate-email": {
                     required: true,
                     min: 8,
-                    email: true              // (!!Don't change in DarkStar) attach EMAIL validation
+                    email: true              // (!!Don't change in StlllR) attach EMAIL validation
                 }
             }
         },

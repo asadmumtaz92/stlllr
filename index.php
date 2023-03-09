@@ -467,7 +467,7 @@
 						<div class="row sk__skills-row">
 							<div class="col-12">
 								<div class="sk__skill-wrap">
-									<p class="sk__skill-name sk__skill-el">Website Design and Development</p>
+									<p class="sk__skill-name sk__skill-el">Website Development</p>
 									<div class="sk__skill-area sk__skill-el">
 										<div class="sk__skill-bar sk__gradient-back-v1"></div>
 									</div>

@@ -5,17 +5,17 @@
 
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-	<meta name="description" content="This is DarkStar, see it live now!">
+	<meta name="description" content="This is StlllR, see it live now!">
 	<meta name="author" content="Skilltech Web Design">
-	<meta name="keywords" content="DarkStar, dark theme, best dark theme, best dark html, best dark website design, best dark websites, dark web design, best html themes, best html templates, best websites, dark portfolio, dark creative, gsap theme, skilltech, skilltech web design"/>
+	<meta name="keywords" content="StlllR, dark theme, best dark theme, best dark html, best dark website design, best dark websites, dark web design, best html themes, best html templates, best websites, dark portfolio, dark creative, gsap theme, skilltech, skilltech web design"/>
 
-	<meta property="og:title" content="DarkStar - The Ultimate Dark HTML Template"/>
-	<meta property="og:description" content="Superior Dark Multipurpose Theme · $235 Added Value · Stunning Effects & Clean Code · Build a Website Today with DarkStar!"/>
+	<meta property="og:title" content="StlllR - The Ultimate Dark HTML Template"/>
+	<meta property="og:description" content="Superior Dark Multipurpose Theme · $235 Added Value · Stunning Effects & Clean Code · Build a Website Today with StlllR!"/>
 	<meta property="og:image" content="assets/images/facebook-post-image-default.jpg"/>
 
 	<meta property="og:site_name" content="SkilltechWebDesign.com"/>
 
-	<title>DarkStar | Ultimate Dark HTML Template</title>
+	<title>StlllR | Ultimate Dark HTML Template</title>
 
 	<link rel="icon" href="favicon.ico" type="image/x-icon">
 	<link rel="apple-touch-icon-precomposed" type="image/x-icon" href="assets/images/apple-touch-icon-72x72-precomposed.png" sizes="72x72" />
@@ -117,7 +117,7 @@
 									<h2 class="h2-super sk__heading-spacer-xs">A Perfect DARK Multipurpose Theme</h2>
 								</div>
 								<div class="cover-text-wrapper">
-									<p class="p-super">Darkstar delivers the <strong><span class="sk__clipped-text sk__gradient-back-v1" style="font-weight: 800;">best <span style="text-decoration: underline;">Dark</span> WebDesign Style</span></strong> on the market. The theme is super fast, looks and feels luxury and it’s equipped with the best premium effects with tremendous value for money! Great for beginners and pros, Darkstar will help you build a slick, dark, elegant website effortlessly.</p>
+									<p class="p-super">StlllR delivers the <strong><span class="sk__clipped-text sk__gradient-back-v1" style="font-weight: 800;">best <span style="text-decoration: underline;">Dark</span> WebDesign Style</span></strong> on the market. The theme is super fast, looks and feels luxury and it’s equipped with the best premium effects with tremendous value for money! Great for beginners and pros, StlllR will help you build a slick, dark, elegant website effortlessly.</p>
 								</div>	
 							</div>
 						</div>
@@ -169,7 +169,7 @@
 						<div class="row text-center sk__pt-m sk__pb-s sk__features-section-v2-header">
 							<div class="col-xxl-10 offset-xxl-1 sk__reveal-all-wrapped-text">
 								<div class="cover-text-wrapper">
-									<h2 class="h2-large">On top of superb design, <strong>Darkstar ticks all the important boxes!</strong></h2>
+									<h2 class="h2-large">On top of superb design, <strong>StlllR ticks all the important boxes!</strong></h2>
 								</div>	
 							</div>
 						</div>
@@ -690,7 +690,7 @@
 									<span class="sk__warped-text">GET THEME NOW</span>
 								</div>
 								<h3><strong>AND UNLEASH THE DARK STYLES</strong></h3>
-								<a class="btn btn-lg btn-outline-light sk__warped-button" href="https://themeforest.net/item/darkstar-ultimate-dark-multipurpose-html-template/38494049" role="button">BUY THEME -></a>
+								<a class="btn btn-lg btn-outline-light sk__warped-button" href="https://themeforest.net/item/StlllR-ultimate-dark-multipurpose-html-template/38494049" role="button">BUY THEME -></a>
 							</div>
 						</div>
 					</div>

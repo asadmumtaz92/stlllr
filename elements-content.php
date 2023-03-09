@@ -5,17 +5,17 @@
 
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-	<meta name="description" content="This is DarkStar, see it live now!">
+	<meta name="description" content="This is StlllR, see it live now!">
 	<meta name="author" content="Skilltech Web Design">
-	<meta name="keywords" content="DarkStar, dark theme, best dark theme, best dark html, best dark website design, best dark websites, dark web design, best html themes, best html templates, best websites, dark portfolio, dark creative, gsap theme, skilltech, skilltech web design"/>
+	<meta name="keywords" content="StlllR, dark theme, best dark theme, best dark html, best dark website design, best dark websites, dark web design, best html themes, best html templates, best websites, dark portfolio, dark creative, gsap theme, skilltech, skilltech web design"/>
 
-	<meta property="og:title" content="DarkStar - The Ultimate Dark HTML Template"/>
-	<meta property="og:description" content="Superior Dark Multipurpose Theme · $235 Added Value · Stunning Effects & Clean Code · Build a Website Today with DarkStar!"/>
+	<meta property="og:title" content="StlllR - The Ultimate Dark HTML Template"/>
+	<meta property="og:description" content="Superior Dark Multipurpose Theme · $235 Added Value · Stunning Effects & Clean Code · Build a Website Today with StlllR!"/>
 	<meta property="og:image" content="assets/images/facebook-post-image-default.jpg"/>
 
 	<meta property="og:site_name" content="SkilltechWebDesign.com"/>
 
-	<title>DarkStar | Elements | Content Sections</title>
+	<title>StlllR | Elements | Content Sections</title>
 
 	<link rel="icon" href="favicon.ico" type="image/x-icon">
 	<link rel="apple-touch-icon-precomposed" type="image/x-icon" href="assets/images/apple-touch-icon-72x72-precomposed.png" sizes="72x72" />
@@ -648,7 +648,7 @@
 						<div class="row">
 							<div class="col">
 								<h2 class="h2-super">Icon Boxes</h2>
-								<h5 class="h5-large thin">With <strong>1500+</strong> icons to choose from in the DarkStar custom IcoMoon font.</h5>
+								<h5 class="h5-large thin">With <strong>1500+</strong> icons to choose from in the StlllR custom IcoMoon font.</h5>
 							</div>
 						</div>
 					</div>
@@ -663,7 +663,7 @@
 					<div class="container pt-4">
 						<div class="row sk__inner-header">
 							<div class="col text-center">
-								<h3 class="h3-super"><strong>DarkStar Style</strong> Icon Boxes</h3>
+								<h3 class="h3-super"><strong>StlllR Style</strong> Icon Boxes</h3>
 							</div>
 						</div>
 						<div class="row sk__iconboxes-wrapper text-center sk__flex-center-x">
