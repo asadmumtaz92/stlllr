@@ -87,24 +87,24 @@
 										<span class="fat-divider dark-shade-4-bg"></span>
 										<div class="sk__project-infoboxes-helper">
 											<div class="sk__proj-infobox">
-												<div class="sk__proj-infobox-label">Project Name</div><div class="sk__proj-infobox-value">Aesthetic Excellence</div>
+												<div class="sk__proj-infobox-label">Wireframe</div><div class="sk__proj-infobox-value">Yes</div>
 											</div>
 											<div class="sk__proj-infobox">
-												<div class="sk__proj-infobox-label">Created by</div><div class="sk__proj-infobox-value">Bruce Wayne</div>
+												<div class="sk__proj-infobox-label">Prototype</div><div class="sk__proj-infobox-value">Yes</div>
 											</div>
 											<div class="sk__proj-infobox">
-												<div class="sk__proj-infobox-label">Client</div><div class="sk__proj-infobox-value">Palmolive Garnier Sony</div>
+												<div class="sk__proj-infobox-label">Clients</div><div class="sk__proj-infobox-value">365</div>
 											</div>
 											<div class="sk__proj-infobox">
 												<div class="sk__proj-infobox-label">Budget</div><div class="sk__proj-infobox-value">$50,000.00</div>
 											</div>
 											<div class="sk__proj-infobox">
-												<div class="sk__proj-infobox-label">Completion Date</div><div class="sk__proj-infobox-value">May 4th 2022</div>
+												<div class="sk__proj-infobox-label">Accessbility</div><div class="sk__proj-infobox-value">High</div>
 											</div>
 										</div>
 										<div class="sk__project-infoboxes-helper sk__right">	
 											<div class="sk__proj-infobox">
-												<div class="sk__proj-infobox-label">Project Type</div><div class="sk__proj-infobox-value">Corporate Identity</div>
+												<div class="sk__proj-infobox-label">Project Type</div><div class="sk__proj-infobox-value">related to ui ux</div>
 											</div>
 											<div class="sk__proj-infobox">
 												<div class="sk__proj-infobox-label">Project Length</div><div class="sk__proj-infobox-value">3 Months</div>
@@ -113,7 +113,7 @@
 												<div class="sk__proj-infobox-label">Skills Used</div><div class="sk__proj-infobox-value">Design, Photography...</div>
 											</div>
 											<div class="sk__proj-infobox">
-												<div class="sk__proj-infobox-label">Project Manager</div><div class="sk__proj-infobox-value">Monden Illoppsen</div>
+												<div class="sk__proj-infobox-label">Project Manager</div><div class="sk__proj-infobox-value">Asad</div>
 											</div>
 										</div>
 									</div>
@@ -128,7 +128,7 @@
 								<div class="row order-1 order-xxl-2 sk__project-main-heading text-center py-2 py-sm-0 sk__flex-center">
 									<div class="col position-relative mb-5 pb-0 pb-md-5 pb-lg-0 pb-xl-5 mb-xxl-0 pb-xxl-0">
 										<div class="cover-text-wrapper d-block">
-											<h1 class="super-heading sk__clipped-text sk__gradient-back-v1 mb-xxl-0">&nbsp;Palmolive Garnier Sony&nbsp;</h1>
+											<h1 class="super-heading sk__clipped-text sk__gradient-back-v1 mb-xxl-0">&nbsp;Ui/Ux Development&nbsp;</h1>
 										</div>
 										<div class="cover-text-wrapper d-block">
 											<h2>Some things are best when Designed by professionals</h2>
@@ -152,17 +152,17 @@
 								<img src="assets/images/portfolio-item-body-image.webp" alt="Sample image.">
 							</div>
 							<div class="col-xl-6 col-xxl-5 sk__project-body-info-col mt-4 mt-xl-0 pt-5 pt-xl-0 text-center text-sm-start">
-								<h4 class="animated-element">superdark photoshoot session creative</h4>
-								<p class="animated-element">Aesthetic helvetica cred ennui hella subway tile. Migas hexagon actually street art, chia truffaut food truck meh letterpress flexitarian vegan hot chicken kombucha cred. Chartreuse normcore fashion axe, fanny pack keffiyeh single-origin coffee snackwave banh mi 8-bit beard. Waistcoat try-hard green juice taiyaki synth cornhole.<br />Portland meggings truffaut, meditation echo park food truck cliche fixie ugh. Shoreditch cold-pressed gochujang slow-carb, banh mi pug farm-to-table vaporware adaptogen keytar pork belly venmo. Schlitz single-origin coffee godard fam portland dreamcatcher. Swag tattooed XOXO slow-carb palo santo freegan health goth, tote bag unicorn paleo. Sustainable thundercats godard sriracha polaroid.<br />Helvetica bushwick hexagon chia pork belly +1. Health goth retro live-edge palo santo adaptogen taiyaki, fashion axe shaman four dollar toast. Retro tofu semiotics vape vexillologist, gochujang kogi cold-pressed photo booth.</p>
+								<h4 class="animated-element">What we do?</h4>
+								<p class="animated-element">This is done by combining principles of design, such as color theory, typography, and layout, with the principles of usability, such as navigation, user flow, and accessibility.<br />They also strive to create products that are tailored to the user's needs and preferences.In general, UI design is focused on the visual design of a product, while UX design relates to the overall user experience. Both are important for creating successful products, and often work together in the design process.</p>
 								<a class="btn btn-outline-light animated-element" href="#" role="button">SOME LINK -></a>
 								<div class="row">
 									<div class="col-12 col-sm-6">
-										<h5 class="animated-element">There are no boundaries</h5>
-										<p class="p-xs animated-element">Salvia vape blue bottle bespoke wolf celiac quinoa cloud bread letterpress hammock photo booth. Palo santo vexillologist venmo shaman pitchfork tote bag.</p>
+										<h5 class="animated-element">A good UI/UX design can have many difference</h5>
+										<p class="p-xs animated-element">Usability testing is also an important part of the design process. This involves testing the user interface with actual users to get feedback and make necessary adjustments. It also helps to identify any potential issues that need to be addressed before the product is released.</p>
 									</div>
 									<div class="col-12 col-sm-6">
-										<h5 class="animated-element">There are no boundaries</h5>
-										<p class="p-xs animated-element">Salvia vape blue bottle bespoke wolf celiac quinoa cloud bread letterpress hammock photo booth. Palo santo vexillologist venmo shaman pitchfork tote bag.</p>
+										<h5 class="animated-element">Invest in your Clients' experience, and they'll invest in you</h5>
+										<p class="p-xs animated-element"> Professional UI/UX design can also help ensure that your product meets user needs and expectations, while addressing any potential usability issues that could arise. Ultimately, investing in UI/UX design can help you create a product that stands out and meets the needs of your users.</p>
 									</div>
 								</div>
 								<div class="row">
@@ -192,8 +192,8 @@
 					<div class="container-fluid">
 						<div class="row">
 							<div class="col-12 col-md-10 offset-md-1 text-center sk__heading-spacer-xl">
-								<h1 class="super-heading sk__clipped-text sk__gradient-back-v1"><span class="heading-deco">&lt;- </span>showcase gallery.<span class="heading-deco"> -&gt;</span></h1>
-								<h2 class="h2-regular">Premium <strong>Parallax</strong> Stylized Project Gallery with Dynamic Navigation</h2>
+								<h1 class="super-heading sk__clipped-text sk__gradient-back-v1"><span class="heading-deco">&lt;- </span>UI/UX Agency<span class="heading-deco"> -&gt;</span></h1>
+								<h2 class="h2-regular">We <strong>StlllR</strong> loves development</h2>
 							</div>
 						</div>
 						<div class="row">

@@ -88,16 +88,16 @@
 										<span class="fat-divider dark-shade-4-bg"></span>
 										<div class="sk__project-infoboxes-helper">
 											<div class="sk__proj-infobox">
-												<div class="sk__proj-infobox-label">Project Name</div><div class="sk__proj-infobox-value">Excellence</div>
+												<div class="sk__proj-infobox-label">Project Name</div><div class="sk__proj-infobox-value">Psl</div>
 											</div>
 											<div class="sk__proj-infobox">
-												<div class="sk__proj-infobox-label">Created by</div><div class="sk__proj-infobox-value">Bruce</div>
+												<div class="sk__proj-infobox-label">Created by</div><div class="sk__proj-infobox-value">Yahya </div>
 											</div>
 											<div class="sk__proj-infobox">
-												<div class="sk__proj-infobox-label">Client</div><div class="sk__proj-infobox-value">Media market</div>
+												<div class="sk__proj-infobox-label">Client</div><div class="sk__proj-infobox-value">John</div>
 											</div>
 											<div class="sk__proj-infobox">
-												<div class="sk__proj-infobox-label">Budget</div><div class="sk__proj-infobox-value">$50,00.0</div>
+												<div class="sk__proj-infobox-label">Budget</div><div class="sk__proj-infobox-value">$50,000.00</div>
 											</div>
 											<div class="sk__proj-infobox">
 												<div class="sk__proj-infobox-label">Completion Date</div><div class="sk__proj-infobox-value">May 4th 2023</div>
@@ -111,10 +111,10 @@
 												<div class="sk__proj-infobox-label">Project Length</div><div class="sk__proj-infobox-value">3 Months</div>
 											</div>
 											<div class="sk__proj-infobox">
-												<div class="sk__proj-infobox-label">Skills Used</div><div class="sk__proj-infobox-value">Design, Photography...</div>
+												<div class="sk__proj-infobox-label">Skills Used</div><div class="sk__proj-infobox-value">Media Marketing</div>
 											</div>
 											<div class="sk__proj-infobox">
-												<div class="sk__proj-infobox-label">Project Manager</div><div class="sk__proj-infobox-value">Yahya</div>
+												<div class="sk__proj-infobox-label">Project Manager</div><div class="sk__proj-infobox-value">Yahya sadiqs</div>
 											</div>
 										</div>
 									</div>
@@ -129,10 +129,10 @@
 								<div class="row order-1 order-xxl-2 sk__project-main-heading text-center py-2 py-sm-0 sk__flex-center">
 									<div class="col position-relative mb-5 pb-0 pb-md-5 pb-lg-0 pb-xl-5 mb-xxl-0 pb-xxl-0">
 										<div class="cover-text-wrapper d-block">
-											<h1 class="super-heading sk__clipped-text sk__gradient-back-v1 mb-xxl-0">&nbsp;Social Media Marketing&nbsp;</h1>
+											<h1 class="super-heading sk__clipped-text sk__gradient-back-v1 mb-xxl-0">&nbsp;Social Media&nbsp;</h1>
 										</div>
 										<div class="cover-text-wrapper d-block">
-											<h2>Some things are best when Designed by professionals</h2>
+											<h2>Innovative Media development for your business</h2>
 										</div>
 									</div>
 								</div>
@@ -154,26 +154,16 @@
 							</div>
 							<div class="col-xl-6 col-xxl-5 sk__project-body-info-col mt-4 mt-xl-0 pt-5 pt-xl-0 text-center text-sm-start">
 								<h4 class="animated-element">superdark photoshoot session creative</h4>
-								<p class="animated-element"> This can help you quickly integrate systems and platforms, and ensure that data and functionality are exchanged accurately and reliably.<br />Some other examples of how APIs are used in web development include:
-
-• Allowing users to log in from one website to another using a single set of credentials.
-
-• Retrieving information from a database for display on a website.
-
-• Connecting two different websites together to provide data from one to the other.
-
-• Connecting a mobile app to a web-based server to provide data from one to the other.
-
-• Sending data from a web form to a server and processing it.</p>
+								<p class="animated-element">Aesthetic helvetica cred ennui hella subway tile. Migas hexagon actually street art, chia truffaut food truck meh letterpress flexitarian vegan hot chicken kombucha cred. Chartreuse normcore fashion axe, fanny pack keffiyeh single-origin coffee snackwave banh mi 8-bit beard. Waistcoat try-hard green juice taiyaki synth cornhole.<br />Portland meggings truffaut, meditation echo park food truck cliche fixie ugh. Shoreditch cold-pressed gochujang slow-carb, banh mi pug farm-to-table vaporware adaptogen keytar pork belly venmo. Schlitz single-origin coffee godard fam portland dreamcatcher. Swag tattooed XOXO slow-carb palo santo freegan health goth, tote bag unicorn paleo. Sustainable thundercats godard sriracha polaroid.<br />Helvetica bushwick hexagon chia pork belly +1. Health goth retro live-edge palo santo adaptogen taiyaki, fashion axe shaman four dollar toast. Retro tofu semiotics vape vexillologist, gochujang kogi cold-pressed photo booth.</p>
 								<a class="btn btn-outline-light animated-element" href="#" role="button">SOME LINK -></a>
 								<div class="row">
 									<div class="col-12 col-sm-6">
-										<h5 class="animated-element">Social work</h5>
-										<p class="p-xs animated-element">We have most professional workers who will pleased you with their work we have completed many successful projects.</p>
+										<h5 class="animated-element">There are no boundaries</h5>
+										<p class="p-xs animated-element">Salvia vape blue bottle bespoke wolf celiac quinoa cloud bread letterpress hammock photo booth. Palo santo vexillologist venmo shaman pitchfork tote bag.</p>
 									</div>
 									<div class="col-12 col-sm-6">
-										<h5 class="animated-element">Media work</h5>
-										<p class="p-xs animated-element">Our team is officialy active in media work too.We have completed around 300 tasks related to social media.</p>
+										<h5 class="animated-element">There are no boundaries</h5>
+										<p class="p-xs animated-element">Salvia vape blue bottle bespoke wolf celiac quinoa cloud bread letterpress hammock photo booth. Palo santo vexillologist venmo shaman pitchfork tote bag.</p>
 									</div>
 								</div>
 								<div class="row">
@@ -203,8 +193,8 @@
 					<div class="container-fluid">
 						<div class="row">
 							<div class="col-12 col-md-10 offset-md-1 text-center sk__heading-spacer-xl">
-								<h1 class="super-heading sk__clipped-text sk__gradient-back-v1"><span class="heading-deco">&lt;- </span>Social Media Development.<span class="heading-deco"> -&gt;</span></h1>
-								<h2 class="h2-regular">We <strong>StilllR</strong> loves doing development</h2>
+								<h1 class="super-heading sk__clipped-text sk__gradient-back-v1"><span class="heading-deco">&lt;- </span>showcase gallery.<span class="heading-deco"> -&gt;</span></h1>
+								<h2 class="h2-regular">Premium <strong>Parallax</strong> Stylized Project Gallery with Dynamic Navigation</h2>
 							</div>
 						</div>
 						<div class="row">

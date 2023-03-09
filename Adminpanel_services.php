@@ -88,19 +88,19 @@
 										<span class="fat-divider dark-shade-4-bg"></span>
 										<div class="sk__project-infoboxes-helper">
 											<div class="sk__proj-infobox">
-												<div class="sk__proj-infobox-label">Project Name</div><div class="sk__proj-infobox-value">Aesthetic Excellence</div>
+												<div class="sk__proj-infobox-label">Project Name</div><div class="sk__proj-infobox-value">Shahmeer</div>
 											</div>
 											<div class="sk__proj-infobox">
-												<div class="sk__proj-infobox-label">Created by</div><div class="sk__proj-infobox-value">Bruce Wayne</div>
+												<div class="sk__proj-infobox-label">Created by</div><div class="sk__proj-infobox-value">yahya sadiq</div>
 											</div>
 											<div class="sk__proj-infobox">
-												<div class="sk__proj-infobox-label">Client</div><div class="sk__proj-infobox-value">Palmolive Garnier Sony</div>
+												<div class="sk__proj-infobox-label">Client</div><div class="sk__proj-infobox-value">Yahya</div>
 											</div>
 											<div class="sk__proj-infobox">
-												<div class="sk__proj-infobox-label">Budget</div><div class="sk__proj-infobox-value">$50,000.00</div>
+												<div class="sk__proj-infobox-label">Budget</div><div class="sk__proj-infobox-value">$5000.00</div>
 											</div>
 											<div class="sk__proj-infobox">
-												<div class="sk__proj-infobox-label">Completion Date</div><div class="sk__proj-infobox-value">May 4th 2022</div>
+												<div class="sk__proj-infobox-label">Completion Date</div><div class="sk__proj-infobox-value"> 4th 2023</div>
 											</div>
 										</div>
 										<div class="sk__project-infoboxes-helper sk__right">	
@@ -129,7 +129,7 @@
 								<div class="row order-1 order-xxl-2 sk__project-main-heading text-center py-2 py-sm-0 sk__flex-center">
 									<div class="col position-relative mb-5 pb-0 pb-md-5 pb-lg-0 pb-xl-5 mb-xxl-0 pb-xxl-0">
 										<div class="cover-text-wrapper d-block">
-											<h1 class="super-heading sk__clipped-text sk__gradient-back-v1 mb-xxl-0">&nbsp;Palmolive Garnier Sony&nbsp;</h1>
+											<h1 class="super-heading sk__clipped-text sk__gradient-back-v1 mb-xxl-0">&nbsp;Admin Panel Services&nbsp;</h1>
 										</div>
 										<div class="cover-text-wrapper d-block">
 											<h2>Some things are best when Designed by professionals</h2>
@@ -153,17 +153,25 @@
 								<img src="assets/images/portfolio-item-body-image.webp" alt="Sample image.">
 							</div>
 							<div class="col-xl-6 col-xxl-5 sk__project-body-info-col mt-4 mt-xl-0 pt-5 pt-xl-0 text-center text-sm-start">
-								<h4 class="animated-element">superdark photoshoot session creative</h4>
-								<p class="animated-element">Aesthetic helvetica cred ennui hella subway tile. Migas hexagon actually street art, chia truffaut food truck meh letterpress flexitarian vegan hot chicken kombucha cred. Chartreuse normcore fashion axe, fanny pack keffiyeh single-origin coffee snackwave banh mi 8-bit beard. Waistcoat try-hard green juice taiyaki synth cornhole.<br />Portland meggings truffaut, meditation echo park food truck cliche fixie ugh. Shoreditch cold-pressed gochujang slow-carb, banh mi pug farm-to-table vaporware adaptogen keytar pork belly venmo. Schlitz single-origin coffee godard fam portland dreamcatcher. Swag tattooed XOXO slow-carb palo santo freegan health goth, tote bag unicorn paleo. Sustainable thundercats godard sriracha polaroid.<br />Helvetica bushwick hexagon chia pork belly +1. Health goth retro live-edge palo santo adaptogen taiyaki, fashion axe shaman four dollar toast. Retro tofu semiotics vape vexillologist, gochujang kogi cold-pressed photo booth.</p>
+								<h4 class="animated-element">Quality standards we live up to</h4>
+								<p class="animated-element">The purpose of an administrative panel is to provide a centralized view of all the components of a website or application, allowing users to quickly and easily make changes, monitor performance, and troubleshoot any issues that may arise. These panels can be used for a wide range of tasks, such as adding content, managing user accounts, configuring settings, and more.<br />An admin panel typically provides tools and features that allow users to perform tasks such as:<br />Managing user accounts Creating, editing, and deleting content
+Analyzing data and generating reports
+Adjusting settings and configuring system preferences
+Monitoring system activities and performance
+Updating software, plugins, and other components
+Scheduling events and tasks
+Tracking and viewing user activity
+Creating and managing backups
+Viewing system logs and error reports</p>
 								<a class="btn btn-outline-light animated-element" href="#" role="button">SOME LINK -></a>
 								<div class="row">
 									<div class="col-12 col-sm-6">
-										<h5 class="animated-element">There are no boundaries</h5>
-										<p class="p-xs animated-element">Salvia vape blue bottle bespoke wolf celiac quinoa cloud bread letterpress hammock photo booth. Palo santo vexillologist venmo shaman pitchfork tote bag.</p>
+										<h5 class="animated-element">Streamline Your Business Operations with a Custom Admin Panel Development</h5>
+										<p class="p-xs animated-element">We are committed to providing the highest quality of service to our clients. Our team of experts will work with you to design, develop and deploy an admin panel that meets your needs. Contact us today to learn more about our custom admin panel solutions.</p>
 									</div>
 									<div class="col-12 col-sm-6">
-										<h5 class="animated-element">There are no boundaries</h5>
-										<p class="p-xs animated-element">Salvia vape blue bottle bespoke wolf celiac quinoa cloud bread letterpress hammock photo booth. Palo santo vexillologist venmo shaman pitchfork tote bag.</p>
+										<h5 class="animated-element">Elevate Your Business with a Customized and Secure Admin Panel</h5>
+										<p class="p-xs animated-element">We guarantee a secure and reliable system, customized to fit your specific needs. Contact us now to get started.</p>
 									</div>
 								</div>
 								<div class="row">
@@ -193,8 +201,8 @@
 					<div class="container-fluid">
 						<div class="row">
 							<div class="col-12 col-md-10 offset-md-1 text-center sk__heading-spacer-xl">
-								<h1 class="super-heading sk__clipped-text sk__gradient-back-v1"><span class="heading-deco">&lt;- </span>showcase gallery.<span class="heading-deco"> -&gt;</span></h1>
-								<h2 class="h2-regular">Premium <strong>Parallax</strong> Stylized Project Gallery with Dynamic Navigation</h2>
+								<h1 class="super-heading sk__clipped-text sk__gradient-back-v1"><span class="heading-deco">&lt;- </span>Admin Panel<span class="heading-deco"> -&gt;</span></h1>
+								<h2 class="h2-regular">We <strong>StlllR</strong> loves working on development</h2>
 							</div>
 						</div>
 						<div class="row">
