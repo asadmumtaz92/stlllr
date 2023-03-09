@@ -74,7 +74,7 @@
 
 							<!-- XL Desktop Only (Tall Portrait) Thumbnail -->
 							<div class="col-xxl-3 d-none d-xxl-block position-relative sk__project-thumbnail-portrait-col">
-								<img src="assets/images/portfolio-item-thumbnail-portrait.jpg" alt="Sample image.">
+								<img src="https://takkaia.com/assets/images/WordPress/2.webp" alt="Sample image.">
 								<div class="sk__project-thumbnail-portrait-cover sk__absolute dark-shade-4-bg"></div>
 							</div>
 
@@ -84,28 +84,28 @@
 								<div class="row order-2 order-xxl-1 sk__project-info-and-thumbnail">
 									<!-- Project Info -->
 									<div class="col-12 col-xl-4 sk__project-infoboxes overflow-hidden">
-										<h4 class="h4-dark text-center text-sm-start">project info.</h4>
+										<h4 class="h4-dark text-center text-sm-start">Wordpress Website</h4>
 										<span class="fat-divider dark-shade-4-bg"></span>
 										<div class="sk__project-infoboxes-helper">
 											<div class="sk__proj-infobox">
-												<div class="sk__proj-infobox-label">Project Name</div><div class="sk__proj-infobox-value">Aesthetic Excellence</div>
+												<div class="sk__proj-infobox-label">Website type</div><div class="sk__proj-infobox-value">landing page</div>
 											</div>
 											<div class="sk__proj-infobox">
-												<div class="sk__proj-infobox-label">Created by</div><div class="sk__proj-infobox-value">Bruce Wayne</div>
+												<div class="sk__proj-infobox-label">Content upload</div><div class="sk__proj-infobox-value">yes</div>
 											</div>
 											<div class="sk__proj-infobox">
-												<div class="sk__proj-infobox-label">Client</div><div class="sk__proj-infobox-value">Palmolive Garnier Sony</div>
+												<div class="sk__proj-infobox-label">Responsive design</div><div class="sk__proj-infobox-value">yes</div>
 											</div>
 											<div class="sk__proj-infobox">
-												<div class="sk__proj-infobox-label">Budget</div><div class="sk__proj-infobox-value">$50,000.00</div>
+												<div class="sk__proj-infobox-label">Code</div><div class="sk__proj-infobox-value">CSS</div>
 											</div>
 											<div class="sk__proj-infobox">
-												<div class="sk__proj-infobox-label">Completion Date</div><div class="sk__proj-infobox-value">May 4th 2022</div>
+												<div class="sk__proj-infobox-label">Plugins/extensions</div><div class="sk__proj-infobox-value">Yes</div>
 											</div>
 										</div>
 										<div class="sk__project-infoboxes-helper sk__right">	
 											<div class="sk__proj-infobox">
-												<div class="sk__proj-infobox-label">Project Type</div><div class="sk__proj-infobox-value">Corporate Identity</div>
+												<div class="sk__proj-infobox-label">Number of pagesas</div><div class="sk__proj-infobox-value">many as need</div>
 											</div>
 											<div class="sk__proj-infobox">
 												<div class="sk__proj-infobox-label">Project Length</div><div class="sk__proj-infobox-value">3 Months</div>
@@ -114,7 +114,7 @@
 												<div class="sk__proj-infobox-label">Skills Used</div><div class="sk__proj-infobox-value">Design, Photography...</div>
 											</div>
 											<div class="sk__proj-infobox">
-												<div class="sk__proj-infobox-label">Project Manager</div><div class="sk__proj-infobox-value">Monden Illoppsen</div>
+												<div class="sk__proj-infobox-label">Project Manager</div><div class="sk__proj-infobox-value">Asad Mumtaz</div>
 											</div>
 										</div>
 									</div>
@@ -129,7 +129,7 @@
 								<div class="row order-1 order-xxl-2 sk__project-main-heading text-center py-2 py-sm-0 sk__flex-center">
 									<div class="col position-relative mb-5 pb-0 pb-md-5 pb-lg-0 pb-xl-5 mb-xxl-0 pb-xxl-0">
 										<div class="cover-text-wrapper d-block">
-											<h1 class="super-heading sk__clipped-text sk__gradient-back-v1 mb-xxl-0">&nbsp;Palmolive Garnier Sony&nbsp;</h1>
+											<h1 class="super-heading sk__clipped-text sk__gradient-back-v1 mb-xxl-0">&nbsp; HAVE A PROFESSIONAL WEBSITE BUILT FOR YOU</h1>
 										</div>
 										<div class="cover-text-wrapper d-block">
 											<h2>Some things are best when Designed by professionals</h2>
@@ -150,20 +150,22 @@
 					<div class="container sk__powercontainer">
 						<div class="row">
 							<div class="col-xl-6 col-xxl-7 sk__project-body-image-col">
-								<img src="assets/images/portfolio-item-body-image.webp" alt="Sample image.">
+								<img src="https://wpsitehelpers.com/wp-content/uploads/2016/12/wordpress.jpg" alt="Sample image.">
 							</div>
 							<div class="col-xl-6 col-xxl-5 sk__project-body-info-col mt-4 mt-xl-0 pt-5 pt-xl-0 text-center text-sm-start">
-								<h4 class="animated-element">superdark photoshoot session creative</h4>
-								<p class="animated-element">Aesthetic helvetica cred ennui hella subway tile. Migas hexagon actually street art, chia truffaut food truck meh letterpress flexitarian vegan hot chicken kombucha cred. Chartreuse normcore fashion axe, fanny pack keffiyeh single-origin coffee snackwave banh mi 8-bit beard. Waistcoat try-hard green juice taiyaki synth cornhole.<br />Portland meggings truffaut, meditation echo park food truck cliche fixie ugh. Shoreditch cold-pressed gochujang slow-carb, banh mi pug farm-to-table vaporware adaptogen keytar pork belly venmo. Schlitz single-origin coffee godard fam portland dreamcatcher. Swag tattooed XOXO slow-carb palo santo freegan health goth, tote bag unicorn paleo. Sustainable thundercats godard sriracha polaroid.<br />Helvetica bushwick hexagon chia pork belly +1. Health goth retro live-edge palo santo adaptogen taiyaki, fashion axe shaman four dollar toast. Retro tofu semiotics vape vexillologist, gochujang kogi cold-pressed photo booth.</p>
+								<h4 class="animated-element">Quality standards we live up to</h4>
+								<p class="animated-element"><br />Each site we make is made so in consistence with the most recent specialized web guidelines and, normally, it has an easy to understand site design. Simple to-utilize dropdown route, clear designs and other intuitive components.
+The benefits of recruiting a web organization are obvious. Your site is the main connection point for your clients. It is likewise the simplest and quickest method for creating new clients. Your site is your organization's distinguishing mark.
+On the off chance that your site is amateurish, contains show mistakes, or on the other hand assuming the specialized premise is obsolete and has significant blunders, this adversely affects the outcome of your venture. Website architecture costs are comprised of many variables. The plan is an extremely intricate task, so you ought to depend on an expert for the execution.<br /></p>
 								<a class="btn btn-outline-light animated-element" href="#" role="button">SOME LINK -></a>
 								<div class="row">
 									<div class="col-12 col-sm-6">
-										<h5 class="animated-element">There are no boundaries</h5>
-										<p class="p-xs animated-element">Salvia vape blue bottle bespoke wolf celiac quinoa cloud bread letterpress hammock photo booth. Palo santo vexillologist venmo shaman pitchfork tote bag.</p>
+										<h5 class="animated-element">CODING</h5>
+										<p class="p-xs animated-element">Execution of your site project with improved classification engineering and expert programming coding for an ideal client experience</p>
 									</div>
 									<div class="col-12 col-sm-6">
-										<h5 class="animated-element">There are no boundaries</h5>
-										<p class="p-xs animated-element">Salvia vape blue bottle bespoke wolf celiac quinoa cloud bread letterpress hammock photo booth. Palo santo vexillologist venmo shaman pitchfork tote bag.</p>
+										<h5 class="animated-element">MAINTENANCE</h5>
+										<p class="p-xs animated-element">Normal upkeep through framework refreshes, safety efforts, content combination, include augmentations, association with commercial centers and considerably more!</p>
 									</div>
 								</div>
 								<div class="row">
@@ -193,8 +195,8 @@
 					<div class="container-fluid">
 						<div class="row">
 							<div class="col-12 col-md-10 offset-md-1 text-center sk__heading-spacer-xl">
-								<h1 class="super-heading sk__clipped-text sk__gradient-back-v1"><span class="heading-deco">&lt;- </span>showcase gallery.<span class="heading-deco"> -&gt;</span></h1>
-								<h2 class="h2-regular">Premium <strong>Parallax</strong> Stylized Project Gallery with Dynamic Navigation</h2>
+								<h1 class="super-heading sk__clipped-text sk__gradient-back-v1"><span class="heading-deco">&lt;- </span>Wordpress Agency<span class="heading-deco"> -&gt;</span></h1>
+								<h2 class="h2-regular">Premium <strong>Parallax</strong> We at StlllR love web design</h2>
 							</div>
 						</div>
 						<div class="row">

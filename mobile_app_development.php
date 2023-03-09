@@ -74,7 +74,7 @@
 
 							<!-- XL Desktop Only (Tall Portrait) Thumbnail -->
 							<div class="col-xxl-3 d-none d-xxl-block position-relative sk__project-thumbnail-portrait-col">
-								<img src="assets/images/portfolio-item-thumbnail-portrait.jpg" alt="Sample image.">
+								<img src="https://www.visualytes.com/wp-content/uploads/2021/05/mobile-app-development.jpg-min.png" alt="Sample image.">
 								<div class="sk__project-thumbnail-portrait-cover sk__absolute dark-shade-4-bg"></div>
 							</div>
 
@@ -88,24 +88,24 @@
 										<span class="fat-divider dark-shade-4-bg"></span>
 										<div class="sk__project-infoboxes-helper">
 											<div class="sk__proj-infobox">
-												<div class="sk__proj-infobox-label">Project Name</div><div class="sk__proj-infobox-value">Aesthetic Excellence</div>
+												<div class="sk__proj-infobox-label">Project Name</div><div class="sk__proj-infobox-value">Mobile App Development</div>
 											</div>
 											<div class="sk__proj-infobox">
-												<div class="sk__proj-infobox-label">Created by</div><div class="sk__proj-infobox-value">Bruce Wayne</div>
+												<div class="sk__proj-infobox-label">Created by</div><div class="sk__proj-infobox-value">Yahya Sadiq</div>
 											</div>
 											<div class="sk__proj-infobox">
-												<div class="sk__proj-infobox-label">Client</div><div class="sk__proj-infobox-value">Palmolive Garnier Sony</div>
+												<div class="sk__proj-infobox-label">Client</div><div class="sk__proj-infobox-value">Shahmeer</div>
 											</div>
 											<div class="sk__proj-infobox">
-												<div class="sk__proj-infobox-label">Budget</div><div class="sk__proj-infobox-value">$50,000.00</div>
+												<div class="sk__proj-infobox-label">Budget</div><div class="sk__proj-infobox-value">$5000.00</div>
 											</div>
 											<div class="sk__proj-infobox">
-												<div class="sk__proj-infobox-label">Completion Date</div><div class="sk__proj-infobox-value">May 4th 2022</div>
+												<div class="sk__proj-infobox-label">Completion Date</div><div class="sk__proj-infobox-value">April 4th 2023</div>
 											</div>
 										</div>
 										<div class="sk__project-infoboxes-helper sk__right">	
 											<div class="sk__proj-infobox">
-												<div class="sk__proj-infobox-label">Project Type</div><div class="sk__proj-infobox-value">Corporate Identity</div>
+												<div class="sk__proj-infobox-label">Project Type</div><div class="sk__proj-infobox-value">Development of Apps</div>
 											</div>
 											<div class="sk__proj-infobox">
 												<div class="sk__proj-infobox-label">Project Length</div><div class="sk__proj-infobox-value">3 Months</div>
@@ -114,13 +114,13 @@
 												<div class="sk__proj-infobox-label">Skills Used</div><div class="sk__proj-infobox-value">Design, Photography...</div>
 											</div>
 											<div class="sk__proj-infobox">
-												<div class="sk__proj-infobox-label">Project Manager</div><div class="sk__proj-infobox-value">Monden Illoppsen</div>
+												<div class="sk__proj-infobox-label">Project Manager</div><div class="sk__proj-infobox-value">Asad Mumtaz</div>
 											</div>
 										</div>
 									</div>
 									<!-- Wide Landscape Thumbnail -->
 									<div class="col sk__project-thumbnail-landscape-col sk__flex-center-y position-relative">
-										<img src="assets/images/portfolio-item-thumbnail-landscape.webp" alt="Sample image.">
+										<img src="https://img.etimg.com/thumb/msid-46065504,width-1200,height-900,imgsize-52163,overlay-economictimes/photo.jpg" alt="Sample image.">
 										<div class="sk__project-thumbnail-landscape-cover sk__absolute dark-shade-4-bg"></div>
 									</div>
 								</div>
@@ -129,7 +129,7 @@
 								<div class="row order-1 order-xxl-2 sk__project-main-heading text-center py-2 py-sm-0 sk__flex-center">
 									<div class="col position-relative mb-5 pb-0 pb-md-5 pb-lg-0 pb-xl-5 mb-xxl-0 pb-xxl-0">
 										<div class="cover-text-wrapper d-block">
-											<h1 class="super-heading sk__clipped-text sk__gradient-back-v1 mb-xxl-0">&nbsp;Palmolive Garnier Sony&nbsp;</h1>
+											<h1 class="super-heading sk__clipped-text sk__gradient-back-v1 mb-xxl-0">&nbsp;Transform your ideas into &nbsp;</h1>
 										</div>
 										<div class="cover-text-wrapper d-block">
 											<h2>Some things are best when Designed by professionals</h2>
@@ -153,17 +153,17 @@
 								<img src="assets/images/portfolio-item-body-image.webp" alt="Sample image.">
 							</div>
 							<div class="col-xl-6 col-xxl-5 sk__project-body-info-col mt-4 mt-xl-0 pt-5 pt-xl-0 text-center text-sm-start">
-								<h4 class="animated-element">superdark photoshoot session creative</h4>
-								<p class="animated-element">Aesthetic helvetica cred ennui hella subway tile. Migas hexagon actually street art, chia truffaut food truck meh letterpress flexitarian vegan hot chicken kombucha cred. Chartreuse normcore fashion axe, fanny pack keffiyeh single-origin coffee snackwave banh mi 8-bit beard. Waistcoat try-hard green juice taiyaki synth cornhole.<br />Portland meggings truffaut, meditation echo park food truck cliche fixie ugh. Shoreditch cold-pressed gochujang slow-carb, banh mi pug farm-to-table vaporware adaptogen keytar pork belly venmo. Schlitz single-origin coffee godard fam portland dreamcatcher. Swag tattooed XOXO slow-carb palo santo freegan health goth, tote bag unicorn paleo. Sustainable thundercats godard sriracha polaroid.<br />Helvetica bushwick hexagon chia pork belly +1. Health goth retro live-edge palo santo adaptogen taiyaki, fashion axe shaman four dollar toast. Retro tofu semiotics vape vexillologist, gochujang kogi cold-pressed photo booth.</p>
+								<h4 class="animated-element">Quality standards we live up to</h4>
+								<p class="animated-element">We can also help with the design, implementation, and maintenance of your app. Contact us today to discuss how we can help make your dream a reality!<br />Once we have built your app, we continue to test and refine it until it is ready to launch. We also provide ongoing maintenance and support to ensure your app is always up-to-date and functioning properly. Our team of experts is always available to answer any questions you may have and provide guidance and advice as needed.<br />Our team of experienced developers will work with you to ensure that all of your needs are met and that your app is running smoothly. We will also provide regular updates and enhancements to your app to ensure that it is always running at its best.</p>
 								<a class="btn btn-outline-light animated-element" href="#" role="button">SOME LINK -></a>
 								<div class="row">
 									<div class="col-12 col-sm-6">
-										<h5 class="animated-element">There are no boundaries</h5>
-										<p class="p-xs animated-element">Salvia vape blue bottle bespoke wolf celiac quinoa cloud bread letterpress hammock photo booth. Palo santo vexillologist venmo shaman pitchfork tote bag.</p>
+										<h5 class="animated-element">IOS App</h5>
+										<p class="p-xs animated-element">Our custom iOS app is designed to make it easy for users to navigate and access the features they need. With intuitive navigation, users can quickly access the features they need with minimal effort. We also provide helpful tutorials and tips to help users maximize their experience.</p>
 									</div>
 									<div class="col-12 col-sm-6">
-										<h5 class="animated-element">There are no boundaries</h5>
-										<p class="p-xs animated-element">Salvia vape blue bottle bespoke wolf celiac quinoa cloud bread letterpress hammock photo booth. Palo santo vexillologist venmo shaman pitchfork tote bag.</p>
+										<h5 class="animated-element">Android App</h5>
+										<p class="p-xs animated-element">With our app, you can streamline your business operations, increase customer engagement, and provide an enhanced user experience for your customers. With our custom Android app, you can boost your business and stay ahead of the competition.</p>
 									</div>
 								</div>
 								<div class="row">
@@ -193,8 +193,8 @@
 					<div class="container-fluid">
 						<div class="row">
 							<div class="col-12 col-md-10 offset-md-1 text-center sk__heading-spacer-xl">
-								<h1 class="super-heading sk__clipped-text sk__gradient-back-v1"><span class="heading-deco">&lt;- </span>showcase gallery.<span class="heading-deco"> -&gt;</span></h1>
-								<h2 class="h2-regular">Premium <strong>Parallax</strong> Stylized Project Gallery with Dynamic Navigation</h2>
+								<h1 class="super-heading sk__clipped-text sk__gradient-back-v1"><span class="heading-deco">&lt;- </span>Mobile App Development<span class="heading-deco"> -&gt;</span></h1>
+								<h2 class="h2-regular">We <strong>StlllR</strong> love mobile app developments</h2>
 							</div>
 						</div>
 						<div class="row">

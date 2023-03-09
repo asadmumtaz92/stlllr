@@ -15,7 +15,7 @@
 
 	<meta property="og:site_name" content="SkilltechWebDesign.com"/>
 
-	<title>UI/UX services</title>
+	<title>UI/UX Services</title>
 	<link rel="icon" href="favicon.ico" type="image/x-icon">
 	<link rel="apple-touch-icon-precomposed" type="image/x-icon" href="assets/images/apple-touch-icon-72x72-precomposed.png" sizes="72x72" />
 	<link rel="apple-touch-icon-precomposed" type="image/x-icon" href="assets/images/apple-touch-icon-114x114-precomposed.png" sizes="114x114" />
@@ -119,7 +119,7 @@
 									</div>
 									<!-- Wide Landscape Thumbnail -->
 									<div class="col sk__project-thumbnail-landscape-col sk__flex-center-y position-relative">
-										<img src="assets/images/portfolio-item-thumbnail-landscape.webp" alt="Sample image.">
+										<img src="https://wordpress.org/files/2022/08/embed-image.png" alt="Sample image.">
 										<div class="sk__project-thumbnail-landscape-cover sk__absolute dark-shade-4-bg"></div>
 									</div>
 								</div>
@@ -233,10 +233,10 @@
 						<div class="row">
 							<div class="col text-center">
 								<div class="sk__warped-text-wrapper sk__flex-center">
-									<span class="sk__warped-text">GET THEME NOW</span>
+									<span class="sk__warped-text">User-friendlywebsites</span>
 								</div>
-								<h3><strong>BETTER DESIGN AESTHETICS</strong></h3>
-								<a class="btn btn-lg btn-outline-light sk__warped-button" href="https://1.envato.market/a1mP7Z" role="button">BUY THEME -></a>
+								<h3><strong>BETTER WEBDESIGNS</strong></h3>
+								<a class="btn btn-lg btn-outline-light sk__warped-button" href="https://1.envato.market/a1mP7Z" role="button">BUY Designs -></a>
 							</div>
 						</div>
 					</div>
