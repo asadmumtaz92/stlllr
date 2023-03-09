@@ -282,7 +282,7 @@
 							<div class="col sk__portfolio-thumbs px-sm-3 px-md-5">
 								<div class="sk__portfolio-wrapper text-center">
 									<div class="sk__portfolio-item">
-										<a href="page-portfolio-item.html" class="sk__portfolio-thumblink">
+										<a href="wordpress_services.php" class="sk__portfolio-thumblink">
 											<div class="sk__pt-link-icon">
 												<div class="sk__pt-link-icon-ovr-1"></div>
 												<div class="sk__pt-link-icon-ovr-2"></div>
@@ -295,6 +295,7 @@
 											</div>
 										</a>
 									</div>
+
 									<div class="sk__portfolio-item">
 										<a href="mobile_app_development.php" class="sk__portfolio-thumblink">
 											<div class="sk__pt-link-icon">
@@ -310,7 +311,7 @@
 										</a>
 									</div>
 									<div class="sk__portfolio-item">
-										<a href="page-portfolio-item.html" class="sk__portfolio-thumblink">
+										<a href="adminpanel_services.php" class="sk__portfolio-thumblink">
 											<div class="sk__pt-link-icon">
 												<div class="sk__pt-link-icon-ovr-1"></div>
 												<div class="sk__pt-link-icon-ovr-2"></div>
@@ -324,7 +325,7 @@
 										</a>
 									</div>
 									<div class="sk__portfolio-item">
-										<a href="page-portfolio-item.html" class="sk__portfolio-thumblink">
+										<a href="Socialmediamarketing_services.php" class="sk__portfolio-thumblink">
 											<div class="sk__pt-link-icon">
 												<div class="sk__pt-link-icon-ovr-1"></div>
 												<div class="sk__pt-link-icon-ovr-2"></div>
@@ -338,7 +339,7 @@
 										</a>
 									</div>
 									<div class="sk__portfolio-item">
-										<a href="page-portfolio-item.html" class="sk__portfolio-thumblink">
+										<a href="uiux_services.php" class="sk__portfolio-thumblink">
 											<div class="sk__pt-link-icon">
 												<div class="sk__pt-link-icon-ovr-1"></div>
 												<div class="sk__pt-link-icon-ovr-2"></div>

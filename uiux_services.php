@@ -15,8 +15,7 @@
 
 	<meta property="og:site_name" content="SkilltechWebDesign.com"/>
 
-	<title>Wordpress_service.php</title>
-
+	<title>ui/ux services</title>
 	<link rel="icon" href="favicon.ico" type="image/x-icon">
 	<link rel="apple-touch-icon-precomposed" type="image/x-icon" href="assets/images/apple-touch-icon-72x72-precomposed.png" sizes="72x72" />
 	<link rel="apple-touch-icon-precomposed" type="image/x-icon" href="assets/images/apple-touch-icon-114x114-precomposed.png" sizes="114x114" />
