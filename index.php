@@ -15,10 +15,10 @@
 
 	<meta property="og:site_name" content="SkilltechWebDesign.com"/>
 
-	<title>StlllR Home</title>         
+	<title>Home</title>         
 	
 
-	<link rel="icon" href="favicon.ico" type="image/x-icon">
+	<link rel="icon" href="assets/logo/logo_black.png" type="image/x-icon">
 	<link rel="apple-touch-icon-precomposed" type="image/x-icon" href="assets/images/apple-touch-icon-72x72-precomposed.png" sizes="72x72" />
 	<link rel="apple-touch-icon-precomposed" type="image/x-icon" href="assets/images/apple-touch-icon-114x114-precomposed.png" sizes="114x114" />
 	<link rel="apple-touch-icon-precomposed" type="image/x-icon" href="assets/images/apple-touch-icon-144x144-precomposed.png" sizes="144x144" />

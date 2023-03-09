@@ -2,11 +2,11 @@
 
 	echo '
 		<!-- Master Curtain Effect -->
-		<!--section class="sk__master-curtain">
-			<div class="mcurtain mcurtain-left"></div>
+		<section class="sk__master-curtain">
 			<div class="mcurtain mcurtain-center"></div>
-			<div class="mcurtain mcurtain-right"></div>
-		</section-->
+			<!--div class="mcurtain mcurtain-left"></div>
+			<div class="mcurtain mcurtain-right"></div-->
+		</section>
 
 		<!-- Back to top button -->
 		<div class="sk__back-to-top-wrap">
@@ -321,16 +321,12 @@
 						</li>
 					</ul>
 				</li>
-		
-				<li class="nav-item">
-					<a class="nav-link hvr-underline-from-center" href="theme-preview.php#demo-select"><span class="sk__menu-icon"><span class="icon-laptop1"></span></span>Demos</a>
-				</li>
-		
+
 				<li class="nav-item">
 					<a class="nav-link" href="https://1.envato.market/a1mP7Z"><span class="sk__menu-icon"><span class="icon-shopping-cart"></span></span>Get StlllR Now</a>
 				</li>
 				<!-- Regular Menu Items End -->
-		
+
 				<!-- Mobile Menu Social Icons -->
 				<li data-nav-custom-content class="custom-content sk__menu-socials">
 					<section class="footer-socials-section">
@@ -339,15 +335,15 @@
 							<div class="footer-socials">
 								<a class="social-icons" href="https://www.facebook.com/SkilltechWebDesign" target="_blank"><span><span class="icon-facebook1"></span></span></a>
 								<a class="social-icons" href="https://www.facebook.com/SkilltechWebDesign" target="_blank"><span><span class="icon-twitter1"></span></span></a>
-								<a class="social-icons" href="https://www.facebook.com/SkilltechWebDesign" target="_blank"><span><span class="icon-behance1"></span></span></a>
+								<a class="social-icons" href="https://www.facebook.com/SkilltechWebDesign" target="_blank"><span><span class="icon-linkedin"></span></span></a>
 								<a class="social-icons" href="https://www.facebook.com/SkilltechWebDesign" target="_blank"><span><span class="icon-dribbble1"></span></span></a>
 							</div>
 						</div>
 					</section>
 				</li>
-		
+
 			</ul>
 		</nav>
 		<!-- /.sk__menu -->
-	';
+	'
 ?>
