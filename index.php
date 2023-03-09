@@ -5,12 +5,12 @@
 
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-	<meta name="description" content="This is DarkStar, see it live now!">
+	<meta name="description" content="This is StlllR, see it live now!">
 	<meta name="author" content="Skilltech Web Design">
-	<meta name="keywords" content="DarkStar, dark theme, best dark theme, best dark html, best dark website design, best dark websites, dark web design, best html themes, best html templates, best websites, dark portfolio, dark creative, gsap theme, skilltech, skilltech web design"/>
+	<meta name="keywords" content="StlllR, dark theme, best dark theme, best dark html, best dark website design, best dark websites, dark web design, best html themes, best html templates, best websites, portfolio, creative, gsap theme, skilltech, skilltech web design"/>
 
-	<meta property="og:title" content="DarkStar - The Ultimate Dark HTML Template"/>
-	<meta property="og:description" content="Superior Dark Multipurpose Theme · $235 Added Value · Stunning Effects & Clean Code · Build a Website Today with DarkStar!"/>
+	<meta property="og:title" content="StlllR - The Ultimate Dark HTML Template"/>
+	<meta property="og:description" content="Superior Theme · Added Value · Stunning Effects & Clean Code · Build a Website Today with StlllR!"/>
 	<meta property="og:image" content="assets/images/facebook-post-image-default.jpg"/>
 
 	<meta property="og:site_name" content="SkilltechWebDesign.com"/>
@@ -66,14 +66,15 @@
 
 				<!-- Hero Social Icons Menu -->
 				<?php include_once("includes/social-link.php") ?>
-			
+
+
 				<!-- Slider -->
 				<?php include_once("includes/carousel.php") ?>
-				
+
+
 				<section class="sk__parallax-background-section sk__parallax-fixer-section sk__parallax-fixer-ignore-height overflow-hidden" style="max-height: 0;">
 					<div class="sk__parallax-background-element"></div>
 				</section>
-
 
 
 				<!-- Parallax Rings Section (massive step forward)
@@ -268,97 +269,8 @@
 				<!-- /.sk__about-us-section -->
 
 
-				<!-- Portfolio Section
-				================================================== -->
-				<section class="sk__portfolio-section sk__py-l dark-shade-2-bg sk__solid-menu-bar">
-					<div class="container-fluid">
-						<div class="row text-center">
-							<div class="col sk__heading-spacer-l">
-								<h1 class="h1-small trigger-portfolio-thumbs-entrance">Services</h1>
-							</div>
-						</div>
-
-						<div class="row">
-							<div class="col sk__portfolio-thumbs px-sm-3 px-md-5">
-								<div class="sk__portfolio-wrapper text-center">
-									<div class="sk__portfolio-item">
-										<a href="wordpress_services.php" class="sk__portfolio-thumblink">
-											<div class="sk__pt-link-icon">
-												<div class="sk__pt-link-icon-ovr-1"></div>
-												<div class="sk__pt-link-icon-ovr-2"></div>
-											</div>
-											<div class="sk__portfolio-thumblink-image sk__image-back-cover" style="background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQLNXovSPOvSX16eiqNxUyM2n9cskkQEIYYk1uHy4c6cuVfIUB);"></div>
-											<div class="portfolio-thumb-info">
-												<h6>WordPress</h6>
-												<h4 class="h4-small">Development</h4>
-												<p>View Project</p>
-											</div>
-										</a>
-									</div>
-
-									<div class="sk__portfolio-item">
-										<a href="mobile_app_development.php" class="sk__portfolio-thumblink">
-											<div class="sk__pt-link-icon">
-												<div class="sk__pt-link-icon-ovr-1"></div>
-												<div class="sk__pt-link-icon-ovr-2"></div>
-											</div>
-											<div class="sk__portfolio-thumblink-image sk__image-back-cover" style="background-image: url(https://img.freepik.com/free-vector/admin-dashboard-panel-template_23-2147900459.jpg?w=2000);"></div>
-											<div class="portfolio-thumb-info">
-												<h6>Mobile App</h6>
-												<h4 class="h4-small">Development</h4>
-												<p>View Project</p>
-											</div>
-										</a>
-									</div>
-									<div class="sk__portfolio-item">
-										<a href="adminpanel_services.php" class="sk__portfolio-thumblink">
-											<div class="sk__pt-link-icon">
-												<div class="sk__pt-link-icon-ovr-1"></div>
-												<div class="sk__pt-link-icon-ovr-2"></div>
-											</div>
-											<div class="sk__portfolio-thumblink-image sk__image-back-cover" style="background-image: url('assets/images/portfolio-thumbs-03.webp');"></div>
-											<div class="portfolio-thumb-info">
-												<h6>Admin Panel</h6>
-												<h4 class="h4-small">Development</h4>
-												<p>View Project</p>
-											</div>
-										</a>
-									</div>
-									<div class="sk__portfolio-item">
-										<a href="Socialmediamarketing_services.php" class="sk__portfolio-thumblink">
-											<div class="sk__pt-link-icon">
-												<div class="sk__pt-link-icon-ovr-1"></div>
-												<div class="sk__pt-link-icon-ovr-2"></div>
-											</div>
-											<div class="sk__portfolio-thumblink-image sk__image-back-cover" style="background-image: url(https://www.pngkey.com/png/detail/86-862344_social-media-marketing-png.png);"></div>
-											<div class="portfolio-thumb-info">
-												<h6 style="color:black">Social Media Marketing</h6>
-												<h4 class="h4-small">Development</h4>
-												<p>View Project</p>
-											</div>
-										</a>
-									</div>
-									<div class="sk__portfolio-item">
-										<a href="uiux_services.php" class="sk__portfolio-thumblink">
-											<div class="sk__pt-link-icon">
-												<div class="sk__pt-link-icon-ovr-1"></div>
-												<div class="sk__pt-link-icon-ovr-2"></div>
-											</div>
-											<div class="sk__portfolio-thumblink-image sk__image-back-cover" style="background-image: url('assets/images/portfolio-thumbs-05.webp');"></div>
-											<div class="portfolio-thumb-info">
-												<h6>UI/UX</h6>
-												<h4 class="h4-small">Development</h4>
-												<p>View Project</p>
-											</div>
-										</a>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</section>
-				<!-- /.sk__portfolio-section -->
-
+				<!-- SERVICES -->
+				<?php include_once("includes/services.php") ?>
 
 
 				<!-- Featured Project Section
@@ -410,8 +322,6 @@
 				<!-- /.sk__featured-project-section -->
 
 				<div class="dark-shade-2-bg featured-project-padder"></div>
-
-
 
 
 				<!-- Services Section
@@ -540,6 +450,7 @@
 					</div>
 				</section>
 
+
 				<!-- Skills Section
 				================================================== -->
 				<section id="skills" class="sk__skills sk__py-m">
@@ -556,7 +467,7 @@
 						<div class="row sk__skills-row">
 							<div class="col-12">
 								<div class="sk__skill-wrap">
-									<p class="sk__skill-name sk__skill-el">Website Design and Development</p>
+									<p class="sk__skill-name sk__skill-el">Website Development</p>
 									<div class="sk__skill-area sk__skill-el">
 										<div class="sk__skill-bar sk__gradient-back-v1"></div>
 									</div>
@@ -637,8 +548,6 @@
 
 				</section>
 				<!-- /.sk__skills -->
-
-
 
 
 				<!-- Contact Us Section

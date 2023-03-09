@@ -5,17 +5,17 @@
 
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-	<meta name="description" content="This is DarkStar, see it live now!">
+	<meta name="description" content="This is StlllR, see it live now!">
 	<meta name="author" content="Skilltech Web Design">
-	<meta name="keywords" content="DarkStar, dark theme, best dark theme, best dark html, best dark website design, best dark websites, dark web design, best html themes, best html templates, best websites, dark portfolio, dark creative, gsap theme, skilltech, skilltech web design"/>
+	<meta name="keywords" content="StlllR, dark theme, best dark theme, best dark html, best dark website design, best dark websites, dark web design, best html themes, best html templates, best websites, dark portfolio, dark creative, gsap theme, skilltech, skilltech web design"/>
 
-	<meta property="og:title" content="DarkStar - The Ultimate Dark HTML Template"/>
-	<meta property="og:description" content="Superior Dark Multipurpose Theme · $235 Added Value · Stunning Effects & Clean Code · Build a Website Today with DarkStar!"/>
+	<meta property="og:title" content="StlllR - The Ultimate Dark HTML Template"/>
+	<meta property="og:description" content="Superior Dark Multipurpose Theme · $235 Added Value · Stunning Effects & Clean Code · Build a Website Today with StlllR!"/>
 	<meta property="og:image" content="assets/images/facebook-post-image-mask-1.jpg"/>
 
 	<meta property="og:site_name" content="SkilltechWebDesign.com"/>
 
-	<title>DarkStar | Elements | Mockups</title>
+	<title>StlllR | Elements | Mockups</title>
 
 	<link rel="icon" href="favicon.ico" type="image/x-icon">
 	<link rel="apple-touch-icon-precomposed" type="image/x-icon" href="assets/images/apple-touch-icon-72x72-precomposed.png" sizes="72x72" />
@@ -80,7 +80,7 @@
 							<div class="col col-12 col-md-8 col-lg-12 offset-0 offset-md-2 offset-lg-0 sk__heading-spacer-l">
 								<div class="sk__reveal-all-wrapped-text">
 									<div class="cover-text-wrapper">
-										<p class="p-super">With DarkStar you get $22 worth of Premium PSD and AI Mockups along with useful mockups for logos and other images.</p>
+										<p class="p-super">With StlllR you get $22 worth of Premium PSD and AI Mockups along with useful mockups for logos and other images.</p>
 									</div>
 								</div>
 							</div>

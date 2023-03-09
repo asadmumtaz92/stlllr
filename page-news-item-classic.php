@@ -5,17 +5,17 @@
 
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-	<meta name="description" content="This is DarkStar, see it live now!">
+	<meta name="description" content="This is StlllR, see it live now!">
 	<meta name="author" content="Skilltech Web Design">
-	<meta name="keywords" content="DarkStar, dark theme, best dark theme, best dark html, best dark website design, best dark websites, dark web design, best html themes, best html templates, best websites, dark portfolio, dark creative, gsap theme, skilltech, skilltech web design"/>
+	<meta name="keywords" content="StlllR, dark theme, best dark theme, best dark html, best dark website design, best dark websites, dark web design, best html themes, best html templates, best websites, dark portfolio, dark creative, gsap theme, skilltech, skilltech web design"/>
 
-	<meta property="og:title" content="DarkStar - The Ultimate Dark HTML Template"/>
-	<meta property="og:description" content="Superior Dark Multipurpose Theme · $235 Added Value · Stunning Effects & Clean Code · Build a Website Today with DarkStar!"/>
+	<meta property="og:title" content="StlllR - The Ultimate Dark HTML Template"/>
+	<meta property="og:description" content="Superior Dark Multipurpose Theme · $235 Added Value · Stunning Effects & Clean Code · Build a Website Today with StlllR!"/>
 	<meta property="og:image" content="assets/images/facebook-post-image-default.jpg"/>
 
 	<meta property="og:site_name" content="SkilltechWebDesign.com"/>
 
-	<title>DarkStar | News Item Page | Classic</title>
+	<title>StlllR | News Item Page | Classic</title>
 
 	<link rel="icon" href="favicon.ico" type="image/x-icon">
 	<link rel="apple-touch-icon-precomposed" type="image/x-icon" href="assets/images/apple-touch-icon-72x72-precomposed.png" sizes="72x72" />
@@ -96,7 +96,7 @@
 									
 									<h4>Dream & Endeavour</h4>
 									
-									<p>New visionary aesthetics that are taking web design to the next level with DarkStar Theme. Ultra fast Theme: experience the awesomeness of the fast theme where a carefully thought out design and optimization were employed in order to create a perfect balance of offered features vs the final website performance, welcome to DarkStar! A modern Theme for a modern time, modern browsers and modern effects, with carefully picked, selected and designed beautiful functionality.</p>
+									<p>New visionary aesthetics that are taking web design to the next level with StlllR Theme. Ultra fast Theme: experience the awesomeness of the fast theme where a carefully thought out design and optimization were employed in order to create a perfect balance of offered features vs the final website performance, welcome to StlllR! A modern Theme for a modern time, modern browsers and modern effects, with carefully picked, selected and designed beautiful functionality.</p>
 
 									<img class="mt-5 mb-5" src="assets/images/article-in-content-image.webp" alt="Couple on the beach.">
 									

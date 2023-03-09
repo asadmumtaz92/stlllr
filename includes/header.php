@@ -327,7 +327,7 @@
 				</li>
 		
 				<li class="nav-item">
-					<a class="nav-link" href="https://1.envato.market/a1mP7Z"><span class="sk__menu-icon"><span class="icon-shopping-cart"></span></span>Get DarkStar Now</a>
+					<a class="nav-link" href="https://1.envato.market/a1mP7Z"><span class="sk__menu-icon"><span class="icon-shopping-cart"></span></span>Get StlllR Now</a>
 				</li>
 				<!-- Regular Menu Items End -->
 		

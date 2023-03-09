@@ -5,17 +5,17 @@
 
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-	<meta name="description" content="This is DarkStar, see it live now!">
+	<meta name="description" content="This is StlllR, see it live now!">
 	<meta name="author" content="Skilltech Web Design">
-	<meta name="keywords" content="DarkStar, dark theme, best dark theme, best dark html, best dark website design, best dark websites, dark web design, best html themes, best html templates, best websites, dark portfolio, dark creative, gsap theme, skilltech, skilltech web design"/>
+	<meta name="keywords" content="StlllR, dark theme, best dark theme, best dark html, best dark website design, best dark websites, dark web design, best html themes, best html templates, best websites, dark portfolio, dark creative, gsap theme, skilltech, skilltech web design"/>
 
-	<meta property="og:title" content="DarkStar - The Ultimate Dark HTML Template"/>
-	<meta property="og:description" content="Superior Dark Multipurpose Theme · $235 Added Value · Stunning Effects & Clean Code · Build a Website Today with DarkStar!"/>
+	<meta property="og:title" content="StlllR - The Ultimate Dark HTML Template"/>
+	<meta property="og:description" content="Superior Dark Multipurpose Theme · $235 Added Value · Stunning Effects & Clean Code · Build a Website Today with StlllR!"/>
 	<meta property="og:image" content="assets/images/facebook-post-image-default.jpg"/>
 
 	<meta property="og:site_name" content="SkilltechWebDesign.com"/>
 
-	<title>DarkStar | Elements | GSAP</title>
+	<title>StlllR | Elements | GSAP</title>
 
 	<link rel="icon" href="favicon.ico" type="image/x-icon">
 	<link rel="apple-touch-icon-precomposed" type="image/x-icon" href="assets/images/apple-touch-icon-72x72-precomposed.png" sizes="72x72" />
@@ -75,7 +75,7 @@
 									</div>
 								</div>
 								<div class="cover-text-wrapper">
-									<h2 class="h2-large thin sk__heading-spacer-s">DarkStar is powered by Greensock GSAP - the best premium animation engine on the market. <strong>$200 per year added value</strong>!</h2>
+									<h2 class="h2-large thin sk__heading-spacer-s">StlllR is powered by Greensock GSAP - the best premium animation engine on the market. <strong>$200 per year added value</strong>!</h2>
 								</div>
 							</div>
 						</div>
@@ -103,7 +103,7 @@
 										<div class="colorline-deco-normal sk__absolute"></div>
 										<div class="colorline-deco-hover sk__absolute sk__gradient-back-v1"></div>
 									</div>
-									<p>DarkStar includes <strong>Business Green</strong> GSAP assets which means you get all the top-tier premium scripts for free. Have you noticed the luxury feel to effects? Well, they're not MIT stuff.</p>
+									<p>StlllR includes <strong>Business Green</strong> GSAP assets which means you get all the top-tier premium scripts for free. Have you noticed the luxury feel to effects? Well, they're not MIT stuff.</p>
 								</div>
 							</div>
 							<div class="col-x1-12 col-sm-6 col-md-4 sk__feature-col">
@@ -164,7 +164,7 @@
 						</div>
 						<div class="row sk__pt-s">
 							<div class="text-center sk__heading-spacer-m">
-								<h3 class="h3-elegant">DarkStar is worth it for just the GSAP plugins you get with it!</h3>
+								<h3 class="h3-elegant">StlllR is worth it for just the GSAP plugins you get with it!</h3>
 							</div>
 						</div>
 						<div class="row">
