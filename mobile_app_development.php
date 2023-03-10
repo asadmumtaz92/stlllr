@@ -172,10 +172,10 @@
 											<p class="mb-1 animated-element">Useful links</p>
 											<div class="footer-socials-inner">
 												<div class="footer-socials animated-element">
+												<a class="social-icons" href="https://www.facebook.com/SkilltechWebDesign" target="_blank"><span><span class="icon-linkedin"></span></span></a>
 													<a class="social-icons" href="https://www.facebook.com/SkilltechWebDesign" target="_blank"><span><span class="icon-facebook1"></span></span></a>
 													<a class="social-icons" href="https://www.facebook.com/SkilltechWebDesign" target="_blank"><span><span class="icon-twitter1"></span></span></a>
-													<a class="social-icons" href="https://www.facebook.com/SkilltechWebDesign" target="_blank"><span><span class="icon-behance1"></span></span></a>
-													<a class="social-icons" href="https://www.facebook.com/SkilltechWebDesign" target="_blank"><span><span class="icon-dribbble1"></span></span></a>
+													<a class="social-icons" href="https://www.facebook.com/SkilltechWebDesign" target="_blank"><span><span class="icon-instagram1"></span></span></a>
 												</div>
 											</div>
 										</section>
@@ -193,7 +193,7 @@
 					<div class="container-fluid">
 						<div class="row">
 							<div class="col-12 col-md-10 offset-md-1 text-center sk__heading-spacer-xl">
-								<h1 class="super-heading sk__clipped-text sk__gradient-back-v1"><span class="heading-deco">&lt;- </span>Mobile App Development<span class="heading-deco"> -&gt;</span></h1>
+								<h1 class="super-heading sk__clipped-text sk__gradient-back-v1"></span>Mobile App Development</span></h1>
 								<h2 class="h2-regular">We <strong>StlllR</strong> love mobile app developments</h2>
 							</div>
 						</div>
@@ -262,22 +262,7 @@
 								<div class="sk__contact-right text-center text-sm-start">
 
 									<!-- Preview Only Static Form -->
-									<form class="sk__form sk__contact-form">
-
-										<div class="form-group">
-											<input type="text" name="the_name" placeholder="Name*" tabindex="1">
-										</div>
-										<div class="form-group">
-											<input type="email" name="the_email" placeholder="Email*" tabindex="2">
-										</div>
-										<div class="form-group">
-											<textarea name="the_message" placeholder="Message*" tabindex="3"></textarea>
-										</div>
-
-										<button type="submit" tabindex="4">Submit</button>
-
-									</form>
-
+							
 									<!-- Real Working Form - Simple Forms V3 -->
 									<!-- <div class="sf-wrapper">
 										<form id="contact-form-1" class="sk__form sk__contact-form" action="assets/vendor/simple-forms/sendmail.php" method="post">

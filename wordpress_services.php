@@ -262,22 +262,7 @@ On the off chance that your site is amateurish, contains show mistakes, or on th
 							<div class="col-12 col-lg-10 offset-lg-1 sk__contact-form-col d-flex justify-content-end">
 								<div class="sk__contact-right text-center text-sm-start">
 
-									<!-- Preview Only Static Form -->
-									<form class="sk__form sk__contact-form">
-
-										<div class="form-group">
-											<input type="text" name="the_name" placeholder="Name*" tabindex="1">
-										</div>
-										<div class="form-group">
-											<input type="email" name="the_email" placeholder="Email*" tabindex="2">
-										</div>
-										<div class="form-group">
-											<textarea name="the_message" placeholder="Message*" tabindex="3"></textarea>
-										</div>
-
-										<button type="submit" tabindex="4">Submit</button>
-
-									</form>
+							
 
 									<!-- Real Working Form - Simple Forms V3 -->
 									<!-- <div class="sf-wrapper">
