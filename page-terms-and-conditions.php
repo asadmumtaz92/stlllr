@@ -180,7 +180,7 @@
 						</div>
 						<div class="row mt-5 text-center">
 							<div class="col">
-								<a class="btn btn-outline-light mb-4" href="index.html" role="button">BACK TO HOME</a>
+								<a class="btn btn-outline-light mb-4" href="index.php" role="button">BACK TO HOME</a>
 							</div>
 						</div>
 					</div>

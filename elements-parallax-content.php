@@ -654,11 +654,11 @@
 						<div class="row sk__iconboxes-wrapper text-center sk__flex-center-x">
 							<div class="col-12 col-sm-6 col-lg-4">
 								<div class="sk__iconbox">
-									<a class="sk__iconbox-icon-link" href="page-service-item.html">
+									<a class="sk__iconbox-icon-link" href="page-service-item.php">
 										<span class="sk__flex-center sk__iconbox-icon"><span class="icon-diamond1 sk__gradient-fancy-text"></span></span>
 										<span class="sk__iconbox-icon-dash"></span>
 									</a>
-									<a class="sk__iconbox-text-link gradient-links-bright" href="page-service-item.html">
+									<a class="sk__iconbox-text-link gradient-links-bright" href="page-service-item.php">
 										<h5>Graphic Design</h5>
 									</a>
 									<p>Superior Graphic Design by best-selling authors for the best Dark HTML theme</p>
@@ -666,11 +666,11 @@
 							</div>
 							<div class="col-12 col-sm-6 col-lg-4">
 								<div class="sk__iconbox">
-									<a class="sk__iconbox-icon-link" href="page-service-item.html">
+									<a class="sk__iconbox-icon-link" href="page-service-item.php">
 										<span class="sk__flex-center sk__iconbox-icon"><span class="icon-power-off sk__gradient-fancy-text"></span></span>
 										<span class="sk__iconbox-icon-dash"></span>
 									</a>
-									<a class="sk__iconbox-text-link gradient-links-bright" href="page-service-item.html">
+									<a class="sk__iconbox-text-link gradient-links-bright" href="page-service-item.php">
 										<h5>Web Design</h5>
 									</a>
 									<p>The best Dark HTML Template, Hero Sliders, Custom Effects, Clean Code and more...</p>
@@ -678,11 +678,11 @@
 							</div>
 							<div class="col-12 col-sm-6 col-lg-4">
 								<div class="sk__iconbox">
-									<a class="sk__iconbox-icon-link" href="page-service-item.html">
+									<a class="sk__iconbox-icon-link" href="page-service-item.php">
 										<span class="sk__flex-center sk__iconbox-icon"><span class="icon-headphones1 sk__gradient-fancy-text"></span></span>
 										<span class="sk__iconbox-icon-dash"></span>
 									</a>
-									<a class="sk__iconbox-text-link gradient-links-bright" href="page-service-item.html">
+									<a class="sk__iconbox-text-link gradient-links-bright" href="page-service-item.php">
 										<h5>Custom Effects</h5>
 									</a>
 									<p>Unique, Beautiful & Custom never before seen Effects designed & crafted from scratch</p>
@@ -840,7 +840,7 @@
 						</div>
 						<div class="row sk__imageboxes">
 							<div class="col-12 col-sm-6 col-lg-4">
-								<a class="sk__imagebox" href="page-service-item.html">
+								<a class="sk__imagebox" href="page-service-item.php">
 									<img class="sk__imagebox-top-bar" src="assets/images/demos-thumbs-browser-bar-mockup.svg" alt="An illustration of a web browser top bar">
 									<div class="sk__imagebox-img-wrap">
 										<img class="sk__imagebox-img" src="assets/images/demo-thumb-01.webp" alt="Screenshot of the demo website">
@@ -851,7 +851,7 @@
 								</a>
 							</div>
 							<div class="col-12 col-sm-6 col-lg-4">
-								<a class="sk__imagebox" href="page-service-item.html">
+								<a class="sk__imagebox" href="page-service-item.php">
 									<img class="sk__imagebox-top-bar" src="assets/images/demos-thumbs-browser-bar-mockup.svg" alt="An illustration of a web browser top bar">
 									<div class="sk__imagebox-img-wrap">
 										<img class="sk__imagebox-img" src="assets/images/demo-thumb-01.webp" alt="Screenshot of the demo website">
@@ -862,7 +862,7 @@
 								</a>
 							</div>
 							<div class="col-12 col-sm-6 col-lg-4">
-								<a class="sk__imagebox" href="page-service-item.html">
+								<a class="sk__imagebox" href="page-service-item.php">
 									<img class="sk__imagebox-top-bar" src="assets/images/demos-thumbs-browser-bar-mockup.svg" alt="An illustration of a web browser top bar">
 									<div class="sk__imagebox-img-wrap">
 										<img class="sk__imagebox-img" src="assets/images/demo-thumb-01.webp" alt="Screenshot of the demo website">
@@ -902,7 +902,7 @@
 						</div>
 						<div class="row sk__imageboxes">
 							<div class="col-12 col-sm-6 col-lg-4">
-								<a class="sk__imagebox" href="page-service-item.html">
+								<a class="sk__imagebox" href="page-service-item.php">
 									<img class="sk__imagebox-top-bar" src="assets/images/demos-thumbs-browser-bar-mockup.svg" alt="An illustration of a web browser top bar">
 									<div class="sk__imagebox-img-wrap">
 										<img class="sk__imagebox-img" src="assets/images/demo-thumb-01.webp" alt="Screenshot of the demo website">
@@ -914,7 +914,7 @@
 								</a>
 							</div>
 							<div class="col-12 col-sm-6 col-lg-4">
-								<a class="sk__imagebox" href="page-service-item.html">
+								<a class="sk__imagebox" href="page-service-item.php">
 									<img class="sk__imagebox-top-bar" src="assets/images/demos-thumbs-browser-bar-mockup.svg" alt="An illustration of a web browser top bar">
 									<div class="sk__imagebox-img-wrap">
 										<img class="sk__imagebox-img" src="assets/images/demo-thumb-01.webp" alt="Screenshot of the demo website">
@@ -926,7 +926,7 @@
 								</a>
 							</div>
 							<div class="col-12 col-sm-6 col-lg-4">
-								<a class="sk__imagebox" href="page-service-item.html">
+								<a class="sk__imagebox" href="page-service-item.php">
 									<img class="sk__imagebox-top-bar" src="assets/images/demos-thumbs-browser-bar-mockup.svg" alt="An illustration of a web browser top bar">
 									<div class="sk__imagebox-img-wrap">
 										<img class="sk__imagebox-img" src="assets/images/demo-thumb-01.webp" alt="Screenshot of the demo website">
@@ -967,7 +967,7 @@
 						</div>
 						<div class="row sk__imageboxes">
 							<div class="col-12 col-sm-6 col-lg-4">
-								<a class="sk__imagebox" href="page-service-item.html">
+								<a class="sk__imagebox" href="page-service-item.php">
 									<img class="sk__imagebox-top-bar" src="assets/images/demos-thumbs-browser-bar-mockup.svg" alt="An illustration of a web browser top bar">
 									<div class="sk__imagebox-img-wrap">
 										<img class="sk__imagebox-img" src="assets/images/demo-thumb-01.webp" alt="Screenshot of the demo website">
@@ -975,7 +975,7 @@
 								</a>
 							</div>
 							<div class="col-12 col-sm-6 col-lg-4">
-								<a class="sk__imagebox" href="page-service-item.html">
+								<a class="sk__imagebox" href="page-service-item.php">
 									<img class="sk__imagebox-top-bar" src="assets/images/demos-thumbs-browser-bar-mockup.svg" alt="An illustration of a web browser top bar">
 									<div class="sk__imagebox-img-wrap">
 										<img class="sk__imagebox-img" src="assets/images/demo-thumb-01.webp" alt="Screenshot of the demo website">
@@ -983,7 +983,7 @@
 								</a>
 							</div>
 							<div class="col-12 col-sm-6 col-lg-4">
-								<a class="sk__imagebox" href="page-service-item.html">
+								<a class="sk__imagebox" href="page-service-item.php">
 									<img class="sk__imagebox-top-bar" src="assets/images/demos-thumbs-browser-bar-mockup.svg" alt="An illustration of a web browser top bar">
 									<div class="sk__imagebox-img-wrap">
 										<img class="sk__imagebox-img" src="assets/images/demo-thumb-01.webp" alt="Screenshot of the demo website">

@@ -277,7 +277,7 @@
 						</div>
 						<div class="row sk__imageboxes">
 							<div class="col-12 col-sm-6 col-lg-4">
-								<a class="sk__imagebox" target="_blank" href="index.html">
+								<a class="sk__imagebox" target="_blank" href="index.php">
 									<img class="sk__imagebox-top-bar" src="assets/images/demos-thumbs-browser-bar-mockup.svg" alt="An illustration of a web browser top bar">
 									<div class="sk__imagebox-img-wrap">
 										<img class="sk__imagebox-img" src="assets/images/demo-thumb-01.webp" alt="Screenshot of the demo website">
@@ -288,7 +288,7 @@
 								</a>
 							</div>
 							<div class="col-12 col-sm-6 col-lg-4">
-								<a class="sk__imagebox" target="_blank" href="home-portfolio.html">
+								<a class="sk__imagebox" target="_blank" href="home-portfolio.php">
 									<img class="sk__imagebox-top-bar" src="assets/images/demos-thumbs-browser-bar-mockup.svg" alt="An illustration of a web browser top bar">
 									<div class="sk__imagebox-img-wrap">
 										<img class="sk__imagebox-img" src="assets/images/demo-thumb-02.webp" alt="Screenshot of the demo website">
@@ -299,7 +299,7 @@
 								</a>
 							</div>
 							<div class="col-12 col-sm-6 col-lg-4">
-								<a class="sk__imagebox" target="_blank" href="home-morphing-hover-hero-image.html">
+								<a class="sk__imagebox" target="_blank" href="home-morphing-hover-hero-image.php">
 									<img class="sk__imagebox-top-bar" src="assets/images/demos-thumbs-browser-bar-mockup.svg" alt="An illustration of a web browser top bar">
 									<div class="sk__imagebox-img-wrap">
 										<img class="sk__imagebox-img" src="assets/images/demo-thumb-03.webp" alt="Screenshot of the demo website">
@@ -310,7 +310,7 @@
 								</a>
 							</div>
 							<div class="col-12 col-sm-6 col-lg-4">
-								<a class="sk__imagebox" target="_blank" href="home-mega-text-video.html">
+								<a class="sk__imagebox" target="_blank" href="home-mega-text-video.php">
 									<img class="sk__imagebox-top-bar" src="assets/images/demos-thumbs-browser-bar-mockup.svg" alt="An illustration of a web browser top bar">
 									<div class="sk__imagebox-img-wrap">
 										<img class="sk__imagebox-img" src="assets/images/demo-thumb-04.webp" alt="Screenshot of the demo website">
@@ -321,7 +321,7 @@
 								</a>
 							</div>
 							<div class="col-12 col-sm-6 col-lg-4">
-								<a class="sk__imagebox" target="_blank" href="home-parallax.html">
+								<a class="sk__imagebox" target="_blank" href="home-parallax.php">
 									<img class="sk__imagebox-top-bar" src="assets/images/demos-thumbs-browser-bar-mockup.svg" alt="An illustration of a web browser top bar">
 									<div class="sk__imagebox-img-wrap">
 										<img class="sk__imagebox-img" src="assets/images/demo-thumb-05.webp" alt="Screenshot of the demo website">
@@ -332,7 +332,7 @@
 								</a>
 							</div>
 							<div class="col-12 col-sm-6 col-lg-4">
-								<a class="sk__imagebox" target="_blank" href="home-parallax-half-screens.html">
+								<a class="sk__imagebox" target="_blank" href="home-parallax-half-screens.php">
 									<img class="sk__imagebox-top-bar" src="assets/images/demos-thumbs-browser-bar-mockup.svg" alt="An illustration of a web browser top bar">
 									<div class="sk__imagebox-img-wrap">
 										<img class="sk__imagebox-img" src="assets/images/demo-thumb-06.webp" alt="Screenshot of the demo website">
@@ -343,7 +343,7 @@
 								</a>
 							</div>
 							<div class="col-12 col-sm-6 col-lg-4">
-								<a class="sk__imagebox" target="_blank" href="home-mega-text-image.html">
+								<a class="sk__imagebox" target="_blank" href="home-mega-text-image.php">
 									<img class="sk__imagebox-top-bar" src="assets/images/demos-thumbs-browser-bar-mockup.svg" alt="An illustration of a web browser top bar">
 									<div class="sk__imagebox-img-wrap">
 										<img class="sk__imagebox-img" src="assets/images/demo-thumb-07.webp" alt="Screenshot of the demo website">
@@ -354,7 +354,7 @@
 								</a>
 							</div>
 							<div class="col-12 col-sm-6 col-lg-4">
-								<a class="sk__imagebox" target="_blank" href="home-fullscreen-video.html">
+								<a class="sk__imagebox" target="_blank" href="home-fullscreen-video.php">
 									<img class="sk__imagebox-top-bar" src="assets/images/demos-thumbs-browser-bar-mockup.svg" alt="An illustration of a web browser top bar">
 									<div class="sk__imagebox-img-wrap">
 										<img class="sk__imagebox-img" src="assets/images/demo-thumb-08.webp" alt="Screenshot of the demo website">
@@ -365,7 +365,7 @@
 								</a>
 							</div>
 							<div class="col-12 col-sm-6 col-lg-4">
-								<a class="sk__imagebox" target="_blank" href="home-parallax-strips-hero.html">
+								<a class="sk__imagebox" target="_blank" href="home-parallax-strips-hero.php">
 									<img class="sk__imagebox-top-bar" src="assets/images/demos-thumbs-browser-bar-mockup.svg" alt="An illustration of a web browser top bar">
 									<div class="sk__imagebox-img-wrap">
 										<img class="sk__imagebox-img" src="assets/images/demo-thumb-09.webp" alt="Screenshot of the demo website">
@@ -376,7 +376,7 @@
 								</a>
 							</div>
 							<div class="col-12 col-sm-6 col-lg-4">
-								<a class="sk__imagebox" target="_blank" href="home-hero-slide-show.html">
+								<a class="sk__imagebox" target="_blank" href="home-hero-slide-show.php">
 									<img class="sk__imagebox-top-bar" src="assets/images/demos-thumbs-browser-bar-mockup.svg" alt="An illustration of a web browser top bar">
 									<div class="sk__imagebox-img-wrap">
 										<img class="sk__imagebox-img" src="assets/images/demo-thumb-10.webp" alt="Screenshot of the demo website">
@@ -387,7 +387,7 @@
 								</a>
 							</div>
 							<div class="col-12 col-sm-6 col-lg-4">
-								<a class="sk__imagebox" target="_blank" href="home-animated-headline.html">
+								<a class="sk__imagebox" target="_blank" href="home-animated-headline.php">
 									<img class="sk__imagebox-top-bar" src="assets/images/demos-thumbs-browser-bar-mockup.svg" alt="An illustration of a web browser top bar">
 									<div class="sk__imagebox-img-wrap">
 										<img class="sk__imagebox-img" src="assets/images/demo-thumb-11.webp" alt="Screenshot of the demo website">
@@ -398,7 +398,7 @@
 								</a>
 							</div>
 							<div class="col-12 col-sm-6 col-lg-4">
-								<a class="sk__imagebox" target="_blank" href="home-hero-image.html">
+								<a class="sk__imagebox" target="_blank" href="home-hero-image.php">
 									<img class="sk__imagebox-top-bar" src="assets/images/demos-thumbs-browser-bar-mockup.svg" alt="An illustration of a web browser top bar">
 									<div class="sk__imagebox-img-wrap">
 										<img class="sk__imagebox-img" src="assets/images/demo-thumb-12.webp" alt="Screenshot of the demo website">
@@ -409,7 +409,7 @@
 								</a>
 							</div>
 							<div class="col-12 col-sm-6 col-lg-4">
-								<a class="sk__imagebox" target="_blank" href="home-news.html">
+								<a class="sk__imagebox" target="_blank" href="home-news.php">
 									<img class="sk__imagebox-top-bar" src="assets/images/demos-thumbs-browser-bar-mockup.svg" alt="An illustration of a web browser top bar">
 									<div class="sk__imagebox-img-wrap">
 										<img class="sk__imagebox-img" src="assets/images/demo-thumb-13.webp" alt="Screenshot of the demo website">
@@ -420,7 +420,7 @@
 								</a>
 							</div>
 							<div class="col-12 col-sm-6 col-lg-4">
-								<a class="sk__imagebox" target="_blank" href="home-fullscreen-video-yt.html">
+								<a class="sk__imagebox" target="_blank" href="home-fullscreen-video-yt.php">
 									<img class="sk__imagebox-top-bar" src="assets/images/demos-thumbs-browser-bar-mockup.svg" alt="An illustration of a web browser top bar">
 									<div class="sk__imagebox-img-wrap">
 										<img class="sk__imagebox-img" src="assets/images/demo-thumb-14.webp" alt="Screenshot of the demo website">
@@ -431,7 +431,7 @@
 								</a>
 							</div>
 							<div class="col-12 col-sm-6 col-lg-4">
-								<a class="sk__imagebox" target="_blank" href="home-combo-light.html">
+								<a class="sk__imagebox" target="_blank" href="home-combo-light.php">
 									<img class="sk__imagebox-top-bar" src="assets/images/demos-thumbs-browser-bar-mockup.svg" alt="An illustration of a web browser top bar">
 									<div class="sk__imagebox-img-wrap">
 										<img class="sk__imagebox-img" src="assets/images/demo-thumb-15.webp" alt="Screenshot of the demo website">
@@ -459,7 +459,7 @@
 						</div>
 						<div class="row sk__imageboxes">
 							<div class="col-12 col-sm-6 col-lg-4">
-								<a class="sk__imagebox" target="_blank" href="page-about-us.html">
+								<a class="sk__imagebox" target="_blank" href="page-about-us.php">
 									<img class="sk__imagebox-top-bar" src="assets/images/demos-thumbs-browser-bar-mockup.svg" alt="An illustration of a web browser top bar">
 									<div class="sk__imagebox-img-wrap">
 										<img class="sk__imagebox-img" src="assets/images/demo-thumb-page-01.webp" alt="Screenshot of the demo website">
@@ -470,7 +470,7 @@
 								</a>
 							</div>
 							<div class="col-12 col-sm-6 col-lg-4">
-								<a class="sk__imagebox" target="_blank" href="page-services.html">
+								<a class="sk__imagebox" target="_blank" href="page-services.php">
 									<img class="sk__imagebox-top-bar" src="assets/images/demos-thumbs-browser-bar-mockup.svg" alt="An illustration of a web browser top bar">
 									<div class="sk__imagebox-img-wrap">
 										<img class="sk__imagebox-img" src="assets/images/demo-thumb-page-02.webp" alt="Screenshot of the demo website">
@@ -481,7 +481,7 @@
 								</a>
 							</div>
 							<div class="col-12 col-sm-6 col-lg-4">
-								<a class="sk__imagebox" target="_blank" href="page-service-item.html">
+								<a class="sk__imagebox" target="_blank" href="page-service-item.php">
 									<img class="sk__imagebox-top-bar" src="assets/images/demos-thumbs-browser-bar-mockup.svg" alt="An illustration of a web browser top bar">
 									<div class="sk__imagebox-img-wrap">
 										<img class="sk__imagebox-img" src="assets/images/demo-thumb-page-03.webp" alt="Screenshot of the demo website">
@@ -492,7 +492,7 @@
 								</a>
 							</div>
 							<div class="col-12 col-sm-6 col-lg-4">
-								<a class="sk__imagebox" target="_blank" href="page-portfolio.html">
+								<a class="sk__imagebox" target="_blank" href="page-portfolio.php">
 									<img class="sk__imagebox-top-bar" src="assets/images/demos-thumbs-browser-bar-mockup.svg" alt="An illustration of a web browser top bar">
 									<div class="sk__imagebox-img-wrap">
 										<img class="sk__imagebox-img" src="assets/images/demo-thumb-page-04.webp" alt="Screenshot of the demo website">
@@ -503,7 +503,7 @@
 								</a>
 							</div>
 							<div class="col-12 col-sm-6 col-lg-4">
-								<a class="sk__imagebox" target="_blank" href="page-portfolio-item.html">
+								<a class="sk__imagebox" target="_blank" href="page-portfolio-item.php">
 									<img class="sk__imagebox-top-bar" src="assets/images/demos-thumbs-browser-bar-mockup.svg" alt="An illustration of a web browser top bar">
 									<div class="sk__imagebox-img-wrap">
 										<img class="sk__imagebox-img" src="assets/images/demo-thumb-page-05.webp" alt="Screenshot of the demo website">
@@ -514,7 +514,7 @@
 								</a>
 							</div>
 							<div class="col-12 col-sm-6 col-lg-4">
-								<a class="sk__imagebox" target="_blank" href="page-portfolio-item-classic-gallery.html">
+								<a class="sk__imagebox" target="_blank" href="page-portfolio-item-classic-gallery.php">
 									<img class="sk__imagebox-top-bar" src="assets/images/demos-thumbs-browser-bar-mockup.svg" alt="An illustration of a web browser top bar">
 									<div class="sk__imagebox-img-wrap">
 										<img class="sk__imagebox-img" src="assets/images/demo-thumb-page-06.webp" alt="Screenshot of the demo website">
@@ -525,7 +525,7 @@
 								</a>
 							</div>
 							<div class="col-12 col-sm-6 col-lg-4">
-								<a class="sk__imagebox" target="_blank" href="page-features.html">
+								<a class="sk__imagebox" target="_blank" href="page-features.php">
 									<img class="sk__imagebox-top-bar" src="assets/images/demos-thumbs-browser-bar-mockup.svg" alt="An illustration of a web browser top bar">
 									<div class="sk__imagebox-img-wrap">
 										<img class="sk__imagebox-img" src="assets/images/demo-thumb-page-07.webp" alt="Screenshot of the demo website">
@@ -536,7 +536,7 @@
 								</a>
 							</div>
 							<div class="col-12 col-sm-6 col-lg-4">
-								<a class="sk__imagebox" target="_blank" href="page-news.html">
+								<a class="sk__imagebox" target="_blank" href="page-news.php">
 									<img class="sk__imagebox-top-bar" src="assets/images/demos-thumbs-browser-bar-mockup.svg" alt="An illustration of a web browser top bar">
 									<div class="sk__imagebox-img-wrap">
 										<img class="sk__imagebox-img" src="assets/images/demo-thumb-page-08.webp" alt="Screenshot of the demo website">
@@ -547,7 +547,7 @@
 								</a>
 							</div>
 							<div class="col-12 col-sm-6 col-lg-4">
-								<a class="sk__imagebox" target="_blank" href="page-news-item.html">
+								<a class="sk__imagebox" target="_blank" href="page-news-item.php">
 									<img class="sk__imagebox-top-bar" src="assets/images/demos-thumbs-browser-bar-mockup.svg" alt="An illustration of a web browser top bar">
 									<div class="sk__imagebox-img-wrap">
 										<img class="sk__imagebox-img" src="assets/images/demo-thumb-page-09.webp" alt="Screenshot of the demo website">
@@ -558,7 +558,7 @@
 								</a>
 							</div>
 							<div class="col-12 col-sm-6 col-lg-4">
-								<a class="sk__imagebox" target="_blank" href="page-news-item-classic.html">
+								<a class="sk__imagebox" target="_blank" href="page-news-item-classic.php">
 									<img class="sk__imagebox-top-bar" src="assets/images/demos-thumbs-browser-bar-mockup.svg" alt="An illustration of a web browser top bar">
 									<div class="sk__imagebox-img-wrap">
 										<img class="sk__imagebox-img" src="assets/images/demo-thumb-page-10.webp" alt="Screenshot of the demo website">
@@ -569,7 +569,7 @@
 								</a>
 							</div>
 							<div class="col-12 col-sm-6 col-lg-4">
-								<a class="sk__imagebox" target="_blank" href="page-contact-us.html">
+								<a class="sk__imagebox" target="_blank" href="page-contact-us.php">
 									<img class="sk__imagebox-top-bar" src="assets/images/demos-thumbs-browser-bar-mockup.svg" alt="An illustration of a web browser top bar">
 									<div class="sk__imagebox-img-wrap">
 										<img class="sk__imagebox-img" src="assets/images/demo-thumb-page-11.webp" alt="Screenshot of the demo website">
@@ -580,7 +580,7 @@
 								</a>
 							</div>
 							<div class="col-12 col-sm-6 col-lg-4">
-								<a class="sk__imagebox" target="_blank" href="page-coming-soon.html">
+								<a class="sk__imagebox" target="_blank" href="page-coming-soon.php">
 									<img class="sk__imagebox-top-bar" src="assets/images/demos-thumbs-browser-bar-mockup.svg" alt="An illustration of a web browser top bar">
 									<div class="sk__imagebox-img-wrap">
 										<img class="sk__imagebox-img" src="assets/images/demo-thumb-page-12.webp" alt="Screenshot of the demo website">
@@ -591,7 +591,7 @@
 								</a>
 							</div>
 							<div class="col-12 col-sm-6 col-lg-4">
-								<a class="sk__imagebox" target="_blank" href="page-404.html">
+								<a class="sk__imagebox" target="_blank" href="page-404.php">
 									<img class="sk__imagebox-top-bar" src="assets/images/demos-thumbs-browser-bar-mockup.svg" alt="An illustration of a web browser top bar">
 									<div class="sk__imagebox-img-wrap">
 										<img class="sk__imagebox-img" src="assets/images/demo-thumb-page-13.webp" alt="Screenshot of the demo website">
@@ -602,7 +602,7 @@
 								</a>
 							</div>
 							<div class="col-12 col-sm-6 col-lg-4">
-								<a class="sk__imagebox" target="_blank" href="page-terms-and-conditions.html">
+								<a class="sk__imagebox" target="_blank" href="page-terms-and-conditions.php">
 									<img class="sk__imagebox-top-bar" src="assets/images/demos-thumbs-browser-bar-mockup.svg" alt="An illustration of a web browser top bar">
 									<div class="sk__imagebox-img-wrap">
 										<img class="sk__imagebox-img" src="assets/images/demo-thumb-page-14.webp" alt="Screenshot of the demo website">
@@ -613,7 +613,7 @@
 								</a>
 							</div>
 							<div class="col-12 col-sm-6 col-lg-4">
-								<a class="sk__imagebox" target="_blank" href="page-privacy-policy.html">
+								<a class="sk__imagebox" target="_blank" href="page-privacy-policy.php">
 									<img class="sk__imagebox-top-bar" src="assets/images/demos-thumbs-browser-bar-mockup.svg" alt="An illustration of a web browser top bar">
 									<div class="sk__imagebox-img-wrap">
 										<img class="sk__imagebox-img" src="assets/images/demo-thumb-page-15.webp" alt="Screenshot of the demo website">

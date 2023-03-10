@@ -109,7 +109,7 @@
 												<div class="post-image">
 													<span class="icon-pencil"></span>
 													<div class="post-image-inner">
-														<a href="page-news-item.html">
+														<a href="page-news-item.php">
 															<div class="sk__in-content-post-image" style="background-image: url(assets/images/news-feed-image-01.webp);"></div>
 														</a>
 													</div>
@@ -117,7 +117,7 @@
 
 												<div class="sk__post-info py-4">
 													<header class="entry-header">
-														<h4 class="entry-title narrow gradient-links-bright"><a href="page-news-item.html" rel="bookmark">Load the Parallax Header style article preview. looks amazing on all displays and devices</a></h4>
+														<h4 class="entry-title narrow gradient-links-bright"><a href="page-news-item.php" rel="bookmark">Load the Parallax Header style article preview. looks amazing on all displays and devices</a></h4>
 													</header>
 													<div class="post-excerpt">
 														<p>This is an example of how well designed layout cleans the page up and looks amazing on modern displays and devices. A splendid html template witness superior design.</p>
@@ -136,7 +136,7 @@
 												<div class="post-image">
 													<span class="icon-pencil"></span>
 													<div class="post-image-inner">
-														<a href="page-news-item.html">
+														<a href="page-news-item.php">
 															<div class="sk__in-content-post-image" style="background-image: url(assets/images/news-feed-image-02.webp);"></div>
 														</a>
 													</div>
@@ -144,7 +144,7 @@
 												
 												<div class="sk__post-info py-4">
 													<header class="entry-header">
-														<h4 class="entry-title narrow gradient-links-bright"><a href="page-news-item.html" rel="bookmark">Load the Classic Header style article preview. looks amazing on all displays and devices</a></h4>
+														<h4 class="entry-title narrow gradient-links-bright"><a href="page-news-item.php" rel="bookmark">Load the Classic Header style article preview. looks amazing on all displays and devices</a></h4>
 													</header>
 													<div class="post-excerpt">
 														<p>This is an example of how well designed layout cleans the page up and looks amazing on modern displays and devices. A splendid html template witness superior design.</p>
@@ -163,7 +163,7 @@
 												<div class="post-image">
 													<span class="icon-pencil"></span>
 													<div class="post-image-inner">
-														<a href="page-news-item.html">
+														<a href="page-news-item.php">
 															<div class="sk__in-content-post-image" style="background-image: url(assets/images/news-feed-image-03.webp);"></div>
 														</a>
 													</div>
@@ -171,7 +171,7 @@
 
 												<div class="sk__post-info py-4">
 													<header class="entry-header">
-														<h4 class="entry-title narrow gradient-links-bright"><a href="page-news-item.html" rel="bookmark">Load the Parallax Header style article preview. looks amazing on all displays and devices</a></h4>
+														<h4 class="entry-title narrow gradient-links-bright"><a href="page-news-item.php" rel="bookmark">Load the Parallax Header style article preview. looks amazing on all displays and devices</a></h4>
 													</header>
 													<div class="post-excerpt">
 														<p>This is an example of how well designed layout cleans the page up and looks amazing on modern displays and devices. A splendid html template witness superior design.</p>
@@ -190,7 +190,7 @@
 												<div class="post-image">
 													<span class="icon-pencil"></span>
 													<div class="post-image-inner">
-														<a href="page-news-item.html">
+														<a href="page-news-item.php">
 															<div class="sk__in-content-post-image" style="background-image: url(assets/images/news-feed-image-04.webp);"></div>
 														</a>
 													</div>
@@ -198,7 +198,7 @@
 												
 												<div class="sk__post-info py-4">
 													<header class="entry-header">
-														<h4 class="entry-title narrow gradient-links-bright"><a href="page-news-item.html" rel="bookmark">Load the Classic Header style article preview. looks amazing on all displays and devices</a></h4>
+														<h4 class="entry-title narrow gradient-links-bright"><a href="page-news-item.php" rel="bookmark">Load the Classic Header style article preview. looks amazing on all displays and devices</a></h4>
 													</header>
 													<div class="post-excerpt">
 														<p>This is an example of how well designed layout cleans the page up and looks amazing on modern displays and devices. A splendid html template witness superior design.</p>
@@ -217,7 +217,7 @@
 												<div class="post-image">
 													<span class="icon-pencil"></span>
 													<div class="post-image-inner">
-														<a href="page-news-item.html">
+														<a href="page-news-item.php">
 															<div class="sk__in-content-post-image" style="background-image: url(assets/images/news-feed-image-05.webp);"></div>
 														</a>
 													</div>
@@ -225,7 +225,7 @@
 
 												<div class="sk__post-info py-4">
 													<header class="entry-header">
-														<h4 class="entry-title narrow gradient-links-bright"><a href="page-news-item.html" rel="bookmark">Load the Parallax Header style article preview. looks amazing on all displays and devices</a></h4>
+														<h4 class="entry-title narrow gradient-links-bright"><a href="page-news-item.php" rel="bookmark">Load the Parallax Header style article preview. looks amazing on all displays and devices</a></h4>
 													</header>
 													<div class="post-excerpt">
 														<p>This is an example of how well designed layout cleans the page up and looks amazing on modern displays and devices. A splendid html template witness superior design.</p>
@@ -244,7 +244,7 @@
 												<div class="post-image">
 													<span class="icon-pencil"></span>
 													<div class="post-image-inner">
-														<a href="page-news-item.html">
+														<a href="page-news-item.php">
 															<div class="sk__in-content-post-image" style="background-image: url(assets/images/news-feed-image-06.webp);"></div>
 														</a>
 													</div>
@@ -252,7 +252,7 @@
 												
 												<div class="sk__post-info py-4">
 													<header class="entry-header">
-														<h4 class="entry-title narrow gradient-links-bright"><a href="page-news-item.html" rel="bookmark">Load the Classic Header style article preview. looks amazing on all displays and devices</a></h4>
+														<h4 class="entry-title narrow gradient-links-bright"><a href="page-news-item.php" rel="bookmark">Load the Classic Header style article preview. looks amazing on all displays and devices</a></h4>
 													</header>
 													<div class="post-excerpt">
 														<p>This is an example of how well designed layout cleans the page up and looks amazing on modern displays and devices. A splendid html template witness superior design.</p>
@@ -271,7 +271,7 @@
 												<div class="post-image">
 													<span class="icon-pencil"></span>
 													<div class="post-image-inner">
-														<a href="page-news-item.html">
+														<a href="page-news-item.php">
 															<div class="sk__in-content-post-image" style="background-image: url(assets/images/news-feed-image-07.webp);"></div>
 														</a>
 													</div>
@@ -279,7 +279,7 @@
 
 												<div class="sk__post-info py-4">
 													<header class="entry-header">
-														<h4 class="entry-title narrow gradient-links-bright"><a href="page-news-item.html" rel="bookmark">Load the Parallax Header style article preview. looks amazing on all displays and devices</a></h4>
+														<h4 class="entry-title narrow gradient-links-bright"><a href="page-news-item.php" rel="bookmark">Load the Parallax Header style article preview. looks amazing on all displays and devices</a></h4>
 													</header>
 													<div class="post-excerpt">
 														<p>This is an example of how well designed layout cleans the page up and looks amazing on modern displays and devices. A splendid html template witness superior design.</p>
@@ -298,7 +298,7 @@
 												<div class="post-image">
 													<span class="icon-pencil"></span>
 													<div class="post-image-inner">
-														<a href="page-news-item.html">
+														<a href="page-news-item.php">
 															<div class="sk__in-content-post-image" style="background-image: url(assets/images/news-feed-image-08.webp);"></div>
 														</a>
 													</div>
@@ -306,7 +306,7 @@
 												
 												<div class="sk__post-info py-4">
 													<header class="entry-header">
-														<h4 class="entry-title narrow gradient-links-bright"><a href="page-news-item.html" rel="bookmark">Load the Classic Header style article preview. looks amazing on all displays and devices</a></h4>
+														<h4 class="entry-title narrow gradient-links-bright"><a href="page-news-item.php" rel="bookmark">Load the Classic Header style article preview. looks amazing on all displays and devices</a></h4>
 													</header>
 													<div class="post-excerpt">
 														<p>This is an example of how well designed layout cleans the page up and looks amazing on modern displays and devices. A splendid html template witness superior design.</p>

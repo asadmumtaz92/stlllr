@@ -323,7 +323,7 @@
 							<div class="col sk__portfolio-thumbs px-sm-3 px-md-5">
 								<div class="sk__portfolio-wrapper text-center">
 									<div class="sk__portfolio-item">
-										<a href="page-portfolio-item.html" class="sk__portfolio-thumblink">
+										<a href="page-portfolio-item.php" class="sk__portfolio-thumblink">
 											<div class="sk__pt-link-icon">
 												<div class="sk__pt-link-icon-ovr-1"></div>
 												<div class="sk__pt-link-icon-ovr-2"></div>
@@ -337,7 +337,7 @@
 										</a>
 									</div>
 									<div class="sk__portfolio-item">
-										<a href="page-portfolio-item.html" class="sk__portfolio-thumblink">
+										<a href="page-portfolio-item.php" class="sk__portfolio-thumblink">
 											<div class="sk__pt-link-icon">
 												<div class="sk__pt-link-icon-ovr-1"></div>
 												<div class="sk__pt-link-icon-ovr-2"></div>
@@ -351,7 +351,7 @@
 										</a>
 									</div>
 									<div class="sk__portfolio-item">
-										<a href="page-portfolio-item.html" class="sk__portfolio-thumblink">
+										<a href="page-portfolio-item.php" class="sk__portfolio-thumblink">
 											<div class="sk__pt-link-icon">
 												<div class="sk__pt-link-icon-ovr-1"></div>
 												<div class="sk__pt-link-icon-ovr-2"></div>
@@ -365,7 +365,7 @@
 										</a>
 									</div>
 									<div class="sk__portfolio-item">
-										<a href="page-portfolio-item.html" class="sk__portfolio-thumblink">
+										<a href="page-portfolio-item.php" class="sk__portfolio-thumblink">
 											<div class="sk__pt-link-icon">
 												<div class="sk__pt-link-icon-ovr-1"></div>
 												<div class="sk__pt-link-icon-ovr-2"></div>
@@ -379,7 +379,7 @@
 										</a>
 									</div>
 									<div class="sk__portfolio-item">
-										<a href="page-portfolio-item.html" class="sk__portfolio-thumblink">
+										<a href="page-portfolio-item.php" class="sk__portfolio-thumblink">
 											<div class="sk__pt-link-icon">
 												<div class="sk__pt-link-icon-ovr-1"></div>
 												<div class="sk__pt-link-icon-ovr-2"></div>
@@ -393,7 +393,7 @@
 										</a>
 									</div>
 									<div class="sk__portfolio-item">
-										<a href="page-portfolio-item.html" class="sk__portfolio-thumblink">
+										<a href="page-portfolio-item.php" class="sk__portfolio-thumblink">
 											<div class="sk__pt-link-icon">
 												<div class="sk__pt-link-icon-ovr-1"></div>
 												<div class="sk__pt-link-icon-ovr-2"></div>
@@ -407,7 +407,7 @@
 										</a>
 									</div>
 									<div class="sk__portfolio-item">
-										<a href="page-portfolio-item.html" class="sk__portfolio-thumblink">
+										<a href="page-portfolio-item.php" class="sk__portfolio-thumblink">
 											<div class="sk__pt-link-icon">
 												<div class="sk__pt-link-icon-ovr-1"></div>
 												<div class="sk__pt-link-icon-ovr-2"></div>
@@ -421,7 +421,7 @@
 										</a>
 									</div>
 									<div class="sk__portfolio-item">
-										<a href="page-portfolio-item.html" class="sk__portfolio-thumblink">
+										<a href="page-portfolio-item.php" class="sk__portfolio-thumblink">
 											<div class="sk__pt-link-icon">
 												<div class="sk__pt-link-icon-ovr-1"></div>
 												<div class="sk__pt-link-icon-ovr-2"></div>
@@ -435,7 +435,7 @@
 										</a>
 									</div>
 									<div class="sk__portfolio-item">
-										<a href="page-portfolio-item.html" class="sk__portfolio-thumblink">
+										<a href="page-portfolio-item.php" class="sk__portfolio-thumblink">
 											<div class="sk__pt-link-icon">
 												<div class="sk__pt-link-icon-ovr-1"></div>
 												<div class="sk__pt-link-icon-ovr-2"></div>
@@ -449,7 +449,7 @@
 										</a>
 									</div>
 									<div class="sk__portfolio-item">
-										<a href="page-portfolio-item.html" class="sk__portfolio-thumblink">
+										<a href="page-portfolio-item.php" class="sk__portfolio-thumblink">
 											<div class="sk__pt-link-icon">
 												<div class="sk__pt-link-icon-ovr-1"></div>
 												<div class="sk__pt-link-icon-ovr-2"></div>
@@ -538,11 +538,11 @@
 						<div class="row sk__iconboxes-wrapper text-center sk__flex-center-x">
 							<div class="col-12 col-sm-6 col-lg-4">
 								<div class="sk__iconbox">
-									<a class="sk__iconbox-icon-link" href="page-service-item.html">
+									<a class="sk__iconbox-icon-link" href="page-service-item.php">
 										<span class="sk__flex-center sk__iconbox-icon"><span class="icon-diamond1 sk__gradient-fancy-text"></span></span>
 										<span class="sk__iconbox-icon-dash"></span>
 									</a>
-									<a class="sk__iconbox-text-link gradient-links-bright" href="page-service-item.html">
+									<a class="sk__iconbox-text-link gradient-links-bright" href="page-service-item.php">
 										<h5>Graphic Design</h5>
 									</a>
 									<p>Superior Graphic Design by best-selling authors for the best Dark HTML theme</p>
@@ -550,11 +550,11 @@
 							</div>
 							<div class="col-12 col-sm-6 col-lg-4">
 								<div class="sk__iconbox">
-									<a class="sk__iconbox-icon-link" href="page-service-item.html">
+									<a class="sk__iconbox-icon-link" href="page-service-item.php">
 										<span class="sk__flex-center sk__iconbox-icon"><span class="icon-power-off sk__gradient-fancy-text"></span></span>
 										<span class="sk__iconbox-icon-dash"></span>
 									</a>
-									<a class="sk__iconbox-text-link gradient-links-bright" href="page-service-item.html">
+									<a class="sk__iconbox-text-link gradient-links-bright" href="page-service-item.php">
 										<h5>Web Design</h5>
 									</a>
 									<p>The best Dark HTML Template, Hero Sliders, Custom Effects, Clean Code and more...</p>
@@ -562,11 +562,11 @@
 							</div>
 							<div class="col-12 col-sm-6 col-lg-4">
 								<div class="sk__iconbox">
-									<a class="sk__iconbox-icon-link" href="page-service-item.html">
+									<a class="sk__iconbox-icon-link" href="page-service-item.php">
 										<span class="sk__flex-center sk__iconbox-icon"><span class="icon-headphones1 sk__gradient-fancy-text"></span></span>
 										<span class="sk__iconbox-icon-dash"></span>
 									</a>
-									<a class="sk__iconbox-text-link gradient-links-bright" href="page-service-item.html">
+									<a class="sk__iconbox-text-link gradient-links-bright" href="page-service-item.php">
 										<h5>Custom Effects</h5>
 									</a>
 									<p>Unique, Beautiful & Custom never before seen Effects designed & crafted from scratch</p>
@@ -574,11 +574,11 @@
 							</div>
 							<div class="col-12 col-sm-6 col-lg-4">
 								<div class="sk__iconbox">
-									<a class="sk__iconbox-icon-link" href="page-service-item.html">
+									<a class="sk__iconbox-icon-link" href="page-service-item.php">
 										<span class="sk__flex-center sk__iconbox-icon"><span class="icon-lab1 sk__gradient-fancy-text"></span></span>
 										<span class="sk__iconbox-icon-dash"></span>
 									</a>
-									<a class="sk__iconbox-text-link gradient-links-bright" href="page-service-item.html">
+									<a class="sk__iconbox-text-link gradient-links-bright" href="page-service-item.php">
 										<h5>Greensock Included</h5>
 									</a>
 									<p>$200 per year added value, with premium GreenSock GSAP library included for free</p>
@@ -586,11 +586,11 @@
 							</div>
 							<div class="col-12 col-sm-6 col-lg-4">
 								<div class="sk__iconbox">
-									<a class="sk__iconbox-icon-link" href="page-service-item.html">
+									<a class="sk__iconbox-icon-link" href="page-service-item.php">
 										<span class="sk__flex-center sk__iconbox-icon"><span class="icon-bulb sk__gradient-fancy-text"></span></span>
 										<span class="sk__iconbox-icon-dash"></span>
 									</a>
-									<a class="sk__iconbox-text-link gradient-links-bright" href="page-service-item.html">
+									<a class="sk__iconbox-text-link gradient-links-bright" href="page-service-item.php">
 										<h5>Perfect Demos</h5>
 									</a>
 									<p>Designs ready for real-world use, have an awesome looking website done within a day!</p>
@@ -598,11 +598,11 @@
 							</div>
 							<div class="col-12 col-sm-6 col-lg-4">
 								<div class="sk__iconbox">
-									<a class="sk__iconbox-icon-link" href="page-service-item.html">
+									<a class="sk__iconbox-icon-link" href="page-service-item.php">
 										<span class="sk__flex-center sk__iconbox-icon"><span class="icon-shield1 sk__gradient-fancy-text"></span></span>
 										<span class="sk__iconbox-icon-dash"></span>
 									</a>
-									<a class="sk__iconbox-text-link gradient-links-bright" href="page-service-item.html">
+									<a class="sk__iconbox-text-link gradient-links-bright" href="page-service-item.php">
 										<h5>Fastest Loading</h5>
 									</a>
 									<p>Perfect balance between effects and fast load, the theme comes optimized & ready!</p>
@@ -610,11 +610,11 @@
 							</div>
 							<div class="col-12 col-sm-6 col-lg-4">
 								<div class="sk__iconbox">
-									<a class="sk__iconbox-icon-link" href="page-service-item.html">
+									<a class="sk__iconbox-icon-link" href="page-service-item.php">
 										<span class="sk__flex-center sk__iconbox-icon"><span class="icon-fire2 sk__gradient-fancy-text"></span></span>
 										<span class="sk__iconbox-icon-dash"></span>
 									</a>
-									<a class="sk__iconbox-text-link gradient-links-bright" href="page-service-item.html">
+									<a class="sk__iconbox-text-link gradient-links-bright" href="page-service-item.php">
 										<h5>Free Stuff</h5>
 									</a>
 									<p>Including PSD & AI Mockups, Fully Working Forms as well as Premium JavaScript Effects</p>
@@ -622,11 +622,11 @@
 							</div>
 							<div class="col-12 col-sm-6 col-lg-4">
 								<div class="sk__iconbox">
-									<a class="sk__iconbox-icon-link" href="page-service-item.html">
+									<a class="sk__iconbox-icon-link" href="page-service-item.php">
 										<span class="sk__flex-center sk__iconbox-icon"><span class="icon-cube sk__gradient-fancy-text"></span></span>
 										<span class="sk__iconbox-icon-dash"></span>
 									</a>
-									<a class="sk__iconbox-text-link gradient-links-bright" href="page-service-item.html">
+									<a class="sk__iconbox-text-link gradient-links-bright" href="page-service-item.php">
 										<h5>Parallax Effects</h5>
 									</a>
 									<p>Awesome and 100% Unique Parallax Effects created specifically for this theme</p>
@@ -634,11 +634,11 @@
 							</div>
 							<div class="col-12 col-sm-6 col-lg-4">
 								<div class="sk__iconbox">
-									<a class="sk__iconbox-icon-link" href="page-service-item.html">
+									<a class="sk__iconbox-icon-link" href="page-service-item.php">
 										<span class="sk__flex-center sk__iconbox-icon"><span class="icon-pen2 sk__gradient-fancy-text"></span></span>
 										<span class="sk__iconbox-icon-dash"></span>
 									</a>
-									<a class="sk__iconbox-text-link gradient-links-bright" href="page-service-item.html">
+									<a class="sk__iconbox-text-link gradient-links-bright" href="page-service-item.php">
 										<h5>In-depth Documentation</h5>
 									</a>
 									<p>The documentation will guide you to creating an amazing and comprehensive website</p>

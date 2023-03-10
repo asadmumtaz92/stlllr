@@ -154,10 +154,9 @@
 							</div>
 							<div class="col-xl-6 col-xxl-5 sk__project-body-info-col mt-4 mt-xl-0 pt-5 pt-xl-0 text-center text-sm-start">
 								<h4 class="animated-element">Quality standards we live up to</h4>
-								<p class="animated-element"><br />Each site we make is made so in consistence with the most recent specialized web guidelines and, normally, it has an easy to understand site design. Simple to-utilize dropdown route, clear designs and other intuitive components.
+								<p class="animated-element">Each site we make is made so in consistence with the most recent specialized web guidelines and, normally, it has an easy to understand site design. Simple to-utilize dropdown route, clear designs and other intuitive components.
 The benefits of recruiting a web organization are obvious. Your site is the main connection point for your clients. It is likewise the simplest and quickest method for creating new clients. Your site is your organization's distinguishing mark.
 On the off chance that your site is amateurish, contains show mistakes, or on the other hand assuming the specialized premise is obsolete and has significant blunders, this adversely affects the outcome of your venture. Website architecture costs are comprised of many variables. The plan is an extremely intricate task, so you ought to depend on an expert for the execution.<br /></p>
-								<a class="btn btn-outline-light animated-element" href="#" role="button">SOME LINK -></a>
 								<div class="row">
 									<div class="col-12 col-sm-6">
 										<h5 class="animated-element">CODING</h5>
@@ -171,13 +170,13 @@ On the off chance that your site is amateurish, contains show mistakes, or on th
 								<div class="row">
 									<div class="col">
 										<section class="footer-socials-section text-center text-sm-start">
-											<p class="mb-1 animated-element">Useful links</p>
+											<p class="mb-1 animated-element">Find us here.</p>
 											<div class="footer-socials-inner">
 												<div class="footer-socials animated-element">
+													<a class="social-icons" href="https://www.facebook.com/SkilltechWebDesign" target="_blank"><span><span class="icon-linkedin"></span></span></a>
 													<a class="social-icons" href="https://www.facebook.com/SkilltechWebDesign" target="_blank"><span><span class="icon-facebook1"></span></span></a>
 													<a class="social-icons" href="https://www.facebook.com/SkilltechWebDesign" target="_blank"><span><span class="icon-twitter1"></span></span></a>
-													<a class="social-icons" href="https://www.facebook.com/SkilltechWebDesign" target="_blank"><span><span class="icon-behance1"></span></span></a>
-													<a class="social-icons" href="https://www.facebook.com/SkilltechWebDesign" target="_blank"><span><span class="icon-dribbble1"></span></span></a>
+													<a class="social-icons" href="https://www.facebook.com/SkilltechWebDesign" target="_blank"><span><span class="icon-instagram1"></span></span></a>
 												</div>
 											</div>
 										</section>
@@ -195,7 +194,7 @@ On the off chance that your site is amateurish, contains show mistakes, or on th
 					<div class="container-fluid">
 						<div class="row">
 							<div class="col-12 col-md-10 offset-md-1 text-center sk__heading-spacer-xl">
-								<h1 class="super-heading sk__clipped-text sk__gradient-back-v1"><span class="heading-deco">&lt;- </span>Wordpress Agency<span class="heading-deco"> -&gt;</span></h1>
+								<h1 class="super-heading sk__clipped-text sk__gradient-back-v1">Wordpress Agency</h1>
 								<h2 class="h2-regular">Premium <strong>Parallax</strong> We at StlllR love web design</h2>
 							</div>
 						</div>

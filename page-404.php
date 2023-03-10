@@ -100,7 +100,7 @@
 										</div>
 										<div class="row">
 											<div class="col">
-												<p class="p-v2 text-white animated-element phase-1"><a href="index.html" class="me-3">home</a><a href="#" class="me-3">about us</a><a href="#" class="me-3">services</a><a href="#">contact us</a></p>
+												<p class="p-v2 text-white animated-element phase-1"><a href="index.php" class="me-3">home</a><a href="#" class="me-3">about us</a><a href="#" class="me-3">services</a><a href="#">contact us</a></p>
 											</div>
 										</div>
 
