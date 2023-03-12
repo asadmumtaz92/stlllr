@@ -191,37 +191,57 @@ On the off chance that your site is amateurish, contains show mistakes, or on th
 				<!-- Project Parallax Gallery
 				================================================== -->
 				<section class="sk__project-gallery sk__parallax-chain">
-					<div class="container-fluid">
+					<div class="container">
 						<div class="row">
 							<div class="col-12 col-md-10 offset-md-1 text-center sk__heading-spacer-xl">
 								<h1 class="super-heading sk__clipped-text sk__gradient-back-v1">Wordpress Agency</h1>
 								<h2 class="h2-regular">Premium <strong>Parallax</strong> We at StlllR love web design</h2>
 							</div>
 						</div>
+						
 						<div class="row">
-							<div class="col px-0">
-								<!-- Project Gallery Image 1 -->
-								<section class="sk__gallery-item sk__parallax-background-section sk__huge-vertical-deco-text-section sk__centered-y-section sk__edge-beauty">
-									<div class="sk__parallax-background-element sk__absolute sk__image-back-cover sk__project-1-parallax-img-1"></div>
-									<span class="sk__huge-vertical-deco-text-wrapper sk__hvdt-left">
-										<span class="sk__huge-vertical-deco-text dark-shade-1-clr sk__hvdt-vertical-rails text-center">Belveder</span>
-									</span>
-								</section>
-								<!-- Project Gallery Image 2 -->
-								<section class="sk__gallery-item sk__parallax-background-section sk__centered-y-section sk__edge-beauty">
-									<div class="sk__parallax-background-element sk__absolute sk__image-back-cover sk__project-1-parallax-img-2"></div>
-								</section>
-								<!-- Project Gallery Image 3 -->
-								<section class="sk__gallery-item sk__parallax-background-section sk__huge-vertical-deco-text-section sk__centered-y-section sk__edge-beauty">
-									<div class="sk__parallax-background-element sk__absolute sk__image-back-cover sk__project-1-parallax-img-3"></div>
-									<span class="sk__huge-vertical-deco-text-wrapper sk__hvdt-right">
-										<span class="sk__huge-vertical-deco-text white-clr sk__hvdt-vertical-rails text-center" style="opacity: 0.4;">Evangels</span>
-									</span>
-								</section>
-								<!-- Project Gallery Image 4 -->
-								<section class="sk__gallery-item sk__parallax-background-section sk__huge-vertical-deco-text-section sk__centered-y-section sk__edge-beauty">
-									<div class="sk__parallax-background-element sk__absolute sk__image-back-cover sk__project-1-parallax-img-4"></div>
-								</section>
+							<div class="col-xl-6 col-xxl-6 sk__project-body-image-col">
+								<img src="https://www.freelancetoindia.com/wp-content/uploads/2019/01/WordPress-Development.jpg" alt="Sample image.">
+							</div>
+
+							<div class="col-xl-6 col-xxl-6 sk__project-body-info-col mt-4 mt-xl-0 pt-5 pt-xl-0 text-center text-sm-start">
+								<h4 class="animated-element">Quality standards we live up to</h4>
+								<p class="animated-element" style="padding: 20px 0px">
+									Each site we make is made so in consistence with the most recent specialized web
+									guidelines and, normally, it has an easy to understand site design. Simple to-utilize
+									ropdown route, clear designs and other intuitive components. The benefits of recruiting
+									a web organization are obvious. Your site is the main connection point for your clients.
+									It is likewise the simplest and quickest method for creating new clients. Your site is
+									your organization's distinguishing mark. On the off chance that your site is amateurish, 
+									contains show mistakes, or on the other hand assuming the specialized premise is obsolete 
+									and has significant blunders, this adversely affects the outcome of your venture. Website 
+									architecture costs are comprised of many variables. The plan is an extremely intricate 
+									task, so you ought to depend on an expert for the execution.<br />
+								</p>
+							</div>
+						</div>
+
+
+						<hr style="height: 0.5px; background: rgba(255,255,255,0.13);">
+						<div class="row" style="margin-top:120px">
+							<div class="col-xl-6 col-xxl-6 sk__project-body-info-col mt-4 mt-xl-0 pt-5 pt-xl-0 text-center text-sm-start">
+								<h4 class="animated-element">Quality standards we live up to</h4>
+								<p class="animated-element" style="text-align: justify">
+									Each site we make is made so in consistence with the most recent specialized web
+									guidelines and, normally, it has an easy to understand site design. Simple to-utilize
+									ropdown route, clear designs and other intuitive components. The benefits of recruiting
+									a web organization are obvious. Your site is the main connection point for your clients.
+									It is likewise the simplest and quickest method for creating new clients. Your site is
+									your organization's distinguishing mark. On the off chance that your site is amateurish, 
+									contains show mistakes, or on the other hand assuming the specialized premise is obsolete 
+									and has significant blunders, this adversely affects the outcome of your venture. Website 
+									architecture costs are comprised of many variables. The plan is an extremely intricate 
+									task, so you ought to depend on an expert for the execution.<br />
+								</p>
+							</div>
+
+							<div class="col-xl-6 col-xxl-6 sk__project-body-image-col">
+								<img src="https://i.ytimg.com/vi/TwuIjjtZ0uc/maxresdefault.jpg" alt="Sample image.">
 							</div>
 						</div>
 					</div>			

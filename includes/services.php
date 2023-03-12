@@ -18,7 +18,7 @@
 										<div class="sk__pt-link-icon-ovr-1"></div>
 										<div class="sk__pt-link-icon-ovr-2"></div>
 									</div>
-									<div class="sk__portfolio-thumblink-image sk__image-back-cover" style="background-image: url(https://wedevs.com/_ipx/https://cdn.wedevs.com/uploads/2020/10/Best-WordPress-security-plugins-2020.png?f=webp&q=90);"></div>
+									<div class="sk__portfolio-thumblink-image sk__image-back-cover" style="background-image: url(https://s.w.org/style/images/about/WordPress-logotype-alternative.png);"></div>
                                     <!-- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQLNXovSPOvSX16eiqNxUyM2n9cskkQEIYYk1uHy4c6cuVfIUB -->
 									<div class="portfolio-thumb-info">
 										<h6>WordPress</h6>
@@ -34,7 +34,7 @@
 										<div class="sk__pt-link-icon-ovr-1"></div>
 										<div class="sk__pt-link-icon-ovr-2"></div>
 									</div>
-									<div class="sk__portfolio-thumblink-image sk__image-back-cover" style="background-image: url(assets/services/mobile_app_development.webp);"></div>
+									<div class="sk__portfolio-thumblink-image sk__image-back-cover" style="background-image: url(assets/services/mobile_app_development.webp); filter: blur(0px);"></div>
 									<div class="portfolio-thumb-info">
 										<h6>Mobile App</h6>
 										<h4 class="h4-small">Development</h4>
@@ -49,7 +49,7 @@
 										<div class="sk__pt-link-icon-ovr-1"></div>
 										<div class="sk__pt-link-icon-ovr-2"></div>
 									</div>
-									<div class="sk__portfolio-thumblink-image sk__image-back-cover" style="background-image: url(https://q4y2k3w9.rocketcdn.me/wp-content/uploads/2020/01/Core-UI-Admin-Template.png);"></div>
+									<div class="sk__portfolio-thumblink-image sk__image-back-cover" style="background-image: url(https://www.nicepng.com/png/detail/247-2475761_e-commerce-website-designing-services-back-end-and.png);"></div>
 									<div class="portfolio-thumb-info">
 										<h6>Admin Panel</h6>
 										<h4 class="h4-small">Development</h4>
