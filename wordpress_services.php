@@ -205,18 +205,13 @@ On the off chance that your site is amateurish, contains show mistakes, or on th
 							</div>
 
 							<div class="col-xl-6 col-xxl-6 sk__project-body-info-col mt-4 mt-xl-0 pt-5 pt-xl-0 text-center text-sm-start">
-								<h4 class="animated-element">Quality standards we live up to</h4>
+								<h4 class="animated-element">Counsel from our organization</h4>
 								<p class="animated-element" style="padding: 20px 0px">
-									Each site we make is made so in consistence with the most recent specialized web
-									guidelines and, normally, it has an easy to understand site design. Simple to-utilize
-									ropdown route, clear designs and other intuitive components. The benefits of recruiting
-									a web organization are obvious. Your site is the main connection point for your clients.
-									It is likewise the simplest and quickest method for creating new clients. Your site is
-									your organization's distinguishing mark. On the off chance that your site is amateurish, 
-									contains show mistakes, or on the other hand assuming the specialized premise is obsolete 
-									and has significant blunders, this adversely affects the outcome of your venture. Website 
-									architecture costs are comprised of many variables. The plan is an extremely intricate 
-									task, so you ought to depend on an expert for the execution.<br />
+								Conversation of your desires and objectives
+Ideas for development in light of our expertise
+Fixed value deal and timetable for execution
+Conversation of your desires and objectives
+Our most memorable counsel will tell you which choices we consider feasible for your organization and, what costs you could bring about. We will give you a free concise investigation comprising of your very own examination, the opposition available, the surviving potential and a figure of sensible objectives to accomplish and important measures to take.<br />
 								</p>
 							</div>
 						</div>
@@ -225,18 +220,12 @@ On the off chance that your site is amateurish, contains show mistakes, or on th
 						<hr style="height: 0.5px; background: rgba(255,255,255,0.13);">
 						<div class="row" style="margin-top:120px">
 							<div class="col-xl-6 col-xxl-6 sk__project-body-info-col mt-4 mt-xl-0 pt-5 pt-xl-0 text-center text-sm-start">
-								<h4 class="animated-element">Quality standards we live up to</h4>
+								<h4 class="animated-element">Simple to-utilize and CMS required objective setting</h4>
 								<p class="animated-element" style="text-align: justify">
-									Each site we make is made so in consistence with the most recent specialized web
-									guidelines and, normally, it has an easy to understand site design. Simple to-utilize
-									ropdown route, clear designs and other intuitive components. The benefits of recruiting
-									a web organization are obvious. Your site is the main connection point for your clients.
-									It is likewise the simplest and quickest method for creating new clients. Your site is
-									your organization's distinguishing mark. On the off chance that your site is amateurish, 
-									contains show mistakes, or on the other hand assuming the specialized premise is obsolete 
-									and has significant blunders, this adversely affects the outcome of your venture. Website 
-									architecture costs are comprised of many variables. The plan is an extremely intricate 
-									task, so you ought to depend on an expert for the execution.<br />
+								Content administration framework
+Simple self-organization
+Exhortation included
+Our sites are all evolved based on easy to understand and get content administration frameworks (CMS, Wordpress, Drupal).You can undoubtedly deal with these yourself (just changing texts and images).The most recent web norms which we use to make your site, for example, HTLM5 and CSS3 structure the essential design of your site during improvement and guarantee that you are future-proof.Additional special visualizations, for example, Javascript and PHP can be coordinated whenever.<br />
 								</p>
 							</div>
 
@@ -248,21 +237,6 @@ On the off chance that your site is amateurish, contains show mistakes, or on th
 				</section>
 				<!-- /.sk__project-gallery -->
 
-				<!-- CTA Section (Warp CTA)
-				================================================== -->
-				<section class="sk__cta-warp position-relative sk__image-back-cover">
-					<div class="container sk__powercontainer">
-						<div class="row">
-							<div class="col text-center">
-								<div class="sk__warped-text-wrapper sk__flex-center">
-									<span class="sk__warped-text">GET THEME NOW</span>
-								</div>
-								<h3><strong>BETTER DESIGN AESTHETICS</strong></h3>
-								<a class="btn btn-lg btn-outline-light sk__warped-button" href="https://1.envato.market/a1mP7Z" role="button">BUY THEME -></a>
-							</div>
-						</div>
-					</div>
-				</section>
 					
 				<!-- Contact Us Section
 				================================================== -->
@@ -277,39 +251,7 @@ On the off chance that your site is amateurish, contains show mistakes, or on th
 								<p class="p-v2">Want to start a project of this caliber but don't know where to start? Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.</p>
 							</div>
 						</div>
-						<div class="row">
-							<!-- Contact Form -->
-							<div class="col-12 col-lg-10 offset-lg-1 sk__contact-form-col d-flex justify-content-end">
-								<div class="sk__contact-right text-center text-sm-start">
 
-							
-
-									<!-- Real Working Form - Simple Forms V3 -->
-									<!-- <div class="sf-wrapper">
-										<form id="contact-form-1" class="sk__form sk__contact-form" action="assets/vendor/simple-forms/sendmail.php" method="post">
-											
-											<div class="form-group">
-												<input type="text" name="name" value="" class="validate-name" min="2" placeholder="Name*" required>
-											</div>
-											<div class="form-group">
-												<input type="text" name="email" class="validate-email" placeholder="Email*" value="">
-											</div>
-											<div class="form-group">
-												<textarea name="message" placeholder="Message*" required></textarea>
-											</div>
-
-											<div class="form-submit">
-												<button type="submit">Send now</button>
-											</div>
-
-											<div class="server-response"></div>
-
-										</form>
-									</div> -->
-
-								</div>
-							</div>
-						</div>
 					</div>
 
 				</section>

@@ -155,7 +155,7 @@
 							<div class="col-xl-6 col-xxl-5 sk__project-body-info-col mt-4 mt-xl-0 pt-5 pt-xl-0 text-center text-sm-start">
 								<h4 class="animated-element">Quality standards we live up to</h4>
 								<p class="animated-element">We can also help with the design, implementation, and maintenance of your app. Contact us today to discuss how we can help make your dream a reality!<br />Once we have built your app, we continue to test and refine it until it is ready to launch. We also provide ongoing maintenance and support to ensure your app is always up-to-date and functioning properly. Our team of experts is always available to answer any questions you may have and provide guidance and advice as needed.<br />Our team of experienced developers will work with you to ensure that all of your needs are met and that your app is running smoothly. We will also provide regular updates and enhancements to your app to ensure that it is always running at its best.</p>
-								<a class="btn btn-outline-light animated-element" href="#" role="button">SOME LINK -></a>
+							
 								<div class="row">
 									<div class="col-12 col-sm-6">
 										<h5 class="animated-element">IOS App</h5>
@@ -169,7 +169,7 @@
 								<div class="row">
 									<div class="col">
 										<section class="footer-socials-section text-center text-sm-start">
-											<p class="mb-1 animated-element">Useful links</p>
+											
 											<div class="footer-socials-inner">
 												<div class="footer-socials animated-element">
 												<a class="social-icons" href="https://www.facebook.com/SkilltechWebDesign" target="_blank"><span><span class="icon-linkedin"></span></span></a>
@@ -197,33 +197,31 @@
 								<h2 class="h2-regular">We <strong>StlllR</strong> love mobile app developments</h2>
 							</div>
 						</div>
+
 						<div class="row">
-							<div class="col px-0">
-								<!-- Project Gallery Image 1 -->
-								<section class="sk__gallery-item sk__parallax-background-section sk__huge-vertical-deco-text-section sk__centered-y-section sk__edge-beauty">
-									<div class="sk__parallax-background-element sk__absolute sk__image-back-cover sk__project-1-parallax-img-1"></div>
-									<span class="sk__huge-vertical-deco-text-wrapper sk__hvdt-left">
-										<span class="sk__huge-vertical-deco-text dark-shade-1-clr sk__hvdt-vertical-rails text-center">Belveder</span>
-									</span>
-								</section>
-								<!-- Project Gallery Image 2 -->
-								<section class="sk__gallery-item sk__parallax-background-section sk__centered-y-section sk__edge-beauty">
-									<div class="sk__parallax-background-element sk__absolute sk__image-back-cover sk__project-1-parallax-img-2"></div>
-								</section>
-								<!-- Project Gallery Image 3 -->
-								<section class="sk__gallery-item sk__parallax-background-section sk__huge-vertical-deco-text-section sk__centered-y-section sk__edge-beauty">
-									<div class="sk__parallax-background-element sk__absolute sk__image-back-cover sk__project-1-parallax-img-3"></div>
-									<span class="sk__huge-vertical-deco-text-wrapper sk__hvdt-right">
-										<span class="sk__huge-vertical-deco-text white-clr sk__hvdt-vertical-rails text-center" style="opacity: 0.4;">Evangels</span>
-									</span>
-								</section>
-								<!-- Project Gallery Image 4 -->
-								<section class="sk__gallery-item sk__parallax-background-section sk__huge-vertical-deco-text-section sk__centered-y-section sk__edge-beauty">
-									<div class="sk__parallax-background-element sk__absolute sk__image-back-cover sk__project-1-parallax-img-4"></div>
-								</section>
+							<div class="col-xl-6 col-xxl-6 sk__project-body-image-col">
+								<img src="https://www.freelancetoindia.com/wp-content/uploads/2019/01/WordPress-Development.jpg" alt="Sample image.">
 							</div>
-						</div>
-					</div>			
+						<div class="col-xl-6 col-xxl-6 sk__project-body-info-col mt-4 mt-xl-0 pt-5 pt-xl-0 text-center text-sm-start">
+								<h4 class="animated-element">Ability and Experience</h4>
+								<p class="animated-element" style="padding: 20px 0px">
+								As an expert improvement organization we have the skill and experience expected to fabricate a great, very much planned application that addresses the issues of the client. We have a group of gifted designers who are capable in the most recent innovations and structures, and we can give significant bits of knowledge and direction all through the improvement cycle. As an expert office we can assist you with redoing your application to meet your particular necessities and objectives. We work with you to comprehend your business and plan an application that is custom-made to your ideal interest group and wanted highlights.<br />
+                                </p>
+                           </div>
+                      </div>
+					  <hr style="height: 0.5px; background: rgba(255,255,255,0.13);">
+						<div class="row" style="margin-top:120px">
+							<div class="col-xl-6 col-xxl-6 sk__project-body-info-col mt-4 mt-xl-0 pt-5 pt-xl-0 text-center text-sm-start">
+								<h4 class="animated-element">Quality guidelines we satisfy</h4>
+								<p class="animated-element" style="text-align: justify">
+								Each website we make is made so in consistence with the latest particular web rules and, ordinarily, it has a straightforward webpage plan. Easy to-use ropdown course, clear plans and other natural parts. The advantages of enlisting a web association are self-evident. Your site is the primary association point for your clients. It is similarly the easiest and speediest strategy for making new clients. Your site is your association's distinctive imprint. If your site is unprofessional, contains show botches, then again accepting the particular reason is outdated and has critical bungles, this unfavorably influences the result of your endeavor. Site design costs are contained numerous factors. The arrangement is a very complex undertaking, so you should rely upon a specialist for the execution.<br />
+								</p>
+						    </div>
+							<div class="col-xl-6 col-xxl-6 sk__project-body-image-col">
+								<img src="https://i.ytimg.com/vi/TwuIjjtZ0uc/maxresdefault.jpg" alt="Sample image.">					
+							</div>
+                        </div>
+                    </div>
 				</section>
 				<!-- /.sk__project-gallery -->
 

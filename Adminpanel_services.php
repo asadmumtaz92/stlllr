@@ -163,7 +163,7 @@ Scheduling events and tasks
 Tracking and viewing user activity
 Creating and managing backups
 Viewing system logs and error reports</p>
-								<a class="btn btn-outline-light animated-element" href="#" role="button">SOME LINK -></a>
+					
 								<div class="row">
 									<div class="col-12 col-sm-6">
 										<h5 class="animated-element">Streamline Your Business Operations with a Custom Admin Panel Development</h5>
@@ -177,7 +177,7 @@ Viewing system logs and error reports</p>
 								<div class="row">
 									<div class="col">
 										<section class="footer-socials-section text-center text-sm-start">
-											<p class="mb-1 animated-element">Useful links</p>
+											<p class="mb-1 animated-element"></p>
 											<div class="footer-socials-inner">
 												<div class="footer-socials animated-element">
 												<a class="social-icons" href="https://www.facebook.com/SkilltechWebDesign" target="_blank"><span><span class="icon-linkedin"></span></span></a>
@@ -206,49 +206,36 @@ Viewing system logs and error reports</p>
 							</div>
 						</div>
 						<div class="row">
-							<div class="col px-0">
-								<!-- Project Gallery Image 1 -->
-								<section class="sk__gallery-item sk__parallax-background-section sk__huge-vertical-deco-text-section sk__centered-y-section sk__edge-beauty">
-									<div class="sk__parallax-background-element sk__absolute sk__image-back-cover sk__project-1-parallax-img-1"></div>
-									<span class="sk__huge-vertical-deco-text-wrapper sk__hvdt-left">
-										<span class="sk__huge-vertical-deco-text dark-shade-1-clr sk__hvdt-vertical-rails text-center">Belveder</span>
-									</span>
-								</section>
-								<!-- Project Gallery Image 2 -->
-								<section class="sk__gallery-item sk__parallax-background-section sk__centered-y-section sk__edge-beauty">
-									<div class="sk__parallax-background-element sk__absolute sk__image-back-cover sk__project-1-parallax-img-2"></div>
-								</section>
-								<!-- Project Gallery Image 3 -->
-								<section class="sk__gallery-item sk__parallax-background-section sk__huge-vertical-deco-text-section sk__centered-y-section sk__edge-beauty">
-									<div class="sk__parallax-background-element sk__absolute sk__image-back-cover sk__project-1-parallax-img-3"></div>
-									<span class="sk__huge-vertical-deco-text-wrapper sk__hvdt-right">
-										<span class="sk__huge-vertical-deco-text white-clr sk__hvdt-vertical-rails text-center" style="opacity: 0.4;">Evangels</span>
-									</span>
-								</section>
-								<!-- Project Gallery Image 4 -->
-								<section class="sk__gallery-item sk__parallax-background-section sk__huge-vertical-deco-text-section sk__centered-y-section sk__edge-beauty">
-									<div class="sk__parallax-background-element sk__absolute sk__image-back-cover sk__project-1-parallax-img-4"></div>
-								</section>
+						<div class="col-xl-6 col-xxl-6 sk__project-body-image-col">
+								<img src="https://www.freelancetoindia.com/wp-content/uploads/2019/01/WordPress-Development.jpg" alt="Sample image.">
+							</div>
+						<div class="col-xl-6 col-xxl-6 sk__project-body-info-col mt-4 mt-xl-0 pt-5 pt-xl-0 text-center text-sm-start">
+								<h4 class="animated-element">Quality standards we live up to</h4>
+								<p class="animated-element" style="padding: 20px 0px">
+								Administrator boards are electronic points of interaction that permit clients to oversee different parts of a site or application. They are normally simply available to validated clients with specific consents, like site chairmen or staff individuals. Administrator boards give a scope of instruments and elements that permit clients to perform errands, for example, adding, altering, and erasing content on the site or application, overseeing clients and client consents, designing site or application settings, seeing and dissecting site or application examination, and checking and overseeing site or application execution and security. Administrator boards are normally used to deal with the substance and usefulness of sites, online stores, and different sorts of electronic applications. They give a unified area to site chairmen and other approved clients to oversee and keep up with the site or application.<br />
+								</p>
+							</div>
+						</div>
+
+
+						<hr style="height: 0.5px; background: rgba(255,255,255,0.13);">
+						<div class="row" style="margin-top:120px">
+							<div class="col-xl-6 col-xxl-6 sk__project-body-info-col mt-4 mt-xl-0 pt-5 pt-xl-0 text-center text-sm-start">
+								<h4 class="animated-element">Quality standards we live up to</h4>
+								<p class="animated-element" style="text-align: justify">
+								Each website we make is made so in consistence with the latest particular web rules and, regularly, it has a straightforward website plan. Easy to-use ropdown course, clear plans and other instinctive parts. The advantages of enrolling a web association are self-evident. Your site is the primary association point for your clients. It is similarly the most straightforward and fastest technique for making new clients. Your site is your association's distinctive imprint. If your site is awkward, contains show botches, then again expecting the specific reason is outdated and has huge bumbles, this unfavorably influences the result of your endeavor. Site design costs are included numerous factors. The arrangement is a very complicated task, so you should rely upon a specialist for the execution.<br />
+								</p>
+							</div>
+                        
+							<div class="col-xl-6 col-xxl-6 sk__project-body-image-col">
+								<img src="https://i.ytimg.com/vi/TwuIjjtZ0uc/maxresdefault.jpg" alt="Sample image.">					
 							</div>
 						</div>
 					</div>			
 				</section>
 				<!-- /.sk__project-gallery -->
 
-				<!-- CTA Section (Warp CTA)
-				================================================== -->
-				<section class="sk__cta-warp position-relative sk__image-back-cover">
-					<div class="container sk__powercontainer">
-						<div class="row">
-							<div class="col text-center">
-								<div class="sk__warped-text-wrapper sk__flex-center">
-									<span class="sk__warped-text">GET THEME NOW</span>
-								</div>
-								<h3><strong>BETTER DESIGN AESTHETICS</strong></h3>
-								<a class="btn btn-lg btn-outline-light sk__warped-button" href="https://1.envato.market/a1mP7Z" role="button">BUY THEME -></a>
-							</div>
-						</div>
-					</div>
+			
 				</section>
 					
 				<!-- Contact Us Section
@@ -262,39 +249,6 @@ Viewing system logs and error reports</p>
 							<div class="col-12 col-lg-10 offset-lg-1">
 								<h1 class="h1-small">Let's Start Creating</h1>
 								<p class="p-v2">Want to start a project of this caliber but don't know where to start? Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.</p>
-							</div>
-						</div>
-						<div class="row">
-							<!-- Contact Form -->
-							<div class="col-12 col-lg-10 offset-lg-1 sk__contact-form-col d-flex justify-content-end">
-								<div class="sk__contact-right text-center text-sm-start">
-
-									<!-- Preview Only Static Form -->
-
-									<!-- Real Working Form - Simple Forms V3 -->
-									<!-- <div class="sf-wrapper">
-										<form id="contact-form-1" class="sk__form sk__contact-form" action="assets/vendor/simple-forms/sendmail.php" method="post">
-											
-											<div class="form-group">
-												<input type="text" name="name" value="" class="validate-name" min="2" placeholder="Name*" required>
-											</div>
-											<div class="form-group">
-												<input type="text" name="email" class="validate-email" placeholder="Email*" value="">
-											</div>
-											<div class="form-group">
-												<textarea name="message" placeholder="Message*" required></textarea>
-											</div>
-
-											<div class="form-submit">
-												<button type="submit">Send now</button>
-											</div>
-
-											<div class="server-response"></div>
-
-										</form>
-									</div> -->
-
-								</div>
 							</div>
 						</div>
 					</div>

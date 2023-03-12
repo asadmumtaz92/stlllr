@@ -165,7 +165,7 @@
 • Connecting a mobile app to a web-based server to provide data from one to the other.
 
 • Sending data from a web form to a server and processing it.</p>
-								<a class="btn btn-outline-light animated-element" href="#" role="button">SOME LINK -></a>
+						
 								<div class="row">
 									<div class="col-12 col-sm-6">
 										<h5 class="animated-element">Social work</h5>
@@ -179,7 +179,7 @@
 								<div class="row">
 									<div class="col">
 										<section class="footer-socials-section text-center text-sm-start">
-											<p class="mb-1 animated-element">Useful links</p>
+											
 											<div class="footer-socials-inner">
 												<div class="footer-socials animated-element">
 												<a class="social-icons" href="https://www.facebook.com/SkilltechWebDesign" target="_blank"><span><span class="icon-linkedin"></span></span></a>
@@ -206,52 +206,40 @@
 								<h1 class="super-heading sk__clipped-text sk__gradient-back-v1"></span>Social Media Development.</span></h1>
 								<h2 class="h2-regular">We <strong>StilllR</strong> loves doing development</h2>
 							</div>
+							
 						</div>
 						<div class="row">
-							<div class="col px-0">
-								<!-- Project Gallery Image 1 -->
-								<section class="sk__gallery-item sk__parallax-background-section sk__huge-vertical-deco-text-section sk__centered-y-section sk__edge-beauty">
-									<div class="sk__parallax-background-element sk__absolute sk__image-back-cover sk__project-1-parallax-img-1"></div>
-									<span class="sk__huge-vertical-deco-text-wrapper sk__hvdt-left">
-										<span class="sk__huge-vertical-deco-text dark-shade-1-clr sk__hvdt-vertical-rails text-center">Belveder</span>
-									</span>
-								</section>
-								<!-- Project Gallery Image 2 -->
-								<section class="sk__gallery-item sk__parallax-background-section sk__centered-y-section sk__edge-beauty">
-									<div class="sk__parallax-background-element sk__absolute sk__image-back-cover sk__project-1-parallax-img-2"></div>
-								</section>
-								<!-- Project Gallery Image 3 -->
-								<section class="sk__gallery-item sk__parallax-background-section sk__huge-vertical-deco-text-section sk__centered-y-section sk__edge-beauty">
-									<div class="sk__parallax-background-element sk__absolute sk__image-back-cover sk__project-1-parallax-img-3"></div>
-									<span class="sk__huge-vertical-deco-text-wrapper sk__hvdt-right">
-										<span class="sk__huge-vertical-deco-text white-clr sk__hvdt-vertical-rails text-center" style="opacity: 0.4;">Evangels</span>
-									</span>
-								</section>
-								<!-- Project Gallery Image 4 -->
-								<section class="sk__gallery-item sk__parallax-background-section sk__huge-vertical-deco-text-section sk__centered-y-section sk__edge-beauty">
-									<div class="sk__parallax-background-element sk__absolute sk__image-back-cover sk__project-1-parallax-img-4"></div>
-								</section>
+						<div class="col-xl-6 col-xxl-6 sk__project-body-image-col">
+								<img src="https://www.freelancetoindia.com/wp-content/uploads/2019/01/WordPress-Development.jpg" alt="Sample image.">
+							</div>
+						<div class="col-xl-6 col-xxl-6 sk__project-body-info-col mt-4 mt-xl-0 pt-5 pt-xl-0 text-center text-sm-start">
+								<h4 class="animated-element">Quality standards we live up to</h4>
+								<p class="animated-element" style="padding: 20px 0px">
+								Web-based entertainment improvement has turned into a fundamental piece of present day programming advancement, empowering organizations to productively fabricate and coordinate complex applications more. We at Stlllr grasp the significance of APIs and are committed to assisting our clients with prevailing with them.
+
+Our group of experienced designers has a profound comprehension of best practices and can assist you with building that are versatile, dependable, and simple to utilize. We have mastery in various programming dialects and systems, including JavaScript, Python, Java, and C#, and can assist you with picking the right apparatuses for your venture.<br />
+								</p> 
+							</div>
+						</div>
+							<hr style="height: 0.5px; background: rgba(255,255,255,0.13);">
+   	                        <div class="row" style="margin-top:120px">
+						    <div class="col-xl-6 col-xxl-6 sk__project-body-info-col mt-4 mt-xl-0 pt-5 pt-xl-0 text-center text-sm-start">
+							  <h4 class="animated-element">The following are a couple of justifications for why organizations could foster Media organizing</h4>
+								<p class="animated-element" style="text-align: justify">
+								Coordination: Media can be utilized to coordinate various frameworks and stages, permitting them to trade information and usefulness in a normalized manner. For instance, an organization could foster a Programming interface to permit its site to speak with its CRM framework.
+Information access: We upgrade your application to work on its exhibition and speed.
+Computerization: APIs can be utilized to robotize assignments by permitting one framework to ask for and get reactions from another framework. For instance, an organization could foster a Programming interface to permit its promoting robotization device to send messages or post online entertainment refreshes.<br />
+								</p>
+							</div>
+                        
+							<div class="col-xl-6 col-xxl-6 sk__project-body-image-col">
+								<img src="https://i.ytimg.com/vi/TwuIjjtZ0uc/maxresdefault.jpg" alt="Sample image.">
 							</div>
 						</div>
 					</div>			
 				</section>
 				<!-- /.sk__project-gallery -->
 
-				<!-- CTA Section (Warp CTA)
-				================================================== -->
-				<section class="sk__cta-warp position-relative sk__image-back-cover">
-					<div class="container sk__powercontainer">
-						<div class="row">
-							<div class="col text-center">
-								<div class="sk__warped-text-wrapper sk__flex-center">
-									<span class="sk__warped-text">GET THEME NOW</span>
-								</div>
-								<h3><strong>BETTER DESIGN AESTHETICS</strong></h3>
-								<a class="btn btn-lg btn-outline-light sk__warped-button" href="https://1.envato.market/a1mP7Z" role="button">BUY THEME -></a>
-							</div>
-						</div>
-					</div>
-				</section>
 					
 				<!-- Contact Us Section
 				================================================== -->
@@ -267,44 +255,7 @@
 							</div>
 						</div>
 						<div class="row">
-							<!-- Contact Form -->
-							<div class="col-12 col-lg-10 offset-lg-1 sk__contact-form-col d-flex justify-content-end">
-								<div class="sk__contact-right text-center text-sm-start">
 
-									<!-- Preview Only Static Form -->
-									<form class="sk__form sk__contact-form">
-
-										
-
-									
-
-								
-
-									<!-- Real Working Form - Simple Forms V3 -->
-									<!-- <div class="sf-wrapper">
-										<form id="contact-form-1" class="sk__form sk__contact-form" action="assets/vendor/simple-forms/sendmail.php" method="post">
-											
-											<div class="form-group">
-												<input type="text" name="name" value="" class="validate-name" min="2" placeholder="Name*" required>
-											</div>
-											<div class="form-group">
-												<input type="text" name="email" class="validate-email" placeholder="Email*" value="">
-											</div>
-											<div class="form-group">
-												<textarea name="message" placeholder="Message*" required></textarea>
-											</div>
-
-											<div class="form-submit">
-												<button type="submit">Send now</button>
-											</div>
-
-											<div class="server-response"></div>
-
-										</form>
-									</div> -->
-
-								</div>
-							</div>
 						</div>
 					</div>
 
