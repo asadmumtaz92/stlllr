@@ -2,55 +2,8 @@
 <html lang="en-US">
 
 <head>
-
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-	<meta name="description" content="This is StlllR, see it live now!">
-	<meta name="author" content="Skilltech Web Design">
-	<meta name="keywords" content="StlllR, dark theme, best dark theme, best dark html, best dark website design, best dark websites, dark web design, best html themes, best html templates, best websites, dark portfolio, dark creative, gsap theme, skilltech, skilltech web design"/>
-
-	<meta property="og:title" content="StlllR - The Ultimate Dark HTML Template"/>
-	<meta property="og:description" content="Superior Dark Multipurpose Theme · $235 Added Value · Stunning Effects & Clean Code · Build a Website Today with StlllR!"/>
-	<meta property="og:image" content="assets/images/facebook-post-image-default.jpg"/>
-
-	<meta property="og:site_name" content="SkilltechWebDesign.com"/>
-
-	<title>UI/UX Services</title>
-	<link rel="icon" href="assets/logo/logo_black.png" type="image/x-icon">
-	<link rel="apple-touch-icon-precomposed" type="image/x-icon" href="assets/images/apple-touch-icon-72x72-precomposed.png" sizes="72x72" />
-	<link rel="apple-touch-icon-precomposed" type="image/x-icon" href="assets/images/apple-touch-icon-114x114-precomposed.png" sizes="114x114" />
-	<link rel="apple-touch-icon-precomposed" type="image/x-icon" href="assets/images/apple-touch-icon-144x144-precomposed.png" sizes="144x144" />
-	<link rel="apple-touch-icon-precomposed" type="image/x-icon" href="assets/images/apple-touch-icon-precomposed.png" />
-
-	<!-- Bootstrap CSS -->
-	<link href="assets/vendor/bootstrap/5.1.3/bootstrap.min.css" rel="stylesheet">
-	<!-- Fonts -->
-	<link rel="preconnect" href="https://fonts.googleapis.com">
-	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-	<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lato:wght@100;300;400;700;900&family=Poppins:wght@200;300;400;600;700;800&family=Syncopate:wght@400;700&display=swap" rel="stylesheet">
-	<!-- Icon Fonts -->
-	<link href="assets/vendor/icomoon/icomoon.min.css" rel="stylesheet">
-	
-	<!-- Off Canvas Menu - Default Theme -->
-	<link href="assets/vendor/offcanvas-nav/hc-offcanvas-nav.css" rel="stylesheet" />
-
-	<!-- Theme CSS -->
-	<link href="assets/css/theme.css" rel="stylesheet">
-	<link href="assets/css/theme-colors.css" rel="stylesheet">
-
-	<!-- Theme Preview Only CSS -->
-	<link href="assets/css/theme-preview-color-styler.css" rel="stylesheet">
-
-	<!-- jQuery -->
-	<script src="assets/vendor/jquery/jquery.min.js"></script>
-
-	<!-- Slick (carousel) -->
-	<link href="assets/vendor/slick/1.8.1/slick.css" rel="stylesheet">
-	<link href="assets/vendor/slick/1.8.1/slick-theme-skilltech.css" rel="stylesheet">
-
-	<!-- Simple Forms -->
-	<!-- <link rel="stylesheet" href="assets/vendor/simple-forms/css/simple-forms-skilltech-mod.css"> -->
-
+	<title>StlllR | UI/UX Services</title>
+	<?php include_once("includes/link-up.php") ?>
 </head>
 
 <body class="sk__portfolio-item-page dark-shade-1-bg">
@@ -66,7 +19,7 @@
 				<section class="sk__project-header sk__full-height sk__flex-center-y sk__parallax-background-section sk__parallax-fixer-section">
 
 					<div class="sk__parallax-background-element sk__absolute sk__image-back-cover sk__parallax-fixer"></div>
-					
+
 					<div class="container sk__powercontainer">
 
 						<div class="row">
@@ -79,7 +32,7 @@
 
 							<!-- Main Heading, Project Info and Wide Landscape Thumbnail -->
 							<div class="sk__project-main-info-col col-12 col-xxl-9 ps-xxl-5">
-		
+
 								<div class="row order-2 order-xxl-1 sk__project-info-and-thumbnail">
 									<!-- Project Info -->
 									<div class="col-12 col-xl-4 sk__project-infoboxes overflow-hidden">
@@ -153,22 +106,39 @@
 							</div>
 							<div class="col-xl-6 col-xxl-5 sk__project-body-info-col mt-4 mt-xl-0 pt-5 pt-xl-0 text-center text-sm-start">
 								<h4 class="animated-element">What we do?</h4>
-								<p class="animated-element">This is done by combining principles of design, such as color theory, typography, and layout, with the principles of usability, such as navigation, user flow, and accessibility.<br />They also strive to create products that are tailored to the user's needs and preferences.In general, UI design is focused on the visual design of a product, while UX design relates to the overall user experience. Both are important for creating successful products, and often work together in the design process.</p>
-								
+								<p class="animated-element">
+									This is done by combining principles of design, such as color theory, 
+									typography, and layout, with the principles of usability, such as 
+									navigation, user flow, and accessibility.<br />They also strive to 
+									create products that are tailored to the user's needs and preferences. 
+									In general, UI design is focused on the visual design of a product, 
+									while UX design relates to the overall user experience. Both are 
+									important for creating successful products, and often work together in 
+									the design process.
+								</p>
 								<div class="row">
 									<div class="col-12 col-sm-6">
 										<h5 class="animated-element">A good UI/UX design can have many difference</h5>
-										<p class="p-xs animated-element">Usability testing is also an important part of the design process. This involves testing the user interface with actual users to get feedback and make necessary adjustments. It also helps to identify any potential issues that need to be addressed before the product is released.</p>
+										<p class="p-xs animated-element">
+											Usability testing is also an important part of the design process. This 
+											involves testing the user interface with actual users to get feedback and 
+											make necessary adjustments. It also helps to identify any potential issues 
+											that need to be addressed before the product is released.
+										</p>
 									</div>
 									<div class="col-12 col-sm-6">
 										<h5 class="animated-element">Invest in your Clients' experience, and they'll invest in you</h5>
-										<p class="p-xs animated-element"> Professional UI/UX design can also help ensure that your product meets user needs and expectations, while addressing any potential usability issues that could arise. Ultimately, investing in UI/UX design can help you create a product that stands out and meets the needs of your users.</p>
+										<p class="p-xs animated-element">
+											Professional UI/UX design can also help ensure that your product meets user 
+											needs and expectations, while addressing any potential usability issues that 
+											could arise. Ultimately, investing in UI/UX design can help you create a 
+											product that stands out and meets the needs of your users.
+										</p>
 									</div>
 								</div>
 								<div class="row">
 									<div class="col">
 										<section class="footer-socials-section text-center text-sm-start">
-							
 											<div class="footer-socials-inner">
 												<div class="footer-socials animated-element">
 												<a class="social-icons" href="https://www.facebook.com/SkilltechWebDesign" target="_blank"><span><span class="icon-linkedin"></span></span></a>
@@ -189,7 +159,7 @@
 				<!-- Project Parallax Gallery
 				================================================== -->
 				<section class="sk__project-gallery sk__parallax-chain">
-					<div class="container-fluid">
+					<div class="container">
 						<div class="row">
 							<div class="col-12 col-md-10 offset-md-1 text-center sk__heading-spacer-xl">
 								<h1 class="super-heading sk__clipped-text sk__gradient-back-v1"> </span>UI/UX Agency</h1>
@@ -198,16 +168,26 @@
 						</div>
 						<div class="row">
 						<div class="col-xl-6 col-xxl-6 sk__project-body-image-col">
-								<img src="https://www.freelancetoindia.com/wp-content/uploads/2019/01/WordPress-Development.jpg" alt="Sample image.">
-							</div>
+							<img src="https://www.freelancetoindia.com/wp-content/uploads/2019/01/WordPress-Development.jpg" alt="Sample image.">
+						</div>
 						<div class="col-xl-6 col-xxl-6 sk__project-body-info-col mt-4 mt-xl-0 pt-5 pt-xl-0 text-center text-sm-start">
 								<h4 class="animated-element">Bad Experience?</h4>
-								<p class="animated-element" style="padding: 20px 0px">
-								Having a terrible client experience (UX) with a product or site can be disappointing and confounding, and eventually pushing the clients away.
-A terrible UX can be brought about by various elements, yet an ineffectively planned UI (UI) is many times a significant giver.
-
-At the point when the UI of a product or site is inadequately planned, it very well may be hard for clients to comprehend how to utilize the item and achieve their objectives.
-This can prompt disarray, disappointment, and at last relinquishment. For instance, a site with a befuddling route structure or jumbled design can make it challenging for clients to find the data they are searching for, prompting an unfortunate client experience. Likewise, a product application with befuddling or inadequately marked buttons can make it challenging for clients to perform errands, prompting a negative encounter.<br />
+								<p class="animated-element" style="padding: 0px 0px; text-align: justify">
+									Having a terrible client experience (UX) with a product or 
+									site can be disappointing and confounding, and eventually 
+									pushing the clients away. A terrible UX can be brought about 
+									by various elements, yet an ineffectively planned UI (UI) is 
+									many times a significant giver. At the point when the UI of a 
+									product or site is inadequately planned, it very well may be 
+									hard for clients to comprehend how to utilize the item and 
+									achieve their objectives. This can prompt disarray, 
+									disappointment, and at last relinquishment. For instance, a 
+									site with a befuddling route structure or jumbled design can 
+									make it challenging for clients to find the data they are 
+									searching for, prompting an unfortunate client experience. 
+									Likewise, a product application with befuddling or 
+									inadequately marked buttons can make it challenging for 
+									clients to perform errands, prompting a negative encounter.<br />
                                </p>
 							</div>
 						</div>
@@ -215,8 +195,17 @@ This can prompt disarray, disappointment, and at last relinquishment. For instan
 						<div class="row" style="margin-top:120px">
 							<div class="col-xl-6 col-xxl-6 sk__project-body-info-col mt-4 mt-xl-0 pt-5 pt-xl-0 text-center text-sm-start">
 								<h4 class="animated-element">Quality standards we live up to</h4>
-								<p class="animated-element" style="text-align: justify">
-								With an abundance of involvement with UI/UX plan, Takkaia improvement has the information and abilities to make top notch items that address the issues of our's clients. We comprehend what works and what doesn't, and can utilize this information to make plans that are both successful and charming. Time is frequently of the pith in the realm of UI/UX plan, and we are known for its capacity to work effectively and convey brings about an ideal way. This can be particularly significant for clients who are on close cutoff times or have to get their items to rapidly showcase.<br />
+								<p class="animated-element" style="padding: 0px 0px; text-align: justify">
+									With an abundance of involvement with UI/UX plan, Takkaia 
+									improvement has the information and abilities to make top 
+									notch items that address the issues of our's clients. We 
+									comprehend what works and what doesn't, and can utilize 
+									this information to make plans that are both successful 
+									and charming. Time is frequently of the pith in the realm 
+									of UI/UX plan, and we are known for its capacity to work 
+									effectively and convey brings about an ideal way. This can 
+									be particularly significant for clients who are on close 
+									cutoff times or have to get their items to rapidly showcase.<br />
 								</p>
 							</div>
 							<div class="col-xl-6 col-xxl-6 sk__project-body-image-col">
@@ -227,7 +216,6 @@ This can prompt disarray, disappointment, and at last relinquishment. For instan
 				</section>
 				<!-- /.sk__project-gallery -->
 
-					
 				<!-- Contact Us Section
 				================================================== -->
 				<section id="contact-us" class="sk__contact-us sk__py-m sk__parallax-background-section sk__flex-center-y">
@@ -241,7 +229,6 @@ This can prompt disarray, disappointment, and at last relinquishment. For instan
 								<p class="p-v2">Want to start a project of this caliber but don't know where to start? Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.</p>
 							</div>
 						</div>
-					
 					</div>
 
 				</section>

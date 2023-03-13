@@ -12,46 +12,54 @@
 						<span class="divider sk__subtle-divider"></span>
 
 						<div class="row footer-main text-center text-sm-start">
-							<div class="col-md-12 col-lg-6 footer-main-large-col mb-4 mb-lg-0">
-								<div class="fancy-gradient-text-box">
-									<h3 class="h3-elegant sk__gradient-fancy-text">Start your journey now.</h3>
-								</div>	
-								<p class="p-v2 mw-440">Salvia vape blue bottle bespoke wolf celiac quinoa cloud bread letterpress hammock photo booth. Palo santo vexillologist venmo shaman pitchfork tote bag.</p>
-								<h5>Manhattan Studio</h5>
-								<p class="p-v2 mw-440"><span>1000 Park Avenue Manhattan, </span><span>NY 10001, </span><span>+1 (0) 212 555-0475 </span><br /><span>info@website.com</span></p>
+							<div class="col-sm-12 col-md-6 col-lg-4 footer-main-small-col widget_nav_menu">
+								<h5>Our Office Info</h5>
+								<ul>
+									<li>
+										<p style="color: gray; cursor: pointer">Al-Hussain Arcade, Office #4</p>
+									</li>
+									<li>
+										<p style="color: gray; cursor: pointer">Sector G, Bahria Enclave</p>
+									</li>
+									<li>
+										<p style="color: gray; cursor: pointer">Islamabad, Pakistan</p>
+									</li>
+									<li>
+										<p style="color: gray; cursor: pointer">+92 333 8444015</p>
+									</li>
+								</ul>
 							</div>
-							<div class="col-sm-12 col-md-6 col-lg-3 footer-main-small-col widget_nav_menu">
+
+							<div class="col-sm-12 col-md-6 col-lg-4 footer-main-small-col widget_nav_menu">
 								<h5>StlllR Web</h5>
 								<ul>
 									<li>
-										<a href="#" class="footer-main-links gradient-links">About StlllR Theme</a>
+										<a href="index.php" class="footer-main-links gradient-links">Home</a>
 									</li>
 									<li>
-										<a href="#" class="footer-main-links gradient-links">Portfolio & Works</a>
+										<a href="#" class="footer-main-links gradient-links">Our Services</a>
 									</li>
 									<li>
-										<a href="#" class="footer-main-links gradient-links">Pricing & Terms</a>
-									</li>
-									<li>
-										<a href="#" class="footer-main-links gradient-links">Skills & Story</a>
+										<a href="#" class="footer-main-links gradient-links">Other Services</a>
 									</li>
 									<li>
 										<a href="#" class="footer-main-links gradient-links">Contact Us</a>
 									</li>
 								</ul>
 							</div>
-							<div class="col-sm-12 col-md-6 col-lg-3 footer-main-small-col">
+
+							<div class="col-sm-12 col-md-6 col-lg-4 footer-main-small-col">
 								<div class="row">
 									<div class="col">
 										<!-- Footer Social Icons Menu -->
 										<section class="footer-socials-section">
-											<h5>Follow Us & Stay Informed</h5>
+											<h5>Follow Us</h5>
 											<div class="footer-socials-inner">
 												<div class="footer-socials">
-													<a class="social-icons" href="https://www.facebook.com/SkilltechWebDesign" target="_blank"><span><span class="icon-facebook1"></span></span></a>
-													<a class="social-icons" href="https://www.facebook.com/SkilltechWebDesign" target="_blank"><span><span class="icon-twitter1"></span></span></a>
-													<a class="social-icons" href="https://www.facebook.com/SkilltechWebDesign" target="_blank"><span><span class="icon-behance1"></span></span></a>
-													<a class="social-icons" href="https://www.facebook.com/SkilltechWebDesign" target="_blank"><span><span class="icon-dribbble1"></span></span></a>
+													<a class="social-icons" href="#" target="_blank"><span><span class="icon-linkedin1"></span></span></a>
+													<a class="social-icons" href="#" target="_blank"><span><span class="icon-facebook1"></span></span></a>
+													<a class="social-icons" href="#" target="_blank"><span><span class="icon-twitter1"></span></span></a>
+													<a class="social-icons" href="#" target="_blank"><span><span class="icon-instagram"></span></span></a>
 												</div>
 											</div>
 										</section>
