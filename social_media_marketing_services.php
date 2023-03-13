@@ -179,7 +179,7 @@
 								<div class="row">
 									<div class="col">
 										<section class="footer-socials-section text-center text-sm-start">
-											
+										<p class="mb-1 animated-element">Find us here.</p>
 											<div class="footer-socials-inner">
 												<div class="footer-socials animated-element">
 												<a class="social-icons" href="https://www.facebook.com/SkilltechWebDesign" target="_blank"><span><span class="icon-linkedin"></span></span></a>
@@ -203,7 +203,7 @@
 					<div class="container-fluid">
 						<div class="row">
 							<div class="col-12 col-md-10 offset-md-1 text-center sk__heading-spacer-xl">
-								<h1 class="super-heading sk__clipped-text sk__gradient-back-v1"></span>Social Media Development.</span></h1>
+								<h1 class="super-heading sk__clipped-text sk__gradient-back-v1"></span>Social Media Marketing.</span></h1>
 								<h2 class="h2-regular">We <strong>StilllR</strong> loves doing development</h2>
 							</div>
 							

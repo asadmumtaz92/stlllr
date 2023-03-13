@@ -128,7 +128,7 @@
 								<div class="row order-1 order-xxl-2 sk__project-main-heading text-center py-2 py-sm-0 sk__flex-center">
 									<div class="col position-relative mb-5 pb-0 pb-md-5 pb-lg-0 pb-xl-5 mb-xxl-0 pb-xxl-0">
 										<div class="cover-text-wrapper d-block">
-											<h1 class="super-heading sk__clipped-text sk__gradient-back-v1 mb-xxl-0">&nbsp;Ui/Ux Development&nbsp;</h1>
+											<h1 class="super-heading sk__clipped-text sk__gradient-back-v1 mb-xxl-0">&nbsp;UI/UX Development&nbsp;</h1>
 										</div>
 										<div class="cover-text-wrapper d-block">
 											<h2>Some things are best when Designed by professionals</h2>
@@ -168,7 +168,7 @@
 								<div class="row">
 									<div class="col">
 										<section class="footer-socials-section text-center text-sm-start">
-							
+										<p class="mb-1 animated-element">Find us here.</p>
 											<div class="footer-socials-inner">
 												<div class="footer-socials animated-element">
 												<a class="social-icons" href="https://www.facebook.com/SkilltechWebDesign" target="_blank"><span><span class="icon-linkedin"></span></span></a>

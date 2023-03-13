@@ -178,6 +178,7 @@ Viewing system logs and error reports</p>
 									<div class="col">
 										<section class="footer-socials-section text-center text-sm-start">
 											<p class="mb-1 animated-element"></p>
+											<p class="mb-1 animated-element">Find us here.</p>
 											<div class="footer-socials-inner">
 												<div class="footer-socials animated-element">
 												<a class="social-icons" href="https://www.facebook.com/SkilltechWebDesign" target="_blank"><span><span class="icon-linkedin"></span></span></a>

@@ -169,7 +169,7 @@
 								<div class="row">
 									<div class="col">
 										<section class="footer-socials-section text-center text-sm-start">
-											
+										<p class="mb-1 animated-element">Find us here.</p>
 											<div class="footer-socials-inner">
 												<div class="footer-socials animated-element">
 												<a class="social-icons" href="https://www.facebook.com/SkilltechWebDesign" target="_blank"><span><span class="icon-linkedin"></span></span></a>
@@ -232,9 +232,7 @@
 						<div class="row">
 							<div class="col text-center">
 								<div class="sk__warped-text-wrapper sk__flex-center">
-									<span class="sk__warped-text">GET THEME NOW</span>
-								</div>
-								<h3><strong>BETTER DESIGN AESTHETICS</strong></h3>
+								
 								<a class="btn btn-lg btn-outline-light sk__warped-button" href="https://1.envato.market/a1mP7Z" role="button">BUY THEME -></a>
 							</div>
 						</div>
