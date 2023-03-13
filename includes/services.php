@@ -1,6 +1,6 @@
 <?php 
     echo '
-        <section class="sk__portfolio-section sk__py-l dark-shade-2-bg sk__solid-menu-bar">
+        <section class="sk__portfolio-section sk__py-l dark-shade-2-bg sk__solid-menu-bar" id="services">
 			<div class="container-fluid">
 				<div class="row text-center">
 					<div class="col sk__heading-spacer-l">
