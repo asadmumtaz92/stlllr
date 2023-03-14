@@ -3,9 +3,9 @@
 	echo '
 		<!-- Master Curtain Effect -->
 		<section class="sk__master-curtain">
+			<div class="mcurtain mcurtain-left"></div>
 			<div class="mcurtain mcurtain-center"></div>
-			<!--div class="mcurtain mcurtain-left"></div>
-			<div class="mcurtain mcurtain-right"></div-->
+			<div class="mcurtain mcurtain-right"></div>
 		</section>
 
 		<!-- Back to top button -->

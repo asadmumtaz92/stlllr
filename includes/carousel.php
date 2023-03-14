@@ -1,6 +1,6 @@
 <?php
 
-	if (true == false)
+	if (true == true)
 	{
 		echo '
 			<section class="sk__hero-section">
@@ -18,40 +18,46 @@
 						<!-- Slide 1 -->
 						<div class="carousel-item zooming active hero-slide-1 sk__hero-slider-item sk__image-back-cover">
 							<section class="sk__parallax-background-section sk__hero-item-theme-style">
-										
 								<!-- Parallax background -->
 								< <div class="sk__parallax-background-element sk__absolute sk__image-back-cover" style="background-image: url(assets/carousel_images/codding.webp);"></div>
 								<div class="flex-helper-div"></div>
-										
+
 								<!-- Main hero heading -->
 								<div class="hero-h1-box">
 									<div class="cover-text-wrapper">
-										<h1 class="hero-h1 animated-element phase-1 text-center text-md-start text-white">Website<br /> Development<br /> is Here</h1>
+										<h1 class="hero-h1 animated-element phase-1 text-center text-md-start text-white">Website <br />Development</h1>
 									</div>
 								</div>
+
 								<!-- Bottom Left box -->
 								<div class="hero-box-bottom-left text-center text-sm-start">
-									<!--a class="btn btn-outline-light animated-element phase-1 mb-4" href="#about-us" role="button">OPEN PROJECT</a-->
+									<a class="btn btn-outline-light animated-element phase-1 mb-4" href="#services" role="button">CHECK OUR SERVICES</a>
 		
 									<div class="cover-text-wrapper">
-										<h3 class="animated-element phase-1 text-center text-sm-start text-white">ADVANCEMENT IN <strong>DESIGN</strong></h3>
+										<h3 class="animated-element phase-1 text-center text-sm-start text-white">
+											MAKE A MASSIVE <strong>STEP</strong> FORWARD
+										</h3>
 									</div>
-									<!--div class="cover-text-wrapper">
-										<p class="hero-box-p animated-element phase-1 text-center text-sm-start text-white">Salvia vape blue bottle bespoke wolf celiac quinoa cloud bread letterpress hammock photo booth. Palo santo vexillologist venmo shaman pitchfork tote bag.</p>
-									</div-->
+									<div class="cover-text-wrapper">
+										<p class="hero-box-p animated-element phase-1 text-center text-sm-start" style="color: white; font-size: 14px">
+											We develop websites and mobile apps that will inspire your customers and 
+											increase your business all at the while making sure that the innovative 
+											needs of the global market are met.
+										</p>
+									</div>
 								</div>
 								<!-- Bottom Right Box -->
-								<!-- div class="hero-box-bottom-right text-center text-sm-start">
+								<div class="hero-box-bottom-right text-center text-sm-start">
 									<div class="cover-text-wrapper">
-										<span class="big-abbreviated-heading animated-element phase-2 text-white">DKPTH</span>
+										<span class="big-abbreviated-heading animated-element phase-2 text-white">Beyond</span>
 									</div>
 									<div class="cover-text-wrapper">
-										<p class="animated-element phase-2 text-white">Follow the white rabbit Neo, and you’ll end up in Darkshade</p>
+										<p class="animated-element phase-2 text-white" style="font-size: 25px;line-height: 23px;">your opportunities above & </p>
 									</div>
 									<div class="cover-text-wrapper">
-										<h4 class="animated-element phase-2 text-white">EXCEPTIONAL</h4>
+										<h4 class="animated-element phase-2 text-white" style="font-size: 38px;">Develop</h4>
 									</div>
-								</div -->
+								</div>
 							</section>
 						</div>
 						<!-- /.hero-slide-1 -->
@@ -163,22 +169,28 @@
 									<a class="btn btn-outline-light animated-element phase-1 mb-4" href="#services" role="button">CHECK OUR SERVICES</a>
 		
 									<div class="cover-text-wrapper">
-										<h3 class="animated-element phase-1 text-center text-sm-start text-white">ADVANCEMENT IN <strong>DESIGN</strong></h3>
+										<h3 class="animated-element phase-1 text-center text-sm-start text-white">
+											MAKE A MASSIVE <strong>STEP</strong> FORWARD
+										</h3>
 									</div>
 									<div class="cover-text-wrapper">
-										<p class="hero-box-p animated-element phase-1 text-center text-sm-start text-white">Salvia vape blue bottle bespoke wolf celiac quinoa cloud bread letterpress hammock photo booth. Palo santo vexillologist venmo shaman pitchfork tote bag.</p>
+										<p class="hero-box-p animated-element phase-1 text-center text-sm-start" style="color: white; font-size: 14px">
+											We develop websites and mobile apps that will inspire your customers and 
+											increase your business all at the while making sure that the innovative 
+											needs of the global market are met.
+										</p>
 									</div>
 								</div>
 								<!-- Bottom Right Box -->
 								<div class="hero-box-bottom-right text-center text-sm-start">
 									<div class="cover-text-wrapper">
-										<span class="big-abbreviated-heading animated-element phase-2 text-white">DKPTH</span>
+										<span class="big-abbreviated-heading animated-element phase-2 text-white">Beyond</span>
 									</div>
 									<div class="cover-text-wrapper">
-										<p class="animated-element phase-2 text-white">Follow the white rabbit Neo, and you’ll end up in Darkshade</p>
+										<p class="animated-element phase-2 text-white" style="font-size: 25px;line-height: 23px;">your opportunities above & </p>
 									</div>
 									<div class="cover-text-wrapper">
-										<h4 class="animated-element phase-2 text-white">EXCEPTIONAL</h4>
+										<h4 class="animated-element phase-2 text-white" style="font-size: 38px;">Develop</h4>
 									</div>
 								</div>
 							</section>

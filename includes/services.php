@@ -2,9 +2,9 @@
     echo '
         <section class="sk__portfolio-section sk__py-l dark-shade-2-bg sk__solid-menu-bar" id="services">
 			<div class="container-fluid">
-				<div class="row text-center">
+				<div class="row text-center" style="margin-bottom:90px">
 					<div class="col sk__heading-spacer-l">
-						<h1 class="h1-small trigger-portfolio-thumbs-entrance">Services</h1>
+						<h1 class="h1-small trigger-portfolio-thumbs-entrance">Our Services</h1>
 					</div>
 				</div>
 
