@@ -109,7 +109,7 @@
 					<div class="col-12 col-md-4 order-xs-3 order-sm-3 order-md-2 text-center text-sm-start text-md-center">
 						<p class="p-footer-copyright">Copyright © ' . date("Y") . ' <a href="http://www.stlllr.com/" target="_blank">stlllr.com</a></p>
 					</div>
-					<div class="col-xs-12 col-sm-6 col-md-4 order-sm-2 order-md-3 text-center text-sm-end">
+					<div class="col-xs-12 col-sm-6 col-md-4 order-sm-2 order-md-3 text-center text-sm-end" style="padding-right:30px;">
 						<a class="footer-bottom-right-links" href="privacy-policy.php" target="_blank">Privacy</a>
 						<a class="footer-bottom-right-links" href="terms-and-conditions.php" target="_blank">Terms</a>
 					</div>
