@@ -9,7 +9,7 @@
 				<div class="row sk__contact-info sk__inner-header text-center">
 					<div class="col-12 col-lg-10 offset-lg-1">
 						<h1 class="h1-small">' . " Let's" . ' Start Creating</h1>
-						<p class="p-v2">Want to start a project of this caliber but do not know where to start? Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.</p>
+						<p class="p-v2">Want to start a project of this caliber but do not know where to start?</p>
 					</div>
 				</div>
 				<div class="row">

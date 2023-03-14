@@ -107,7 +107,7 @@
 										<h3 class="animated-element phase-1 text-center text-sm-start text-white">SUPER PARALLAX <strong>THEME</strong></h3>
 									</div>
 									<div class="cover-text-wrapper">
-										<p class="hero-box-p animated-element phase-1 text-center text-sm-start text-white">Salvia vape blue bottle bespoke wolf celiac quinoa cloud bread letterpress hammock photo booth. Palo santo vexillologist venmo shaman pitchfork tote bag.</p>
+										<p class="hero-box-p animated-element phase-1 text-center text-sm-start text-white">An admin panel, also known as an administrative panel, is a web-based interface that allows authorized users to manage a website or web application. This interface typically requires authentication, meaning that the user must log in with a username and password to access the administrative features.										</p>
 									</div>
 								</div>
 								<!-- Bottom Right Box -->
