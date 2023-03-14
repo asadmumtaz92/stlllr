@@ -2,7 +2,6 @@
 <html lang="en-US">
 
 <head>
-
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 	<meta name="description" content="This is StlllR, see it live now!">
@@ -15,7 +14,7 @@
 
 	<meta property="og:site_name" content="SkilltechWebDesign.com"/>
 
-	<title>StlllR | Contact Us Page</title>
+	<title>StlllR | Contact Us</title>
 
 	<link rel="icon" href="assets/logo/logo_black.png" type="image/x-icon">
 	<link rel="apple-touch-icon-precomposed" type="image/x-icon" href="assets/images/apple-touch-icon-72x72-precomposed.png" sizes="72x72" />
@@ -51,7 +50,6 @@
 
 	<!-- Simple Forms -->
 	<!-- <link rel="stylesheet" href="assets/vendor/simple-forms/css/simple-forms-skilltech-mod.css"> -->
-
 </head>
 
 <body class="sk__contact-page dark-shade-1-bg">
@@ -63,8 +61,7 @@
 		<div id="smooth-wrapper" class="pushable-content">
 			<div id="smooth-content">
 
-				<!-- Header Section
-				================================================== -->
+				<!-- Header Section -->
 				<section class="sk__animated-header sk__header-y-m dark-shade-7-bg dark-shade-5-border sk__parallax-background-section sk__parallax-fixer-ignore-height">
 					<div class="sk__parallax-background-element sk__absolute sk__image-back-cover sk__parallax-fixer"></div>
 
@@ -76,12 +73,9 @@
 							</div>
 						</div>
 					</div>
-
 				</section>
 
-
-				<!-- Contact Section
-				================================================== -->
+				<!-- Contact Section -->
 				<section id="contact-us" class="sk__contact-us sk__py-m sk__parallax-background-section">
 					<div class="sk__parallax-background-element sk__absolute sk__image-back-cover"></div>
 					<div class="sk__tint sk__absolute"></div>
@@ -122,29 +116,6 @@
 
 									</form>
 
-									<!-- Real Working Form - Simple Forms V3 -->
-									<!-- <div class="sf-wrapper">
-										<form id="contact-form-1" class="sk__form sk__contact-form" action="assets/vendor/simple-forms/sendmail.php" method="post">
-											
-											<div class="form-group">
-												<input type="text" name="name" value="" class="validate-name" min="2" placeholder="Name*" required>
-											</div>
-											<div class="form-group">
-												<input type="text" name="email" class="validate-email" placeholder="Email*" value="">
-											</div>
-											<div class="form-group">
-												<textarea name="message" placeholder="Message*" required></textarea>
-											</div>
-
-											<div class="form-submit">
-												<button type="submit">Send now</button>
-											</div>
-
-											<div class="server-response"></div>
-
-										</form>
-									</div> -->
-
 								</div>
 							</div>
 						</div>
@@ -154,13 +125,10 @@
 				<!-- /.sk__contact-us -->
 
 
-				<!-- Footer
-				================================================== -->
+				<!-- Footer -->
 				<?php include_once("includes/footer.php") ?>
 
-
-				<!-- Helper div for inserting before scripts
-				================================================== -->
+				<!-- Helper div for inserting before scripts -->
 				<div class="sk__body-end"></div>
 
 			</div>

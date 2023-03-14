@@ -26,7 +26,11 @@
 		<nav id="main-nav" style="opacity: 0;" class="sk__menu navbar sk__navbar navbar-expand-lg navbar-dark static-top">
 
 			<!-- Desktop Menu Logo -->
-			<a class="navbar-brand" href="index.php" style="margin-left: 10px"><img id="sk__main-logo" alt="Website logo." src="assets/logo/logo_white.png"></a>		
+			<a class="navbar-brand" href="index.php" style="margin-left: 10px">
+				<img id="sk__main-logo" alt="Website logo." src="assets/logo/logo_white.png">
+			</a>
+
+
 			<!-- The Menu -->
 			<ul class="navbar-nav ms-auto">
 
@@ -37,9 +41,17 @@
 					</a>
 				</li>
 
+				<li class="nav-item">
+					<a class="nav-link" href="index.php"><span class="sk__menu-icon">
+						<span class="icon-home"></span></span>Home
+					</a>
+				</li>
+				
 				<!-- Regular Menu Items Start -->
 				<li class="nav-item menu-item-has-children">
-					<a class="nav-link hvr-underline-from-center" href="#">Home</a>
+					<a class="nav-link hvr-underline-from-center" href="#">
+						<span class="sk__menu-icon"><span class="icon-th"></span></span>Our Services
+					</a>
 					<ul class="sk__submenu-ul">
 						<li class="nav-item">
 							<a class="nav-link active" href="index.php"><span class="sk__menu-icon"><span class="icon-codepen1"></span></span>Combo Slider (<em>default</em>)</a><
@@ -86,7 +98,9 @@
 				</li>
 
 				<li class="nav-item menu-item-has-children">
-					<a class="nav-link hvr-underline-from-center" href="#">Pages</a>
+					<a class="nav-link hvr-underline-from-center" href="#">
+						<span class="sk__menu-icon"><span class="icon-th"></span></span>Other Services
+					</a>
 					<ul class="sk__submenu-ul">
 						<li class="nav-item">
 							<a class="nav-link" href="page-about-us.php"><span class="sk__menu-icon"><span class="icon-user-circle"></span></span>About Us</a>
@@ -136,8 +150,16 @@
 					</ul>
 				</li>
 
-				<li class="nav-item menu-item-has-children">
-					<a class="nav-link hvr-underline-from-center" href="#"><span class="sk__menu-icon"><span class="icon-th"></span></span>Elements</a>
+				<li class="nav-item">
+					<a class="nav-link" href="contact_us.php">
+						<span class="sk__menu-icon"><span class="icon-phone"></span></span>Contact Us
+					</a>
+				</li>
+
+				<!--li class="nav-item menu-item-has-children">
+					<a class="nav-link hvr-underline-from-center" href="#">
+						<span class="sk__menu-icon"><span class="icon-th"></span></span>Elements
+					</a>
 					<ul class="sk__submenu-ul">
 						<li class="nav-item menu-item-has-children">
 							<a class="nav-link" href="#">
@@ -320,11 +342,7 @@
 							<a class="nav-link" href="elements-icon-fonts.php"><span class="sk__menu-icon"><span class="icon-th"></span></span>Icon Fonts</a>
 						</li>
 					</ul>
-				</li>
-
-				<li class="nav-item">
-					<a class="nav-link" href="https://1.envato.market/a1mP7Z"><span class="sk__menu-icon"><span class="icon-shopping-cart"></span></span>Get StlllR Now</a>
-				</li>
+				</li-->
 				<!-- Regular Menu Items End -->
 
 				<!-- Mobile Menu Social Icons -->
@@ -333,10 +351,10 @@
 						<h3><strong>Connect</strong> with us</h3>
 						<div class="footer-socials-inner">
 							<div class="footer-socials">
-								<a class="social-icons" href="https://www.facebook.com/SkilltechWebDesign" target="_blank"><span><span class="icon-facebook1"></span></span></a>
-								<a class="social-icons" href="https://www.facebook.com/SkilltechWebDesign" target="_blank"><span><span class="icon-twitter1"></span></span></a>
-								<a class="social-icons" href="https://www.facebook.com/SkilltechWebDesign" target="_blank"><span><span class="icon-linkedin"></span></span></a>
-								<a class="social-icons" href="https://www.facebook.com/SkilltechWebDesign" target="_blank"><span><span class="icon-dribbble1"></span></span></a>
+								<a class="social-icons" href="#" target="_blank"><span><span class="icon-linkedin1"></span></span></a>
+								<a class="social-icons" href="#" target="_blank"><span><span class="icon-facebook1"></span></span></a>
+								<a class="social-icons" href="#" target="_blank"><span><span class="icon-twitter1"></span></span></a>
+								<a class="social-icons" href="#" target="_blank"><span><span class="icon-instagram1"></span></span></a>
 							</div>
 						</div>
 					</section>
