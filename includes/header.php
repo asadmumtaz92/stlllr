@@ -119,7 +119,7 @@
 							<a class="nav-link" href="page-news-item-classic.php"><span class="sk__menu-icon"><span class="icon-file-text-o"></span></span>Article - Classic</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="page-contact_us.php"><span class="sk__menu-icon"><span class="icon-envelope-o"></span></span>Contact Us</a>
+							<a class="nav-link" href="contact_us.php"><span class="sk__menu-icon"><span class="icon-envelope-o"></span></span>Contact Us</a>
 						</li>
 						<li class="nav-item">
 							<a class="nav-link" href="page-coming-soon.php"><span class="sk__menu-icon"><span class="icon-access_time"></span></span>Coming Soon</a>

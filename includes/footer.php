@@ -43,7 +43,7 @@
 								<a href="#" class="footer-main-links gradient-links">Other Services</a>
 							</li>
 							<li>
-								<a href="#" class="footer-main-links gradient-links">Contact Us</a>
+								<a href="contact_us.php" class="footer-main-links gradient-links">Contact Us</a>
 							</li>
 						</ul>
 					</div>
