@@ -44,7 +44,7 @@
 				<?php include_once("includes/our-focus.php") ?>
 
 				<!-- Contact Us Section -->
-				<?php include_once("includes/contact-us.php") ?>
+				<?php include_once("includes/contact_us.php") ?>
 
 				<!-- Footer Section -->
 				<?php include_once("includes/footer.php") ?>

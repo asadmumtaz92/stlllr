@@ -2,7 +2,6 @@
 
     echo '
         <section id="skills" class="sk__skills sk__py-m">
-
 			<div class="container sk__supercontainer">
 				<!-- Section Header -->
 				<div class="row sk__heading-spacer-l">
@@ -91,9 +90,7 @@
 						</div>
 					</div>
 				</div>
-
 			</div>
-
 		</section>
     ';
 ?>

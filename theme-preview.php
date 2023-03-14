@@ -569,7 +569,7 @@
 								</a>
 							</div>
 							<div class="col-12 col-sm-6 col-lg-4">
-								<a class="sk__imagebox" target="_blank" href="page-contact-us.php">
+								<a class="sk__imagebox" target="_blank" href="page-contact_us.php">
 									<img class="sk__imagebox-top-bar" src="assets/images/demos-thumbs-browser-bar-mockup.svg" alt="An illustration of a web browser top bar">
 									<div class="sk__imagebox-img-wrap">
 										<img class="sk__imagebox-img" src="assets/images/demo-thumb-page-11.webp" alt="Screenshot of the demo website">
