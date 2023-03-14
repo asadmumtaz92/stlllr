@@ -68,32 +68,7 @@
 						<li class="nav-item">
 							<a class="nav-link" href="home-parallax.php"><span class="sk__menu-icon"><span class="icon-object-group"></span></span>Ui/Ux Development</a>
 						</li>
-						<li class="nav-item">
-							<a class="nav-link" href="home-parallax-half-screens.php"><span class="sk__menu-icon"><span class="icon-object-ungroup"></span></span>Parallax Half-screens</a>
-						</li>
-						<li class="nav-item">
-							<a class="nav-link" href="home-mega-text-image.php"><span class="sk__menu-icon"><span class="icon-cc-jcb"></span></span>Mega Text (Image)</a>
-						</li>
-						<li class="nav-item">
-							<a class="nav-link" href="home-fullscreen-video.php"><span class="sk__menu-icon"><span class="icon-play-circle"></span></span>Full Screen Video</a>
-						</li>
-						<li class="nav-item">
-							<a class="nav-link" href="home-parallax-strips-hero.php"><span class="sk__menu-icon"><span class="icon-view_week"></span></span>Parallax Strips Hero</a>
-						</li>
-						<li class="nav-item">
-							<a class="nav-link" href="home-hero-slide-show.php"><span class="sk__menu-icon"><span class="icon-photo"></span></span>Hero Slide Show</a></li>
-						<li class="nav-item">
-							<a class="nav-link" href="home-animated-headline.php"><span class="sk__menu-icon"><span class="icon-play_arrow"></span></span>Animated Headline</a></li>
-						<li class="nav-item">
-							<a class="nav-link" href="home-hero-image.php"><span class="sk__menu-icon"><span class="icon-photo"></span></span>Hero Image</a></li>
-						<li class="nav-item">
-							<a class="nav-link" href="home-news.php"><span class="sk__menu-icon"><span class="icon-newspaper-o"></span></span>News Home</a></li>
-						<li class="nav-item">
-							<a class="nav-link" href="home-fullscreen-video-yt.php"><span class="sk__menu-icon"><span class="icon-youtube-play"></span></span>Full Screen Video (YT)</a>
-							</li>
-						<li class="nav-item">
-							<a class="nav-link" href="home-combo-light.php"><span class="sk__menu-icon"><span class="icon-codepen1"></span></span>Combo Slider (Light)</a>
-						</li>
+
 					</ul>
 				</li>
 
@@ -118,34 +93,7 @@
 							<a class="nav-link" href="page-portfolio-item.php"><span class="sk__menu-icon"><span class="icon-object-group"></span></span> Advertising Marketing</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="page-portfolio-item-classic-gallery.php"><span class="sk__menu-icon"><span class="icon-object-group"></span></span>Project - Logo Design</a>
-						</li>
-						<li class="nav-item">
-							<a class="nav-link" href="page-features.php"><span class="sk__menu-icon"><span class="icon-table2"></span></span>Features</a>
-						</li>
-						<li class="nav-item">
-							<a class="nav-link" href="page-news.php"><span class="sk__menu-icon"><span class="icon-list-alt"></span></span>News</a>
-						</li>
-						<li class="nav-item">
-							<a class="nav-link" href="page-news-item.php"><span class="sk__menu-icon"><span class="icon-file-text"></span></span>Article - Parallax Header</a>
-						</li>
-						<li class="nav-item">
-							<a class="nav-link" href="page-news-item-classic.php"><span class="sk__menu-icon"><span class="icon-file-text-o"></span></span>Article - Classic</a>
-						</li>
-						<li class="nav-item">
-							<a class="nav-link" href="contact_us.php"><span class="sk__menu-icon"><span class="icon-envelope-o"></span></span>Contact Us</a>
-						</li>
-						<li class="nav-item">
-							<a class="nav-link" href="page-coming-soon.php"><span class="sk__menu-icon"><span class="icon-access_time"></span></span>Coming Soon</a>
-						</li>
-						<li class="nav-item">
-							<a class="nav-link" href="page-404.php"><span class="sk__menu-icon"><span class="icon-warning"></span></span>404 Page</a>
-						</li>
-						<li class="nav-item">
-							<a class="nav-link" href="page-terms-and-conditions.php"><span class="sk__menu-icon"><span class="icon-library"></span></span>Terms and Conditions</a>
-						</li>
-						<li class="nav-item">
-							<a class="nav-link" href="page-privacy-policy.php"><span class="sk__menu-icon"><span class="icon-shield"></span></span>Privacy Policy</a>
+							<a class="nav-link" href="page-portfolio-item-classic-gallery.php"><span class="sk__menu-icon"><span class="icon-object-group"></span></span> Logo Design</a>
 						</li>
 					</ul>
 				</li>
