@@ -152,7 +152,7 @@
 				<!-- Project Parallax Gallery
 				================================================== -->
 				<section class="sk__project-gallery sk__parallax-chain">
-					<div class="container-fluid">
+					<div class= container>
 						<div class="row">
 							<div class="col-12 col-md-10 offset-md-1 text-center sk__heading-spacer-xl">
 								<h1 class="super-heading sk__clipped-text sk__gradient-back-v1"></span>Social Media Marketing.</span></h1>
