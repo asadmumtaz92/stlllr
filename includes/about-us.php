@@ -53,7 +53,7 @@
 				<div class="row row text-center text-sm-start">
 					<div class="col-12 col-lg-6 sk__flex about-button-col order-2 order-lg-1">
 						<div class="flex-child mb-3 mb-lg-0">
-							<a class="btn btn-outline-light mb-4" href="#" role="button">OPEN PROJECT</a>
+							<a class="btn btn-outline-light mb-4" href="#services" role="button">SERVICES</a>
 						</div>
 					</div>
 					<div class="col-12 col-lg-6 order-1 order-lg-2 mb-4 mb-lg-0">

@@ -64,7 +64,7 @@
 					<div class="sk__flex-center sk__absolute px-15px">
 						<div class="flex-child text-center">
 							<h1 class="super-heading sk__clipped-text sk__gradient-back-v1">A massive step forward.</h1>
-							<h2 class="h2-small">focus on your goals and exectute creativity infused massive leap in design to reach it</h2>
+							<h2 class="h2-small">focus on your goals and exectute creativity infused massive leap in design to reach it.</h2>
 						</div>
 					</div>
 				</div>

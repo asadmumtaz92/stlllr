@@ -106,17 +106,37 @@
 							</div>
 							<div class="col-xl-6 col-xxl-5 sk__project-body-info-col mt-4 mt-xl-0 pt-5 pt-xl-0 text-center text-sm-start">
 								<h4 class="animated-element">Quality standards we live up to</h4>
-								<p class="animated-element">Each site we make is made so in consistence with the most recent specialized web guidelines and, normally, it has an easy to understand site design. Simple to-utilize dropdown route, clear designs and other intuitive components.
-The benefits of recruiting a web organization are obvious. Your site is the main connection point for your clients. It is likewise the simplest and quickest method for creating new clients. Your site is your organization's distinguishing mark.
-On the off chance that your site is amateurish, contains show mistakes, or on the other hand assuming the specialized premise is obsolete and has significant blunders, this adversely affects the outcome of your venture. Website architecture costs are comprised of many variables. The plan is an extremely intricate task, so you ought to depend on an expert for the execution.<br /></p>
+								<p class="animated-element">
+									Each site we make is made so in consistence with the most recent 
+									specialized web guidelines and, normally, it has an easy to 
+									understand site design. Simple to-utilize dropdown route, clear 
+									designs and other intuitive components. The benefits of recruiting 
+									a web organization are obvious. Your site is the main connection 
+									point for your clients. It is likewise the simplest and quickest 
+									method for creating new clients. Your site is your organization's 
+									distinguishing mark. On the off chance that your site is amateurish, 
+									contains show mistakes, or on the other hand assuming the 
+									specialized premise is obsolete and has significant blunders, this 
+									adversely affects the outcome of your venture. Website architecture 
+									costs are comprised of many variables. The plan is an extremely 
+									intricate task, so you ought to depend on an expert for the 
+									execution.<br />
+								</p>
 								<div class="row">
 									<div class="col-12 col-sm-6">
 										<h5 class="animated-element">CODING</h5>
-										<p class="p-xs animated-element">Execution of your site project with improved classification engineering and expert programming coding for an ideal client experience</p>
+										<p class="p-xs animated-element">
+											Execution of your site project with improved classification engineering and 
+											expert programming coding for an ideal client experience.
+										</p>
 									</div>
 									<div class="col-12 col-sm-6">
 										<h5 class="animated-element">MAINTENANCE</h5>
-										<p class="p-xs animated-element">Normal upkeep through framework refreshes, safety efforts, content combination, include augmentations, association with commercial centers and considerably more!</p>
+										<p class="p-xs animated-element">
+											Normal upkeep through framework refreshes, safety efforts, content 
+											combination, include augmentations, association with commercial centers and 
+											considerably more!
+										</p>
 									</div>
 								</div>
 								<div class="row">
@@ -157,27 +177,34 @@ On the off chance that your site is amateurish, contains show mistakes, or on th
 							</div>
 
 							<div class="col-xl-6 col-xxl-6 sk__project-body-info-col mt-4 mt-xl-0 pt-5 pt-xl-0 text-center text-sm-start">
-								<h4 class="animated-element">Counsel from our organization</h4>
-								<p class="animated-element" style="padding: 20px 0px">
-								Conversation of your desires and objectives
-Ideas for development in light of our expertise
-Fixed value deal and timetable for execution
-Conversation of your desires and objectives
-Our most memorable counsel will tell you which choices we consider feasible for your organization and, what costs you could bring about. We will give you a free concise investigation comprising of your very own examination, the opposition available, the surviving potential and a figure of sensible objectives to accomplish and important measures to take.<br />
+								<h1 class="super-heading sk__clipped-text sk__gradient-back-v1 post-heading">Counsel from our organization</h1>
+								<p class="animated-element">
+									Conversation of your desires and objectives ideas for development 
+									in light of our expertise fixed value deal and timetable for execution 
+									conversation of your desires and objectives our most memorable counsel 
+									will tell you which choices we consider feasible for your organization 
+									and, what costs you could bring about. We will give you a free concise 
+									investigation comprising of your very own examination, the opposition 
+									available, the surviving potential and a figure of sensible objectives 
+									to accomplish and important measures to take.<br />
 								</p>
 							</div>
 						</div>
 
-
-						<hr style="height: 0.5px; background: rgba(255,255,255,0.13);">
+						<hr style="height: 0.5px; background: rgba(255,255,255,0.13);margin-top:20px">
 						<div class="row" style="margin-top:120px">
 							<div class="col-xl-6 col-xxl-6 sk__project-body-info-col mt-4 mt-xl-0 pt-5 pt-xl-0 text-center text-sm-start">
-								<h4 class="animated-element">Simple to-utilize and CMS required objective setting</h4>
-								<p class="animated-element" style="text-align: justify">
-								Content administration framework
-Simple self-organization
-Exhortation included
-Our sites are all evolved based on easy to understand and get content administration frameworks (CMS, Wordpress, Drupal).You can undoubtedly deal with these yourself (just changing texts and images).The most recent web norms which we use to make your site, for example, HTLM5 and CSS3 structure the essential design of your site during improvement and guarantee that you are future-proof.Additional special visualizations, for example, Javascript and PHP can be coordinated whenever.<br />
+								<h4 class="super-heading sk__clipped-text sk__gradient-back-v1 post-heading">Simple to-utilize and CMS required objective setting</h4>
+								<p class="animated-element">
+									Content administration framework simple self-organization exhortation 
+									included our sites are all evolved based on easy to understand and get 
+									content administration frameworks (CMS, Wordpress, Drupal).You can 
+									undoubtedly deal with these yourself (just changing texts and images).
+									The most recent web norms which we use to make your site, for example, 
+									HTLM5 and CSS3 structure the essential design of your site during 
+									improvement and guarantee that you are future-proof.Additional special 
+									visualizations, for example, Javascript and PHP can be coordinated 
+									whenever.<br />
 								</p>
 							</div>
 

@@ -156,8 +156,18 @@
 							</div>
 						<div class="col-xl-6 col-xxl-6 sk__project-body-info-col mt-4 mt-xl-0 pt-5 pt-xl-0 text-center text-sm-start">
 								<h4 class="animated-element">Ability and Experience</h4>
-								<p class="animated-element" style="padding: 20px 0px">
-								As an expert improvement organization we have the skill and experience expected to fabricate a great, very much planned application that addresses the issues of the client. We have a group of gifted designers who are capable in the most recent innovations and structures, and we can give significant bits of knowledge and direction all through the improvement cycle. As an expert office we can assist you with redoing your application to meet your particular necessities and objectives. We work with you to comprehend your business and plan an application that is custom-made to your ideal interest group and wanted highlights.<br />
+								<p class="animated-element" >
+									As an expert improvement organization we have the skill and 
+									experience expected to fabricate a great, very much planned 
+									application that addresses the issues of the client. We 
+									have a group of gifted designers who are capable in the most 
+									recent innovations and structures, and we can give significant 
+									bits of knowledge and direction all through the improvement 
+									cycle. As an expert office we can assist you with redoing your 
+									application to meet your particular necessities and objectives. 
+									We work with you to comprehend your business and plan an 
+									application that is custom-made to your ideal interest group and 
+									wanted highlights.<br />
                                 </p>
                            </div>
                       </div>
@@ -166,7 +176,19 @@
 							<div class="col-xl-6 col-xxl-6 sk__project-body-info-col mt-4 mt-xl-0 pt-5 pt-xl-0 text-center text-sm-start">
 								<h4 class="animated-element">Quality guidelines we satisfy</h4>
 								<p class="animated-element" style="text-align: justify">
-								Each website we make is made so in consistence with the latest particular web rules and, ordinarily, it has a straightforward webpage plan. Easy to-use ropdown course, clear plans and other natural parts. The advantages of enlisting a web association are self-evident. Your site is the primary association point for your clients. It is similarly the easiest and speediest strategy for making new clients. Your site is your association's distinctive imprint. If your site is unprofessional, contains show botches, then again accepting the particular reason is outdated and has critical bungles, this unfavorably influences the result of your endeavor. Site design costs are contained numerous factors. The arrangement is a very complex undertaking, so you should rely upon a specialist for the execution.<br />
+									Each website we make is made so in consistence with the latest 
+									particular web rules and, ordinarily, it has a straightforward 
+									webpage plan. Easy to-use ropdown course, clear plans and other 
+									natural parts. The advantages of enlisting a web association are 
+									self-evident. Your site is the primary association point for your 
+									clients. It is similarly the easiest and speediest strategy for 
+									making new clients. Your site is your association's distinctive 
+									imprint. If your site is unprofessional, contains show botches, 
+									then again accepting the particular reason is outdated and has 
+									critical bungles, this unfavorably influences the result of your 
+									endeavor. Site design costs are contained numerous factors. The 
+									arrangement is a very complex undertaking, so you should rely upon 
+									a specialist for the execution.<br />
 								</p>
 						    </div>
 							<div class="col-xl-6 col-xxl-6 sk__project-body-image-col">

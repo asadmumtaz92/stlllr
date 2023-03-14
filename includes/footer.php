@@ -31,7 +31,7 @@
 					</div>
 
 					<div class="col-sm-12 col-md-6 col-lg-4 footer-main-small-col widget_nav_menu">
-						<h5>StlllR Web</h5>
+						<h5>Page Navigation</h5>
 						<ul>
 							<li>
 								<a href="index.php" class="footer-main-links gradient-links">Home</a>

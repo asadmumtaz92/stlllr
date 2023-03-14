@@ -30,7 +30,6 @@
 				<img id="sk__main-logo" alt="Website logo." src="assets/logo/logo_white.png">
 			</a>
 
-
 			<!-- The Menu -->
 			<ul class="navbar-nav ms-auto">
 
@@ -46,7 +45,7 @@
 						<span class="icon-home"></span></span>Home
 					</a>
 				</li>
-				
+
 				<!-- Regular Menu Items Start -->
 				<li class="nav-item menu-item-has-children">
 					<a class="nav-link hvr-underline-from-center" href="#">
@@ -54,21 +53,20 @@
 					</a>
 					<ul class="sk__submenu-ul">
 						<li class="nav-item">
-							<a class="nav-link active" href="index.php"><span class="sk__menu-icon"><span class="icon-user-circle"></span></span>Wordpress Development</a><
-						/li>
-						<li class="nav-item">
-							<a class="nav-link" href="home-portfolio.php"><span class="sk__menu-icon"><span class="icon-th"></span></span>Mobile App Developments</a>
+							<a class="nav-link active" href="wordpress_services.php"><span class="sk__menu-icon"><span class="icon-wordpress1"></span></span>Wordpress Development</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="home-morphing-hover-hero-image.php"><span class="sk__menu-icon"><span class="icon-codepen1"></span></span>Admin Panel development</a>
+							<a class="nav-link" href="mobile_app_development.php"><span class="sk__menu-icon"><span class="icon-mobile"></span></span>Mobile App Development</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="home-mega-text-video.php"><span class="sk__menu-icon"><span class="icon-th"></span></span>API Development</a><
-						/li>
-						<li class="nav-item">
-							<a class="nav-link" href="home-parallax.php"><span class="sk__menu-icon"><span class="icon-object-group"></span></span>Ui/Ux Development</a>
+							<a class="nav-link" href="adminpanel_services.php"><span class="sk__menu-icon"><span class="icon-laptop"></span></span>Admin Panel Development</a>
 						</li>
-
+						<li class="nav-item">
+							<a class="nav-link" href="#api_services.php"><span class="sk__menu-icon"><span class="icon-th"></span></span>API Development</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="uiux_services.php"><span class="sk__menu-icon"><span class="icon-object-group"></span></span>UI/UX Development</a>
+						</li>
 					</ul>
 				</li>
 
@@ -307,7 +305,6 @@
 						</div>
 					</section>
 				</li>
-
 			</ul>
 		</nav>
 		<!-- /.sk__menu -->
