@@ -69,7 +69,7 @@
 						<div class="row text-center">
 							<div class="col-12">
 								<h1 class="h1-small">Let's <strong>Connect</strong></h1>
-								<p class="p-v2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris.</p>
+								<p class="p-v2">Begin a discussion about new tasks, business open doors, or tech counseling</p>
 							</div>
 						</div>
 					</div>
@@ -85,7 +85,7 @@
 							<div class="col-12 col-md-6 d-flex text-center text-sm-start mb-4 mb-md-0">
 								<div class="sk__contact-left">
 									<h5>Our office <strong>info</strong></h5>
-									<p class="p-v2"><span>1000 Park Avenue Manhattan, </span><span>NY 10001, </span><span>+1 (0) 212 555-0475 </span><span>info@website.com</span></p>
+									<p class="p-v2"><span>Al-Hussain Arcade, Office # 04 Sector G, Bahria Enclave Islamabad, Pakistan </span><span></span><span> +92 333 8444015 </span><span> support@stlllr.com</span></p>
 								</div>
 							</div>
 							<div class="col-12 col-md-6 d-flex">

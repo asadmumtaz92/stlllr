@@ -54,19 +54,19 @@
 					</a>
 					<ul class="sk__submenu-ul">
 						<li class="nav-item">
-							<a class="nav-link active" href="index.php"><span class="sk__menu-icon"><span class="icon-codepen1"></span></span>Combo Slider (<em>default</em>)</a><
+							<a class="nav-link active" href="index.php"><span class="sk__menu-icon"><span class="icon-user-circle"></span></span>Wordpress Development</a><
 						/li>
 						<li class="nav-item">
-							<a class="nav-link" href="home-portfolio.php"><span class="sk__menu-icon"><span class="icon-th"></span></span>Portfolio Home</a>
+							<a class="nav-link" href="home-portfolio.php"><span class="sk__menu-icon"><span class="icon-th"></span></span>Mobile App Developments</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="home-morphing-hover-hero-image.php"><span class="sk__menu-icon"><span class="icon-star"></span></span>Morphing Hover Hero</a>
+							<a class="nav-link" href="home-morphing-hover-hero-image.php"><span class="sk__menu-icon"><span class="icon-codepen1"></span></span>Admin Panel development</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="home-mega-text-video.php"><span class="sk__menu-icon"><span class="icon-cc-jcb"></span></span>Mega Text (Video)</a><
+							<a class="nav-link" href="home-mega-text-video.php"><span class="sk__menu-icon"><span class="icon-th"></span></span>API Development</a><
 						/li>
 						<li class="nav-item">
-							<a class="nav-link" href="home-parallax.php"><span class="sk__menu-icon"><span class="icon-clone"></span></span>Parallax Home</a>
+							<a class="nav-link" href="home-parallax.php"><span class="sk__menu-icon"><span class="icon-object-group"></span></span>Ui/Ux Development</a>
 						</li>
 						<li class="nav-item">
 							<a class="nav-link" href="home-parallax-half-screens.php"><span class="sk__menu-icon"><span class="icon-object-ungroup"></span></span>Parallax Half-screens</a>
@@ -103,22 +103,22 @@
 					</a>
 					<ul class="sk__submenu-ul">
 						<li class="nav-item">
-							<a class="nav-link" href="page-about-us.php"><span class="sk__menu-icon"><span class="icon-user-circle"></span></span>About Us</a>
+							<a class="nav-link" href="page-about-us.php"><span class="sk__menu-icon"><span class="icon-user-circle"></span></span>SEO</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="page-services.php"><span class="sk__menu-icon"><span class="icon-th"></span></span>Services</a>
+							<a class="nav-link" href="page-services.php"><span class="sk__menu-icon"><span class="icon-th"></span></span>E-Commerce</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="page-service-item.php"><span class="sk__menu-icon"><span class="icon-codepen1"></span></span>Service or Product</a>
+							<a class="nav-link" href="page-service-item.php"><span class="sk__menu-icon"><span class="icon-codepen1"></span></span>Social Media</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="page-portfolio.php"><span class="sk__menu-icon"><span class="icon-th"></span></span>Portfolio</a>
+							<a class="nav-link" href="page-portfolio.php"><span class="sk__menu-icon"><span class="icon-th"></span></span>Website Content</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="page-portfolio-item.php"><span class="sk__menu-icon"><span class="icon-object-group"></span></span>Project - Parallax Gallery</a>
+							<a class="nav-link" href="page-portfolio-item.php"><span class="sk__menu-icon"><span class="icon-object-group"></span></span> Advertising Marketing</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="page-portfolio-item-classic-gallery.php"><span class="sk__menu-icon"><span class="icon-photo"></span></span>Project - Classic Gallery</a>
+							<a class="nav-link" href="page-portfolio-item-classic-gallery.php"><span class="sk__menu-icon"><span class="icon-object-group"></span></span>Project - Logo Design</a>
 						</li>
 						<li class="nav-item">
 							<a class="nav-link" href="page-features.php"><span class="sk__menu-icon"><span class="icon-table2"></span></span>Features</a>
